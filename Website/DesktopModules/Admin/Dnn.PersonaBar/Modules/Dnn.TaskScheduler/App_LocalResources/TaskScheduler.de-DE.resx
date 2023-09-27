@@ -1,0 +1,471 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ControlTitle_history.Text">
+    <value>Zeitplan-Historie</value>
+  </data>
+  <data name="Description.Header">
+    <value>Beschreibung</value>
+  </data>
+  <data name="Ended.Header">
+    <value>beendet</value>
+  </data>
+  <data name="Server.Header">
+    <value>Ausgeführt auf Server</value>
+  </data>
+  <data name="Start.Header">
+    <value>Start/Ende/Nächste</value>
+  </data>
+  <data name="Start/End/Next Start.Header">
+    <value>Start/Ende/Nächster Start</value>
+  </data>
+  <data name="Succeeded.Header">
+    <value>erfolgt</value>
+  </data>
+  <data name="cmdStart.Text">
+    <value>Start</value>
+  </data>
+  <data name="cmdStop.Text">
+    <value>Ende</value>
+  </data>
+  <data name="ControlTitle_status.Text">
+    <value>Zeitplaner-Status</value>
+  </data>
+  <data name="DisabledMessage.Text">
+    <value>Der Zeitplandienst ist zur Zeit deaktiviert</value>
+  </data>
+  <data name="Duration.Header">
+    <value>Dauer (Sekunden)</value>
+  </data>
+  <data name="lblActiveThreadsLabel.Text">
+    <value>Aktive Jobs:</value>
+  </data>
+  <data name="lblCommand.Text">
+    <value>Befehl:</value>
+  </data>
+  <data name="lblFreeThreadsLabel.Text">
+    <value>Freie Treads:</value>
+  </data>
+  <data name="lblMaxThreadsLabel.Text">
+    <value>max. Thread-Zahl:</value>
+  </data>
+  <data name="lblProcessing.Text">
+    <value>Einträge werden verarbeitet</value>
+  </data>
+  <data name="lblQueue.Text">
+    <value>wartende Einträge</value>
+  </data>
+  <data name="lblStatusLabel.Text">
+    <value>Aktueller Status:</value>
+  </data>
+  <data name="ManuallyStopped.Text">
+    <value>Manuell auf der Statusseite des Zeitplaners gestoppt.</value>
+  </data>
+  <data name="NoTasks.Text">
+    <value>Es gibt keine Aufgaben in der Warteschlange und keine Aufgaben werden zur Zeit bearbeitet.</value>
+  </data>
+  <data name="Notes.Header">
+    <value>Hinweise</value>
+  </data>
+  <data name="ObjectDependencies.Header">
+    <value>Objektabhängigkeiten</value>
+  </data>
+  <data name="Overdue.Header">
+    <value>überfällig (Sekunden)</value>
+  </data>
+  <data name="ScheduleID.Header">
+    <value>ID</value>
+  </data>
+  <data name="Servers.Header">
+    <value>Server</value>
+  </data>
+  <data name="Started.Header">
+    <value>begonnen</value>
+  </data>
+  <data name="Stop.Header">
+    <value>Ende</value>
+  </data>
+  <data name="Thread.Header">
+    <value>Thread</value>
+  </data>
+  <data name="TimeRemaining.Header">
+    <value>verbleibende Zeit (Sekunden)</value>
+  </data>
+  <data name="TriggeredBy.Header">
+    <value>angestoßen durch</value>
+  </data>
+  <data name="AddContent.Action">
+    <value>Eintrag zum Zeitplaner hinzufügen</value>
+  </data>
+  <data name="ControlTitle_.Text">
+    <value>Zeitplandienst</value>
+  </data>
+  <data name="Day.Text">
+    <value>Tag</value>
+  </data>
+  <data name="Disabled.Text">
+    <value>deaktiviert</value>
+  </data>
+  <data name="Enabled.Header">
+    <value>aktiviert</value>
+  </data>
+  <data name="Frequency.Header">
+    <value>Frequenz</value>
+  </data>
+  <data name="History.Text">
+    <value>Historie anzeigen</value>
+  </data>
+  <data name="Hour.Text">
+    <value>Stunde</value>
+  </data>
+  <data name="lnkHistory.Text">
+    <value>Historie</value>
+  </data>
+  <data name="Minute.Text">
+    <value>Minute</value>
+  </data>
+  <data name="n/a.Text">
+    <value>nicht verfügbar</value>
+  </data>
+  <data name="Name.Header">
+    <value>Name</value>
+  </data>
+  <data name="NextStart.Header">
+    <value>nächste Ausführung</value>
+  </data>
+  <data name="plScheduleAppStartDelay.Help">
+    <value>Geben Sie an, wie viele Minuten das System nach einem Neustart warten soll, bevor der erste geplante Job ausgeführt wird. Der Standardwert ist 1 Min.</value>
+  </data>
+  <data name="plScheduleAppStartDelay.Text">
+    <value>Verzögerung nach Systemstart:</value>
+  </data>
+  <data name="plSchedulerMode.Help">
+    <value>Die zeitgesteuerte Methode verwendet einen speziellen Tread, um die geplanten Aufgaben auszuführen, solange der Worker Prozess aktiv ist, während die abfragebasierte Methode bei jedem HTTP-Aufruf ausgeführt wird. Sie können den Zeitplandienst auch vollständig deaktivieren.</value>
+  </data>
+  <data name="plSchedulerMode.Text">
+    <value>Modus des Zeitplandiensts:</value>
+  </data>
+  <data name="RequestMethod.Text">
+    <value>Abreage-Methode</value>
+  </data>
+  <data name="RetryTimeLapse.Header">
+    <value>Zeitablauf erneut starten</value>
+  </data>
+  <data name="ScheduleAppStartDelayValidation.Text">
+    <value>Geben Sie einen Wert in Minuten an!</value>
+  </data>
+  <data name="Settings.Text">
+    <value>Einstellungen</value>
+  </data>
+  <data name="Status.Text">
+    <value>Status anzeigen</value>
+  </data>
+  <data name="TimeLapsePrefix.Text">
+    <value>alle</value>
+  </data>
+  <data name="TimerMethod.Text">
+    <value>nach Zeitplan</value>
+  </data>
+  <data name="Type.Header">
+    <value>Typ</value>
+  </data>
+  <data name="ViewLog.Header">
+    <value>Protokoll</value>
+  </data>
+  <data name="APPLICATION_START.Text">
+    <value>APPLICATION_START</value>
+  </data>
+  <data name="cmdRun.Text">
+    <value>jetzt ausführen</value>
+  </data>
+  <data name="ContentOptions.Action">
+    <value>Zeitplanerstatus anzeigen</value>
+  </data>
+  <data name="ControlTitle_edit.Text">
+    <value>Zeitplan bearbeiten</value>
+  </data>
+  <data name="Days.Text">
+    <value>Tage</value>
+  </data>
+  <data name="DeleteSuccess.Text">
+    <value>Der Zeitplanauftrag wurde gelöscht.</value>
+  </data>
+  <data name="Hours.Text">
+    <value>Stunden</value>
+  </data>
+  <data name="InvalidFrequencyAndRetry.Text">
+    <value>Die Werte für Intervall und Wiederhol-Intervall sind ungültig, da die Widerholdauer die Intervalldauer übersteigt.</value>
+  </data>
+  <data name="Minutes.Text">
+    <value>Minuten</value>
+  </data>
+  <data name="ModuleHelp.Text">
+    <value>&lt;h1&gt;Zeitplandienst&lt;/h1&gt;&lt;p&gt;Systembetreuer können hier regelmäßig laufende Hintergrundaufträge planen und deren Ausführung überprüfen&lt;/p&gt;</value>
+  </data>
+  <data name="Months.Text">
+    <value>Monate</value>
+  </data>
+  <data name="None.Text">
+    <value>kein</value>
+  </data>
+  <data name="plAttachToEvent.Help">
+    <value>Beispiel: Wählen Sie "Anwendungsstart", um diese Aufgabe auszuführen, wenn das Web startet. Bitte beachten Sie, dass ANWENDUNGS_ENDE auf manchen Servern nicht zuverlässig ausgeführt wird.</value>
+  </data>
+  <data name="plAttachToEvent.Text">
+    <value>ausführen bei Ereignis</value>
+  </data>
+  <data name="plCatchUpEnabled.Help">
+    <value>Wenn die Option aktiv ist, wird nach einer Inaktivität der Website dieses Ereignis für jede ausgefallene Ausführung nachgeholt.</value>
+  </data>
+  <data name="plCatchUpEnabled.Text">
+    <value>"Aufholen" aktiv</value>
+  </data>
+  <data name="plEnabled.Help">
+    <value>Aktivieren Sie hier den Zeitplandienst.</value>
+  </data>
+  <data name="plEnabled.Text">
+    <value>Zeitplaner aktiviert:</value>
+  </data>
+  <data name="plFriendlyName.Help">
+    <value>Geben Sie einen Namen für den geplanten Job an.</value>
+  </data>
+  <data name="plFriendlyName.Text">
+    <value>Anzeigename:</value>
+  </data>
+  <data name="plObjectDependencies.Help">
+    <value>Geben Sie die Tabellen oder anderen Objekte an, von denen dieses Ereignis abhängt, z.B: "Users,UsersOnline"</value>
+  </data>
+  <data name="plObjectDependencies.Text">
+    <value>Objektabhängigkeiten:</value>
+  </data>
+  <data name="plRetainHistoryNum.Help">
+    <value>Wählen die Sie Anzahl der neuesten Einträge, die im Ausführungsprotokoll aufbewahrt werden sollen.</value>
+  </data>
+  <data name="plRetainHistoryNum.Text">
+    <value>Zeitplanhistorie aufbewahren:</value>
+  </data>
+  <data name="plRetryTimeLapse.Help">
+    <value>Wählen Sie die Dauer, nach der der Auftrag nach einem Fehlschlag wiederholt werden soll.</value>
+  </data>
+  <data name="plRetryTimeLapse.Text">
+    <value>Wiederholintervall:</value>
+  </data>
+  <data name="plScheduleStartDate.Help">
+    <value>Geben Sie Startzeitpunkt des geplanten Jobs an. Hinweis: falls die Anwendung zu diesem Zeitpunkt nicht aktiv ist oder einen anderen Job ausführt, wird die Ausführung verzögert, bis sie möglich ist.</value>
+  </data>
+  <data name="plScheduleStartDate.Text">
+    <value>Startzeitpunkt des Zeitplans</value>
+  </data>
+  <data name="plServers.Help">
+    <value>Wählen Sie die Webserver, auf denen dieser Job laufen soll. Lassen Sie das Feld leer, um es auf allen Servern auszuführen.</value>
+  </data>
+  <data name="plServers.Text">
+    <value>Auf Servern ausführen:</value>
+  </data>
+  <data name="plTimeLapse.Help">
+    <value>Wählen Sie die Frequenz für die Ausführung des Auftrags.</value>
+  </data>
+  <data name="plTimeLapse.Text">
+    <value>Zeitablauf</value>
+  </data>
+  <data name="plType.Help">
+    <value>Dies ist der vollständige Klassenname, gefolgt vom Namen der Assembly. Beispiel: "DotNetNuke.Entities.Users.PurgeUsersOnline, DOTNETNUKE"</value>
+  </data>
+  <data name="plType.Text">
+    <value>Vollständiger Klassenname und ausführbare Datei</value>
+  </data>
+  <data name="RetryTimeLapseValidator.ErrorMessage">
+    <value>Das Wiederholintervall muss zwischen 1 und 999999 liegen.</value>
+  </data>
+  <data name="RunNow.Text">
+    <value>Der Eintrag wurde dem Zeitplandienst zur sofortigen Ausführung hinzugefügt.</value>
+  </data>
+  <data name="ScheduleHistory.Action">
+    <value>Zeitplanhistorie anzeigen</value>
+  </data>
+  <data name="Seconds.Text">
+    <value>Sekunden</value>
+  </data>
+  <data name="TimeLapseRequired.ErrorMessage">
+    <value>Sie müssen das Intervall festlegen.</value>
+  </data>
+  <data name="TimeLapseValidator.ErrorMessage">
+    <value>Das Intervall muss zwischen 1 und 999999 liegen.</value>
+  </data>
+  <data name="TypeRequired.Text">
+    <value>Sie müssen den Typ den Zeitplaner-Jobs angeben.</value>
+  </data>
+  <data name="UpdateSuccess.Text">
+    <value>Ihre Änderungen wurden gespeichert.</value>
+  </data>
+  <data name="Weeks.Text">
+    <value>Wochen</value>
+  </data>
+  <data name="Years.Text">
+    <value>Jahre</value>
+  </data>
+  <data name="All.Text">
+    <value>alle</value>
+  </data>
+  <data name="Cancel.Text">
+    <value>abbrechen</value>
+  </data>
+  <data name="cmdAddTask.Text">
+    <value>Job hinzufügen</value>
+  </data>
+  <data name="cmdDelete.Text">
+    <value>löschen</value>
+  </data>
+  <data name="cmdSave.Text">
+    <value>speichern</value>
+  </data>
+  <data name="DeleteError.Text">
+    <value>Der Zeitplan-Job konnte nicht gelöscht werden, bitte versuchen Sie es später erneut.</value>
+  </data>
+  <data name="DescriptionColumn.Text">
+    <value>Beschreibung</value>
+  </data>
+  <data name="DurationColumn.Text">
+    <value>Dauer (Sek.)</value>
+  </data>
+  <data name="Enabled.Label">
+    <value>aktiviert</value>
+  </data>
+  <data name="HistoryModalTitle.Text">
+    <value>Ausführungsprotokoll: </value>
+  </data>
+  <data name="lblStartDelay.Text">
+    <value>Startverzögerung (Mins):</value>
+  </data>
+  <data name="nav_TaskScheduler.Text">
+    <value>Zeitplandienst</value>
+  </data>
+  <data name="NextStart.Label">
+    <value>Nächste Ausführung</value>
+  </data>
+  <data name="No.Text">
+    <value>nein</value>
+  </data>
+  <data name="NOT_SET.Text">
+    <value>nicht gesetzt</value>
+  </data>
+  <data name="pagerSummary.Text">
+    <value>zeigt {0} - {1} von {2} Ergebnissen</value>
+  </data>
+  <data name="pageSizeOption.Text">
+    <value>{0} Ergebnisse je Seite</value>
+  </data>
+  <data name="processing.Text">
+    <value>wird verarbeitet ...</value>
+  </data>
+  <data name="RanOnServerColumn.Text">
+    <value>Lief auf Server</value>
+  </data>
+  <data name="RUNNING_EVENT_SCHEDULE.Text">
+    <value>Ausführen nach Ereignis</value>
+  </data>
+  <data name="RUNNING_REQUEST_SCHEDULE.Text">
+    <value>Ausführen nach Seitenaufruf</value>
+  </data>
+  <data name="RUNNING_TIMER_SCHEDULE.Text">
+    <value>Ausführen nach Zeitplan</value>
+  </data>
+  <data name="RunNowError.Text">
+    <value>Der Eintrag konnte nicht erstellt werden, bitte versuchen Sie es später erneut</value>
+  </data>
+  <data name="ScheduleItemCreateError.Text">
+    <value>Der Zeitplaneintrag konnte nicht erstellt werden, bitte versuchen Sie es später erneut</value>
+  </data>
+  <data name="ScheduleItemCreateSuccess.Text">
+    <value>Der Zeitplaneintrag wurde erstellt.</value>
+  </data>
+  <data name="ScheduleItemDeletedWarning.Text">
+    <value>Sind Sie sicher, dass Sie diesen Job löschen wollen?</value>
+  </data>
+  <data name="ScheduleItemUpdateError.Text">
+    <value>Der Zeitplan konnte nicht aktualisiert werden, bitte versuchen Sie es später erneut.</value>
+  </data>
+  <data name="ScheduleItemUpdateSuccess.Text">
+    <value>Der Zeitplan-Job wurde aktualisiert.</value>
+  </data>
+  <data name="SchedulerStartError.Text">
+    <value>Der Zeitplandienst konnte nicht gestartet werden, bitte versuchen Sie es später erneut.</value>
+  </data>
+  <data name="SchedulerStartSuccess.Text">
+    <value>Der Zeitplandienst wurde gestartet.</value>
+  </data>
+  <data name="SchedulerStopError.Text">
+    <value>Der Zeitplandienst konnte nicht angehalten werden. Bitte versuchen Sie es später erneut.</value>
+  </data>
+  <data name="SchedulerStopSuccess.Text">
+    <value>Der Zeitplandienst wurde angehalten.</value>
+  </data>
+  <data name="SchedulerUpdateError.Text">
+    <value>Die Einstellungen für den Zeitplandienst konnten nicht gespeichert werden, bitte versuchen Sie es später erneut.</value>
+  </data>
+  <data name="SchedulerUpdateSuccess.Text">
+    <value>Die Einstellungen für den Zeitplandienst wurden aktualisiert.</value>
+  </data>
+  <data name="ServerTime.Text">
+    <value>Serverzeit:</value>
+  </data>
+  <data name="SettingsRestoreWarning.Text">
+    <value>Sind Sie sicher, dass Sie Ihre Änderungen nicht speichern wollen?</value>
+  </data>
+  <data name="SHUTTING_DOWN.Text">
+    <value>fährt herunter</value>
+  </data>
+  <data name="StartEndColumn.Text">
+    <value>Start/Ende</value>
+  </data>
+  <data name="StartSchedule.Text">
+    <value>Zeitplandienst starten</value>
+  </data>
+  <data name="STOPPED.Text">
+    <value>angehalten</value>
+  </data>
+  <data name="StopSchedule.Text">
+    <value>Zeitplandienst anhalten</value>
+  </data>
+  <data name="SucceededColumn.Text">
+    <value>erfolgreich</value>
+  </data>
+  <data name="TabHistory.Text">
+    <value>Protokoll</value>
+  </data>
+  <data name="TabHistoryTitle.Text">
+    <value>Ausführungsprotokoll</value>
+  </data>
+  <data name="TabScheduler.Text">
+    <value>Zeitplandienst</value>
+  </data>
+  <data name="TabTaskQueue.Text">
+    <value>Warteschlange</value>
+  </data>
+  <data name="Update.Text">
+    <value>speichern</value>
+  </data>
+  <data name="WAITING_FOR_OPEN_THREAD.Text">
+    <value>Auf offenen Thread warten</value>
+  </data>
+  <data name="WAITING_FOR_REQUEST.Text">
+    <value>Auf Abfrage warten</value>
+  </data>
+  <data name="Yes.Text">
+    <value>ja</value>
+  </data>
+  <data name="Servers.Text">
+    <value>Server</value>
+  </data>
+</root>

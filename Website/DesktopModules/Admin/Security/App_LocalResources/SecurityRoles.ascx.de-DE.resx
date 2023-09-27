@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AddRole.Text">
+    <value xml:space="preserve">Benutzer einer Gruppe zuordnen</value>
+  </data>
+  <data name="AddUser.Text">
+    <value xml:space="preserve">Benutzer der Gruppe zuordnen</value>
+  </data>
+  <data name="cmdAdd.Text">
+    <value xml:space="preserve">Benutzergruppe hinzufügen</value>
+  </data>
+  <data name="cmdValidate.Text">
+    <value xml:space="preserve">validieren</value>
+  </data>
+  <data name="ControlTitle_user roles.Text">
+    <value xml:space="preserve">Benutzergruppen</value>
+  </data>
+  <data name="DeleteRoleFromUser.Text">
+    <value xml:space="preserve">Sind Sie sicher, dass Sie '{0}' aus der Benutzergruppe '{1}' austragen wollen?</value>
+  </data>
+  <data name="DeleteUsersFromRole.Text">
+    <value xml:space="preserve">Sind Sie sicher, dass Sie '{0}' aus der Benutzergruppe '{1}' austragen wollen?</value>
+  </data>
+  <data name="EffectiveDate.Header">
+    <value xml:space="preserve">Gültigkeitsdatum</value>
+  </data>
+  <data name="ExpiryDate.Header">
+    <value xml:space="preserve">Ablaufdatum</value>
+  </data>
+  <data name="IsOwner.Header">
+    <value xml:space="preserve">Besitzer</value>
+  </data>
+  <data name="lblIsOwner.Help">
+    <value xml:space="preserve">Fügen Sie diesen Benutzer den Besitzern der Gruppe hinzu.</value>
+  </data>
+  <data name="lblIsOwner.Text">
+    <value xml:space="preserve">Besitzer</value>
+  </data>
+  <data name="ModuleHelp.Text">
+    <value xml:space="preserve">&lt;h1&gt;Benutzergruppen&lt;/h&gt;
+&lt;p&gt;Website-Verwalter können hier für ihre Website individuelle Benutzergruppe anlegen, die die Berechtigungen steuern und weitere Dienste verwalten. Sie können hier auch die gewünschten Benutzer den Gruppen zuordnen.&lt;/p&gt;</value>
+  </data>
+  <data name="NotAuthorized.Text">
+    <value xml:space="preserve">Sie sind nicht berechtigt, diese Benutzergruppe zu bearbeiten.</value>
+  </data>
+  <data name="plEffectiveDate.Help">
+    <value xml:space="preserve">Geben Sie bei Bedarf das Datum an, an dem diese Gruppenmitgliedschaft starten soll. Wenn das Feld leer ist, beginnt die Gruppenmitgliedschaft sofort.</value>
+  </data>
+  <data name="plEffectiveDate.Text">
+    <value xml:space="preserve">Gültigkeitsdatum</value>
+  </data>
+  <data name="plExpiryDate.Help">
+    <value xml:space="preserve">Geben Sie bei Bedarf das Datum an, an dem diese Gruppenmitgliedschaft auslaufen soll. Wenn das Feld leer ist, läuft die Gruppenmitgliedschaft nicht aus.</value>
+  </data>
+  <data name="plExpiryDate.Text">
+    <value xml:space="preserve">Ablaufdatum</value>
+  </data>
+  <data name="plRoles.Help">
+    <value xml:space="preserve">Wählen Sie die Benutzergruppe</value>
+  </data>
+  <data name="plRoles.Text">
+    <value xml:space="preserve">Benutzergruppe</value>
+  </data>
+  <data name="plUsers.Help">
+    <value xml:space="preserve">Geben Sie den Benutzernamen an und klicken Sie zur Bestätigung auf "validieren"</value>
+  </data>
+  <data name="plUsers.Text">
+    <value xml:space="preserve">Benutzername</value>
+  </data>
+  <data name="RoleRemoveError.Text">
+    <value xml:space="preserve">Sie können die Benutzergruppen "Administratoren" und "Registrierte Benutzer" nicht löschen</value>
+  </data>
+  <data name="RoleTitle.Text">
+    <value xml:space="preserve">Benutzer verwalten in Gruppe: {0}</value>
+  </data>
+  <data name="SecurityRole.Header">
+    <value xml:space="preserve">Benutzergruppe</value>
+  </data>
+  <data name="SendNotification.Text">
+    <value xml:space="preserve">Per E-Mail benachrichtigen:</value>
+  </data>
+  <data name="UpdateRole.Text">
+    <value xml:space="preserve">Zuordnung zu Benutzergruppen aktualisieren</value>
+  </data>
+  <data name="UserName.Header">
+    <value xml:space="preserve">Benutzername</value>
+  </data>
+  <data name="UserTitle.Text">
+    <value xml:space="preserve">Gruppen verwalten für Benutzer: {0}</value>
+  </data>
+  <data name="valDates.Text">
+    <value xml:space="preserve">Das Ablaufdatum muss nach dem Startdatum liegen</value>
+  </data>
+  <data name="valEffectiveDate.Text">
+    <value xml:space="preserve">Das Gültigkeitsdatum ist nicht korrekt</value>
+  </data>
+  <data name="valExpiryDate.Text">
+    <value xml:space="preserve">Ungültiges Ablaufdatum</value>
+  </data>
+</root>

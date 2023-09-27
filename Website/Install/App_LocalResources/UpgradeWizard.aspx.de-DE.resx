@@ -59,8 +59,8 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="https://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="https://www.w3.org/XML/1998/namespace" />
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
@@ -118,10 +118,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AcceptTerms.Required" xml:space="preserve">
-    <value>Accept the terms of the license agreement to continue.</value>
+    <value>Akzeptieren Sie die Lizenzbedingungen, um fortzufahren.</value>
   </data>
   <data name="AcceptTerms.Text" xml:space="preserve">
-    <value>I accept the terms of the &lt;a href="../Licenses/Dnn_Corp_License.pdf" target="_blank"&gt;license agreement&lt;/a&gt;</value>
+    <value>Ich akzeptiere die Bedingungen der &lt;a href="../Licenses/Dnn_Corp_License.pdf" target="_blank"&gt;Lizenzvereinbarung&lt;/a&gt;.</value>
   </data>
   <data name="AccountInfo.Text" xml:space="preserve">
     <value>Benutzerkonto</value>
@@ -150,7 +150,7 @@ Sie wenden Aktualisierungen zuerst auf eine Kopie Ihrer Website (und Datenbank) 
     <value>Die Erweiterungen werden aktualisiert</value>
   </data>
   <data name="IntroDetail.Text" xml:space="preserve">
-    <value>&lt;p&gt;Willkommen auf der DotNetNuke Upgrade-Seite.&lt;/p&gt;
+    <value>&lt;p&gt;Willkommen auf der DNN Upgrade-Seite.&lt;/p&gt;
 &lt;p&gt;Wählen Sie zunächst die gewünschte Sprache für diese Seite.&lt;/p&gt;</value>
   </data>
   <data name="InvalidCredentials.Text" xml:space="preserve">
@@ -167,6 +167,15 @@ Sie wenden Aktualisierungen zuerst auf eine Kopie Ihrer Website (und Datenbank) 
   </data>
   <data name="Password.Text" xml:space="preserve">
     <value>Kennwort:</value>
+  </data>
+  <data name="ImprovementsProgramTitle.Text" xml:space="preserve">
+    <value>Produktverbesserungsprogramm</value>
+  </data>
+  <data name="ImprovementProgramExplain.Text" xml:space="preserve">
+    <value>Das Produktverbesserungsprogramm ermöglicht uns, besser zu verstehen, wie wir DNN für Sie verbessern können. Die Daten helfen uns, die Nutzung zu analysieren und was für die Nutzer des Produkts wichtig ist. Alle Daten sind anonym und nur für den internen Gebrauch bestimmt. Erfahren Sie mehr über das &lt;a href="http://www.dnnsoftware.com/dnn-improvement-program" target="_blank"&gt;Produktverbesserungsprogramm&lt;/a&gt;.</value>
+  </data>
+  <data name="ImprovementProgramLabel.Text" xml:space="preserve">
+    <value>Senden Sie anonyme Nutzungsinformationen an DNN</value>
   </data>
   <data name="Retry.Text" xml:space="preserve">
     <value>erneut versuchen</value>
@@ -203,5 +212,14 @@ Sie wenden Aktualisierungen zuerst auf eine Kopie Ihrer Website (und Datenbank) 
   </data>
   <data name="VisitWebsite.Text" xml:space="preserve">
     <value>Website aufrufen</value>
+  </data>
+  <data name="UpgradeStarted.Text">
+    <value>Aktualisierung gestartet um</value>
+  </data>
+  <data name="VersionsMatch.Text">
+    <value>Die Version von Anwendung und Datenbank stimmen überein, daher ist keine Aktualisierung erforderlich.</value>
+  </data>
+  <data name="VersionsMatchButIncrementalExists.Text">
+    <value>Die Version von Anwendung und Datenbank stimmen überein, sie können aber eine inkrementelle Aktualisierung durchführen.</value>
   </data>
 </root>

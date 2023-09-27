@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ControlTitle_settings.Text">
+    <value xml:space="preserve">Suchergebnis-Einstellungen</value>
+  </data>
+  <data name="filtersRequired.Text">
+    <value xml:space="preserve">Sie müssen mindestens einen Inhaltstyp auswählen</value>
+  </data>
+  <data name="linkTargetOnSamePage.Text">
+    <value xml:space="preserve">Im selben Fenster</value>
+  </data>
+  <data name="linkTargetOpenNewPage.Text">
+    <value xml:space="preserve">Im neuen Fenster</value>
+  </data>
+  <data name="plEnableWildSearch.Help">
+    <value xml:space="preserve">Aktivieren Sie die Suche von Teilworten, d.h. "Labor" findet "Labor" und "Laboratorium". Deaktivieren Sie diese Option, um die Such-Performance zu verbessern.</value>
+  </data>
+  <data name="plEnableWildSearch.Text">
+    <value xml:space="preserve">Suche mit Teilworten standardmäßig aktivieren</value>
+  </data>
+  <data name="plResultsScopeForFilters.Help">
+    <value xml:space="preserve">Beschränken Sie die Suchergebnisse auf die ausgewählten Inhaltstypen.</value>
+  </data>
+  <data name="plResultsScopeForFilters.Text">
+    <value xml:space="preserve">Suche in Inhaltstypen</value>
+  </data>
+  <data name="plResultsScopeForPortals.Help">
+    <value xml:space="preserve">Begrenzen Sie die Suche auf die ausgewählten Websites.</value>
+  </data>
+  <data name="plResultsScopeForPortals.Text">
+    <value xml:space="preserve">Suche in Websites</value>
+  </data>
+  <data name="plTitleLinkTarget.Help">
+    <value xml:space="preserve">Legen Sie hier fest, ob der Link zum Eintrag im selben Fenster oder in neuem Browser-Fenster erfolgen soll.</value>
+  </data>
+  <data name="plTitleLinkTarget.Text">
+    <value xml:space="preserve">Eintrag öffnen</value>
+  </data>
+  <data name="portalsRequired.Text">
+    <value xml:space="preserve">Mindestens eine Website muss ausgewählt werden.</value>
+  </data>
+  <data name="plShowDescriptionForSnippet.Help">
+    <value>Aktivieren Sie diese Option, um die Beschreibung anstelle des Ausschnitts anzuzeigen. Der Ausschnitt wird dennoch angezeigt, wenn keine Beschreibung angegeben ist.</value>
+  </data>
+  <data name="plShowDescriptionForSnippet.Text">
+    <value>Beschreibung statt Ausschnitt anzeigen</value>
+  </data>
+  <data name="plShowFriendlyTitle.Help">
+    <value>Aktivieren Sie diese Option, um die Seitenüberschrift statt des Menü-Namens anzuzeigen.</value>
+  </data>
+  <data name="plShowFriendlyTitle.Text">
+    <value>Seitentitel anzeigen</value>
+  </data>
+</root>

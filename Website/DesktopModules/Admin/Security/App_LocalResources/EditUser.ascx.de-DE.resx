@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AccountInfo.Text">
+    <value xml:space="preserve">Kontoinformationen</value>
+  </data>
+  <data name="AccountSettings.Text">
+    <value xml:space="preserve">Kontoeinstellungen</value>
+  </data>
+  <data name="cmdCommunications.Text">
+    <value xml:space="preserve">Kommunikation</value>
+  </data>
+  <data name="cmdDelete.Text">
+    <value xml:space="preserve">de-registrieren</value>
+  </data>
+  <data name="cmdProfile.Text">
+    <value xml:space="preserve">Profil verwalten</value>
+  </data>
+  <data name="cmdServices.Text">
+    <value xml:space="preserve">Dienste verwalten</value>
+  </data>
+  <data name="cmdUpdate.Text">
+    <value xml:space="preserve">aktualisieren</value>
+  </data>
+  <data name="cmdUser.Text">
+    <value xml:space="preserve">Konto verwalten</value>
+  </data>
+  <data name="ControlTitle_profile.Text">
+    <value xml:space="preserve">Profil</value>
+  </data>
+  <data name="DisplayNameNotUnique.Text">
+    <value xml:space="preserve">Der von Ihnen gewählte Anzeigename wird bereits von einem anderen Benutzer verwendet, bitte geben Sie einen anderen ein.</value>
+  </data>
+  <data name="ErrorDialogTitle.Text">
+    <value xml:space="preserve">unerwarteter Fehler.</value>
+  </data>
+  <data name="PasswordSettings.Text">
+    <value xml:space="preserve">Kennwort zurücksetzen</value>
+  </data>
+  <data name="SuccessMessage.Text">
+    <value xml:space="preserve">Die URL des Profils wurde erfolgreich aktualisiert.</value>
+  </data>
+  <data name="UserSubscribed.Text">
+    <value xml:space="preserve">Sie sind der Gruppe {0} erfolgreich beigetreten.</value>
+  </data>
+  <data name="UserUnSubscribed.Text">
+    <value xml:space="preserve">Sie haben sich aus der Gruppe {0} erfolgreich ausgetragen.</value>
+  </data>
+  <data name="UserUpdated.Text">
+    <value xml:space="preserve">Das Konto wurde erfolgreich aktualisiert.</value>
+  </data>
+  <data name="UserUpdatedError.Text">
+    <value xml:space="preserve">Beim Aktualisieren des Kontos ist ein unerwarteter Fehler aufgetreten.</value>
+  </data>
+  <data name="VanityUrlHeader.Text">
+    <value xml:space="preserve">Hinweis: Sie können die URL Ihres öffentlichen Profils nur ein einziges Mal ändern.</value>
+  </data>
+  <data name="VanityUrlLabel.Help">
+    <value xml:space="preserve">Sie können einen individuelle Link für Ihr Benutzerprofil eingeben, die Sie dann immer mit anderen Benutzern austauschen können.</value>
+  </data>
+  <data name="VanityUrlLabel.Text">
+    <value xml:space="preserve">Profil-Link:</value>
+  </data>
+</root>

@@ -1,0 +1,1221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Canonical.Text">
+    <value>kanonisch</value>
+  </data>
+  <data name="EnglishName.Text">
+    <value>englischer Name</value>
+  </data>
+  <data name="NativeName.Text">
+    <value>Ursprünglicher Name</value>
+  </data>
+  <data name="None.Text">
+    <value>kein</value>
+  </data>
+  <data name="pl404TabId.Help">
+    <value>Legen Sie hier die Seite fest, die bei Auftreten eines HTTP-Fehlers 404 (Seite nicht gefunden) angezeigt werden soll.</value>
+  </data>
+  <data name="pl404TabId.Text">
+    <value>Seite für HTTP-Fehler 404</value>
+  </data>
+  <data name="pl500TabId.Help">
+    <value> hier die Seite fest, die bei Auftreten eines HTTP-Fehlers 404 (Systemfehler) angezeigt werden soll.</value>
+  </data>
+  <data name="pl500TabId.Text">
+    <value>Seite für HTTP-Fehler 500</value>
+  </data>
+  <data name="plAutoAddPortalAlias.Help">
+    <value>Aktivieren Sie diese Einstellung in Installationen für eine einzige Website, um eine beim Aufruf verwendete Domain-Adresse automatisch hinzuzufügen, wenn diese kein Alias ist.</value>
+  </data>
+  <data name="plAutoAddPortalAlias.Text">
+    <value>Website-Alias automatisch hinzufügen:</value>
+  </data>
+  <data name="plDescription.Help">
+    <value>Geben Sie hier eine Beschreibung Ihrer Website ein.</value>
+  </data>
+  <data name="plDescription.Text">
+    <value>Beschreibung:</value>
+  </data>
+  <data name="plDisablePrivateMessage.Help">
+    <value>Aktivieren Sie diese Option um zu verhindern, dass sich Benutzer gegenseitig Nachrichten schicken können.</value>
+  </data>
+  <data name="plDisablePrivateMessage.Text">
+    <value>Persönliche Nachrichten deaktivieren</value>
+  </data>
+  <data name="plFavIcon.Help">
+    <value>Das ausgewählte FavIcon wird für alle Seiten der Website angewendet.</value>
+  </data>
+  <data name="plFavIcon.Text">
+    <value>Favicon.ico:</value>
+  </data>
+  <data name="plFooterText.Help">
+    <value>Sofern vom Seitenlayout unterstützt, wird dieser Copyright-Text auf allen Seiten angezeigt.</value>
+  </data>
+  <data name="plFooterText.Text">
+    <value>Copyright:</value>
+  </data>
+  <data name="plHomeDirectory.Help">
+    <value>Geben Sie das Startverzeichnis dieser Website an.</value>
+  </data>
+  <data name="plHomeDirectory.Text">
+    <value>Startverzeichnis:</value>
+  </data>
+  <data name="plHomeTabId.Help">
+    <value>Die Startseite Ihrer Website.</value>
+  </data>
+  <data name="plHomeTabId.Text">
+    <value>Startseite:</value>
+  </data>
+  <data name="plIconSet.Help">
+    <value>Legen Sie hier fest, welche Symbole auf der Website angezeigt werden sollen.</value>
+  </data>
+  <data name="plIconSet.Text">
+    <value>Symbol-Set:</value>
+  </data>
+  <data name="plKeyWords.Help">
+    <value>Geben Sie einige Schlüsselworte an (durch Komma getrennt), die von Suchmaschinen verwendet werden können, um die Website besser einzuordnen.</value>
+  </data>
+  <data name="plKeyWords.Text">
+    <value>Schlüsselwörter:</value>
+  </data>
+  <data name="plLoginTabId.Help">
+    <value>Die Anmeldeseite Ihrer Website (muss ein Login-Modul enthalten).</value>
+  </data>
+  <data name="plLoginTabId.Text">
+    <value>Anmeldeseite:</value>
+  </data>
+  <data name="plLogo.Help">
+    <value>Abhängig vom ausgewählten Seitenlayout erscheint das ausgewählte Bild im Kopfbereich jeder Seite.</value>
+  </data>
+  <data name="plLogo.Text">
+    <value>Logo:</value>
+  </data>
+  <data name="plMsgAllowAttachments.Help">
+    <value>Legen Sie fest, ob Nachrichten mit Dateianhängen versehen werden dürfen.</value>
+  </data>
+  <data name="plMsgAllowAttachments.Text">
+    <value>Dateianhänge erlaubt:</value>
+  </data>
+  <data name="plMsgProfanityFilters.Help">
+    <value>Durch Aktivieren dieser Einstellung werden vulgäre Worte durch harmlose Äquivalente ersetzt. Die Wortliste kann nur in der Datenbank (Tabelle Lists) bearbeitet werden (Vorgabetexte nur in englischer Sprache).</value>
+  </data>
+  <data name="plMsgProfanityFilters.Text">
+    <value>Schimpfwortfilter:</value>
+  </data>
+  <data name="plMsgRecipientLimit.Help">
+    <value>Höchstzahl an Empfängern, die in der Adressatenliste einer Nachricht zugelassen sind, dabei werden Benutzergruppen als ein Empfänger betrachtet.</value>
+  </data>
+  <data name="plMsgRecipientLimit.Text">
+    <value>Empfängerlimit:</value>
+  </data>
+  <data name="plMsgSendEmail.Help">
+    <value>Legen Sie fest, ob der Empfänger per E-Mail benachrichtigt werden soll, wenn für Ihm in seinem Posteingang auf der Website eine Nachricht oder Benachrichtigung vorliegt.</value>
+  </data>
+  <data name="plMsgSendEmail.Text">
+    <value>Email-Benachrichtigung:</value>
+  </data>
+  <data name="plMsgThrottlingInterval.Help">
+    <value>Anzahl an Minuten, bevor ein Benutzer eine weitere Nachricht versenden kann, 0 steht für keine Beschränkung. Die Einstellung wird nicht auf Website- oder Systemverwalter angewendet.</value>
+  </data>
+  <data name="plMsgThrottlingInterval.Text">
+    <value>Drosselungsintervall (Min.):</value>
+  </data>
+  <data name="plPageHeadText.Help">
+    <value>Geben Sie die META-Tags an, die im  "HEAD"-Bereich des HTMLQuellcodes dieser Seite eingefügt werden sollen.</value>
+  </data>
+  <data name="plPageHeadText.Text">
+    <value>Meta-Tags im Kopfbereich</value>
+  </data>
+  <data name="plPortalName.Help">
+    <value>Geben Sie einen Namen für die Website an</value>
+  </data>
+  <data name="plPortalName.Text">
+    <value>Website-Name:</value>
+  </data>
+  <data name="plRegisterTabId.Help">
+    <value>Die Registrierungsseite in Ihrer Website.</value>
+  </data>
+  <data name="plRegisterTabId.Text">
+    <value>Registrierungsseite:</value>
+  </data>
+  <data name="plSearchTabId.Help">
+    <value>Die Suchergebnis-Seite der Website.</value>
+  </data>
+  <data name="plSearchTabId.Text">
+    <value>Suchergebnis-Seite:</value>
+  </data>
+  <data name="plSplashTabId.Help">
+    <value>Die Begrüßungsseite Ihrer Website.</value>
+  </data>
+  <data name="plSplashTabId.Text">
+    <value>Begrüßungsseite:</value>
+  </data>
+  <data name="plTimeZone.Help">
+    <value>Die Standard-Zeitzone der Website.</value>
+  </data>
+  <data name="plTimeZone.Text">
+    <value>Zeitzone der Website:</value>
+  </data>
+  <data name="plUserTabId.Help">
+    <value>Die Benutzerprofilseite in Ihrer Website.</value>
+  </data>
+  <data name="plUserTabId.Text">
+    <value>Benutzerprofilseite</value>
+  </data>
+  <data name="portalAliasModeButtonListLabel.Help">
+    <value>Diese Einstellung legt fest, wie die Website auf Aufrufe reagieren soll, die nicht der angegebenen Standard-Website-Adresse entsprechen: keine - die Adresse wird so verwendet, kanonisch - die Adresse wird als kanonische Adresse  verwendet, Weiterleitung - der Aufruf wird auf die weitergeleitet.</value>
+  </data>
+  <data name="portalAliasModeButtonListLabel.Text">
+    <value>Weiterleitungstyp:</value>
+  </data>
+  <data name="Profile_DefaultVisibility.Help">
+    <value>Wählen Sie die Standardeinstellung für die Sichtbarkeit des Benutzerprofils.</value>
+  </data>
+  <data name="Profile_DefaultVisibility.Text">
+    <value>Standard-Sichtbarkeit:</value>
+  </data>
+  <data name="Profile_DisplayVisibility.Help">
+    <value>Aktivieren Sie diese Option, um die Sichtbarkeit des Profils im Benutzerprofil anzuzeigen.</value>
+  </data>
+  <data name="Profile_DisplayVisibility.Text">
+    <value>Sichtbarkeit anzeigen:</value>
+  </data>
+  <data name="Redirect.Text">
+    <value>weiterleiten</value>
+  </data>
+  <data name="redirectOldProfileUrlsLabel.Help">
+    <value>Aktivieren Sie diese Option, um URLs im alten Format auf individuelle URLs weiterzuleiten.</value>
+  </data>
+  <data name="redirectOldProfileUrlsLabel.Text">
+    <value>Weiterleitung für alte URLs:</value>
+  </data>
+  <data name="valPortalName.ErrorMessage">
+    <value>Sie müssen einen Website-Titel eingeben</value>
+  </data>
+  <data name="vanilyUrlPrefixLabel.Help">
+    <value>Geben Sie eine Zeichenfolge an, die den Vanity-URLs vorangestellt werden soll.</value>
+  </data>
+  <data name="vanilyUrlPrefixLabel.Text">
+    <value>Vanity-URL-Präfix:</value>
+  </data>
+  <data name="VanityUrlExample.Text">
+    <value>meineVanityURL</value>
+  </data>
+  <data name="plIncludeAttachments.Help">
+    <value>Aktivieren Sie diese Option, um Dateianhänge in verschickten E-Mails zuzulassen.</value>
+  </data>
+  <data name="plIncludeAttachments.Text">
+    <value>Dateianhänge erlauben:</value>
+  </data>
+  <data name="MessageReIndexWarning.Text">
+    <value>Neu-Indizierung löscht den bestehenden Indexspeicher und indiziert alle Inhalte neu. Dies wird vom geplanten Job "Suche" im Zeitplandienst ausgeführt, sie können diese dort auch manuell sofort anstoßen.</value>
+  </data>
+  <data name="Synonyms.Text">
+    <value>Synonyme</value>
+  </data>
+  <data name="SynonymsTagDuplicated.Text">
+    <value>wird bereits in einer anderen Gruppe als Synonym verwendet</value>
+  </data>
+  <data name="fallBackLabel.Help">
+    <value>Wählen Sie die Ersatzsprache</value>
+  </data>
+  <data name="fallBackLabel.Text">
+    <value>Ersatzsprache</value>
+  </data>
+  <data name="languageLabel.Help">
+    <value>Sprache wählen</value>
+  </data>
+  <data name="languageLabel.Text">
+    <value>Sprache:</value>
+  </data>
+  <data name="translatorsLabel.Help">
+    <value>Die ausgewählte Benutzergruppe erhält explizite Berechtigung zum Bearbeiten aller neuen Seiten und Module in dieser Sprache.</value>
+  </data>
+  <data name="AllPagesTranslatable.Help">
+    <value>Aktivieren Sie diese Option, um alle Seiten in der Standardsprache der Website übersetzbar zu machen. Das System erstellt eine Kopie aller übersetzbaren Seiten für jede der ausgewählten Sprachen.</value>
+  </data>
+  <data name="AllPagesTranslatable.Text">
+    <value>Alle Seiten übersetzbar machen</value>
+  </data>
+  <data name="Active.Header">
+    <value>aktiv</value>
+  </data>
+  <data name="allowUserCulture.Help">
+    <value>Wenn diese Option aktiviert ist, können Anwender im Steuerungsbereich für die Beschriftungen eine andere Sprache als für den Inhalt wählen.</value>
+  </data>
+  <data name="allowUserCulture.Text">
+    <value>Benutzer dürfen Bediensprache wählen:</value>
+  </data>
+  <data name="Culture.Header">
+    <value>Sprache</value>
+  </data>
+  <data name="detectBrowserLable.Help">
+    <value>Soll die eingestellte Sprache aus dem Browser verwendet werden, um die bevorzugte Sprache im Benutzerkonto vorzubelegen?</value>
+  </data>
+  <data name="detectBrowserLable.Text">
+    <value>Erkennung der Browser-Sprache aktivieren:</value>
+  </data>
+  <data name="LanguageSettings.Text">
+    <value>Spracheinstellungen</value>
+  </data>
+  <data name="Pages.Header">
+    <value>Seiten</value>
+  </data>
+  <data name="plUrl.Help">
+    <value>Aktivieren Sie diese Option, um den Sprachparameter in der URL zu aktivieren.</value>
+  </data>
+  <data name="plUrl.Text">
+    <value>Sprache als Parameter in die URL aufnehmen:</value>
+  </data>
+  <data name="PublishTranslatedPages.Text">
+    <value>Alle Seiten veröffentlichen</value>
+  </data>
+  <data name="siteDefaultLabel.Help">
+    <value>Sie können hier eine Standardsprache für die Website festlegen. Wenn die Sprache nicht bereits aktiviert ist, wird sie automatisch aktiviert. Die Standardsprache kann nach Aktivierung der sprachspezifischen Seiten nicht mehr deaktiviert werden.</value>
+  </data>
+  <data name="systemDefaultLabel.Help">
+    <value>Die Systemstandard-Sprache wird vom System als ultimative Ersatzsprache verwendet, wenn keine andere Übersetzung verfügbar ist.</value>
+  </data>
+  <data name="systemDefaultLabel.Text">
+    <value>Systemstandard:</value>
+  </data>
+  <data name="ViewPage.Text">
+    <value>anzeigen</value>
+  </data>
+  <data name="Cancel.Text">
+    <value>abbrechen</value>
+  </data>
+  <data name="ProcessingPage.Text">
+    <value>{0}: Seite {1} von {2} - {3}</value>
+  </data>
+  <data name="Progress.Text">
+    <value>Fortschritt</value>
+  </data>
+  <data name="siteDefaultLabel.Text">
+    <value>Aktuelle Standardsprache der Website:</value>
+  </data>
+  <data name="TotalLanguages.Text">
+    <value>Sprachen gesamt</value>
+  </data>
+  <data name="TotalProgress.Text">
+    <value>Fortschritt gesamt</value>
+  </data>
+  <data name="CompactIndexConfirmationMessage.Text">
+    <value>Das Komprimieren des Index kann rechenintensiv sein und bis zum Doppelten des Speicherplatzes belegen. Die Komprimierung wird vom Indizierungsdienst ausgeführt und ist von dessen Zeitplan abhängig. Wollen Sie fortfahren?</value>
+  </data>
+  <data name="lblCustomAnalyzer.Help">
+    <value>Wenn Sie dieses Feld leer lassen, wird der Standard-Analyzer zum Indizieren des Inhalts verwendet. Falls Sie einen anderen Analyzer verwenden wollen, geben Sie bitte den vollständigen Namen der Klasse an.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Hinweis: &amp;lt;/b&amp;gt;Falls Sie bestehende Inhalte neu indizieren möchten, müssen Sie im Menüpunkt Admin &amp;gt; Suchverwaltung" jeder zu re-indizierenden Website die Funktion "Index neu indizieren" aufrufen.</value>
+  </data>
+  <data name="lblCustomAnalyzer.Text">
+    <value>Individueller Analyzer:</value>
+  </data>
+  <data name="lblIndexWordMaxLength.Help">
+    <value>Geben Sie die maximale Länge der Worte an, die in den Index aufgenommen werden sollen.</value>
+  </data>
+  <data name="lblIndexWordMaxLength.Text">
+    <value>Maximale Wortlänge:</value>
+  </data>
+  <data name="lblIndexWordMinLength.Help">
+    <value>Geben Sie die Mindestlänge der Worte an, die in den Index aufgenommen werden sollen.</value>
+  </data>
+  <data name="lblIndexWordMinLength.Text">
+    <value>Minimale Wortlänge:</value>
+  </data>
+  <data name="lblSearchIndexActiveDocuments.Help">
+    <value>Anzahl der aktiven Dokumente in den Dateien des uchindex</value>
+  </data>
+  <data name="lblSearchIndexActiveDocuments.Text">
+    <value>Aktive Dokumente:</value>
+  </data>
+  <data name="lblSearchIndexDbSize.Help">
+    <value>Gesamtgröße der Suchindex-Datenbankdateien</value>
+  </data>
+  <data name="lblSearchIndexDbSize.Text">
+    <value>Größe des Suchindex:</value>
+  </data>
+  <data name="lblSearchIndexDeletedDocuments.Help">
+    <value>Anzahl gelöschter Dokumente im Suchindex</value>
+  </data>
+  <data name="lblSearchIndexDeletedDocuments.Text">
+    <value>Gelöschte Dokumente:</value>
+  </data>
+  <data name="lblSearchIndexLastModifiedOn.Help">
+    <value>Datum der letzten Änderung im Suchindex</value>
+  </data>
+  <data name="lblSearchIndexLastModifiedOn.Text">
+    <value>letzte Änderung:</value>
+  </data>
+  <data name="lblSearchIndexPath.Help">
+    <value>Dies ist der Ordner, in dem der Suchindex gespeichert wird. Bei Bedarf können Sie den Pfad ändern, indem Sie einen Eintrag in der Tabelle "HostSettings" hinzufügen, die SettingName"Search_IndexFolder" und den entsprechenden Pfad in SettingValue trägt. Sie sollten vorher den Anwendungspool anhalten. Der Inhalt des Ordners muss manuell verschoben und die Indizierung neu gestartet werden. </value>
+  </data>
+  <data name="lblSearchIndexPath.Text">
+    <value>Pfad des Suchindex:</value>
+  </data>
+  <data name="MessageIndexWarning.Text">
+    <value>Hinweis: Komprimierung und Neuindizierung sind CPU-intensiv und sollten nur in Randzeiten ausgeführt werden.</value>
+  </data>
+  <data name="plEnableContentLocalization.Help">
+    <value>Aktivieren Sie diese Option, um Website-Administratoren die Aktivierung der "Sprachspezifischen Seiten" für ihre Website zu ermöglichen.</value>
+  </data>
+  <data name="plEnableContentLocalization.Text">
+    <value>Aktivierung sprachspezifischer Seiten erlauben:</value>
+  </data>
+  <data name="plGUID.Help">
+    <value>Der global eindeutige Identifier, der diese Installation identifiziert.</value>
+  </data>
+  <data name="plGUID.Text">
+    <value>GUID:</value>
+  </data>
+  <data name="plUpgrade.Help">
+    <value>Aktivieren Sie diese Option, wenn die Anwendung prüfen soll, ob Updates verfügbar sind.</value>
+  </data>
+  <data name="plUpgrade.Text">
+    <value>Auf Aktualisierungen prüfen:</value>
+  </data>
+  <data name="ReIndexConfirmationMessage.Text">
+    <value>Die Neuindizierung löscht den bestehenden Inhalt des Suchindex und baut ihn neu auf. Dies wird vom Zeitplandienst "Suche" gemäß Zeitplan ausgeführt. Sind Sie sicher?</value>
+  </data>
+  <data name="SearchIndex.Text">
+    <value>Suche und Indizierung</value>
+  </data>
+  <data name="valIndexWordMaxLengthRequired.Error">
+    <value>Sie müssen die maximale Länge angeben!</value>
+  </data>
+  <data name="valIndexWordMinLengthRequired.Error">
+    <value>Sie müssen die Mindestlänge angeben!</value>
+  </data>
+  <data name="lblAllowLeadingWildcard.Help">
+    <value>Aktivieren Sie diese Option, um die Suche innerhalb von Worten zu aktivieren, andernfalls wird nur am Wortanfang gesucht, d.h. "acht" findet "achtzig" und "achtsam" aber nicht "Nacht". Hinweis: Diese Option beeinträchtigt die Suchgeschwindigkeit, sie sollten sie daher nur bei Bedarf aktivieren.</value>
+  </data>
+  <data name="lblAllowLeadingWildcard.Text">
+    <value>In der Wortmitte suchen (langsamer):</value>
+  </data>
+  <data name="lblAuthorBoost.Help">
+    <value>Legen Sie den Gewichtungsfaktor des Feldes Autor fest. Je höher der Wert, desto weiter vorne wird der Eintrag angezeigt, wenn der Name des Autors dem Suchbegriff entspricht.</value>
+  </data>
+  <data name="lblAuthorBoost.Text">
+    <value>Author gewichten:</value>
+  </data>
+  <data name="lblContentBoost.Help">
+    <value>Legen Sie den Gewichtungsfaktor des Inhalts fest. Je höher der Wert, desto weiter vorne wird der Eintrag angezeigt, wenn der Suchbegriff enthalten ist.</value>
+  </data>
+  <data name="lblContentBoost.Text">
+    <value>Inhalt gewichten:</value>
+  </data>
+  <data name="lblDescriptionBoost.Help">
+    <value>Legen Sie den Gewichtungsfaktor der Beschreibung des Inhalts fest. Je höher der Wert, desto weiter vorne wird der Eintrag angezeigt, wenn der Suchbegriff in der Beschreibung enthalten ist.</value>
+  </data>
+  <data name="lblDescriptionBoost.Text">
+    <value>Beschreibung gewichten:</value>
+  </data>
+  <data name="lblTagBoost.Help">
+    <value>Legen Sie den Gewichtungsfaktor der Schlagworte fest. Je höher der Wert, desto weiter vorne wird der Eintrag angezeigt, wenn der Suchbegriff als Schlagwort zugeordnet ist.</value>
+  </data>
+  <data name="lblTagBoost.Text">
+    <value>Schlagworte gewichten:</value>
+  </data>
+  <data name="lblTitleBoost.Help">
+    <value>Legen Sie den Gewichtungsfaktor der Überschrift des Inhalts fest. Je höher der Wert, desto weiter vorne wird der Eintrag angezeigt, wenn der Suchbegriff in der Überschrift enthalten ist.</value>
+  </data>
+  <data name="lblTitleBoost.Text">
+    <value>Überschrift gewichten:</value>
+  </data>
+  <data name="plImprovementProgram.Help">
+    <value>Aktivieren Sie diese Option, um am DNN-Verbesserungsprogramm teilzunehmen. &amp;lt;a href="http://www.dnnsoftware.com/dnn-improvement-program" target="_blank"&amp;gt;weitere Infos&amp;lt;/a&amp;gt;.</value>
+  </data>
+  <data name="plImprovementProgram.Text">
+    <value>Am DNN-Verbesserungsprogramm teilnehmen:</value>
+  </data>
+  <data name="ActivatePages.Help">
+    <value>Eine Sprache muss freigegeben werden, bevor sie aktiviert werden kann und sie muss deaktiviert werden, bevor die Freigabe zurückgenommen werden kann.</value>
+  </data>
+  <data name="ActivatePages.Text">
+    <value>Seiten in dieser Sprache aktivieren: </value>
+  </data>
+  <data name="AddAllUnlocalizedPages.Text">
+    <value>Alle nicht übersetzbaren Seiten hinzufügen</value>
+  </data>
+  <data name="AdminOnly.Text">
+    <value>nur für Website-Betreuer</value>
+  </data>
+  <data name="Alias.Header">
+    <value>Website-Aliase</value>
+  </data>
+  <data name="AllRoles.Text">
+    <value>Alle Gruppen</value>
+  </data>
+  <data name="AllUsers.Text">
+    <value>Alle Benutzer</value>
+  </data>
+  <data name="AuthSystem.LangPackType">
+    <value>Autentisierungssystem</value>
+  </data>
+  <data name="BackToLanguages.Text">
+    <value>zurück zu Sprachen</value>
+  </data>
+  <data name="BackToSiteBehavior.Text">
+    <value>zurück zu Website-Verhalten</value>
+  </data>
+  <data name="BackToSiteSettings.Text">
+    <value>zurück zu Website-Einstellungen</value>
+  </data>
+  <data name="Browser.Header">
+    <value>Browser</value>
+  </data>
+  <data name="Browser.Text">
+    <value>Browser</value>
+  </data>
+  <data name="cmdAddAlias.Text">
+    <value>Alias hinzufügen</value>
+  </data>
+  <data name="cmdAddField.Text">
+    <value>Feld hinzufügen</value>
+  </data>
+  <data name="cmdAddGroup.Text">
+    <value>Gruppe hinzufügen</value>
+  </data>
+  <data name="cmdAddWord.Text">
+    <value>Wort hinzufügen</value>
+  </data>
+  <data name="cmdCreateLanguage.Text">
+    <value>Sprache hinzufügen</value>
+  </data>
+  <data name="CompactIndex.Text">
+    <value>Index komprimieren</value>
+  </data>
+  <data name="ControlTitle_verify.Text">
+    <value>Sprachdateien überprüfen</value>
+  </data>
+  <data name="Core.LangPackType">
+    <value>Framework</value>
+  </data>
+  <data name="CreateLanguagePack.Text">
+    <value>Sprachpaket erstellen</value>
+  </data>
+  <data name="CurrentSiteDefault.Help">
+    <value>Sie können die Sprache nicht mehr ändern, nachdem Sie die Mehrsprachigkeit aktiviert haben. Brechen Sie nun ab, wenn Sie die Standardsprache noch ändern wollen.</value>
+  </data>
+  <data name="CurrentSiteDefault.Text">
+    <value>Standardsprache der akt. Website:</value>
+  </data>
+  <data name="DataType.Header">
+    <value>Datentyp</value>
+  </data>
+  <data name="DeactivateLanguageWarning.Text">
+    <value>Sind Sie sicher, dass Sie {0} deaktivieren wollen?</value>
+  </data>
+  <data name="DefaultLanguage.Text">
+    <value>*Hinweis: Dies ist die Standardsprache Ihrer Website.</value>
+  </data>
+  <data name="DefaultValue.Text">
+    <value>Standardwert</value>
+  </data>
+  <data name="DefaultVisibility.Header">
+    <value>Standardsichtbarkeit</value>
+  </data>
+  <data name="DeletedAllLocalizedPages.Text">
+    <value>Die übersetzten Seiten wurden erfolgreich gelöscht.</value>
+  </data>
+  <data name="DeleteError.Text">
+    <value>Das Benutzerprofil-Feld konnte nicht gelöscht werden, bitte versuchen Sie es später erneut.</value>
+  </data>
+  <data name="DeleteSuccess.Text">
+    <value>Das Benutzerprofil-Feld wurde gelöscht.</value>
+  </data>
+  <data name="DisableLanguageWarning.Text">
+    <value>Sind Sie sicher, dass Sie die Sprache {0} nicht mehr freigeben wollen?</value>
+  </data>
+  <data name="DisableLocalizedContent.Text">
+    <value>Sprachspezifische Seiten deaktivieren</value>
+  </data>
+  <data name="DuplicateAlias.Text">
+    <value>Der angegebene Alias für die Website existiert bereits. Bitte verwenden Sie einen anderen Alias.</value>
+  </data>
+  <data name="DuplicateEntries.Text">
+    <value>Dateien mit doppelten Einträgen: </value>
+  </data>
+  <data name="DuplicateName.Text">
+    <value>Diese Eigenschaft existiert bereits. Da die Namen der Profilfelder eindeutig sein müssen, verwenden Sie bitte einen anderen Namen.</value>
+  </data>
+  <data name="EditPageSettings.Text">
+    <value>[ Seiteneinstellungen bearbeiten ]</value>
+  </data>
+  <data name="ElapsedTime.Text">
+    <value>Abgelaufene Zeit: </value>
+  </data>
+  <data name="Enabled.Header.Text">
+    <value>Freigegeben</value>
+  </data>
+  <data name="enableLanguageLabel.Text">
+    <value>Sprache freigeben</value>
+  </data>
+  <data name="EnableLocalizedContent.Text">
+    <value>Sprachspezifische Seiten verwenden</value>
+  </data>
+  <data name="EnableLocalizedContentClickCancel.Text">
+    <value>Klicken Sie auf "abbrechen", wenn Sie den Standard für die Seite ändern wollen.</value>
+  </data>
+  <data name="EnableLocalizedContentHelpText.Text">
+    <value>Wenn Sie sprachspezifische Seiten aktivieren, können Sie darüber Inhalte in mehreren Sprachen bereitstellen. Sobald Sie diese Option aktiviert haben, können Sie die Standardsprache der Website  &amp;lt;strong&amp;gt;nicht mehr ändern&amp;lt;/strong&amp;gt;.</value>
+  </data>
+  <data name="EraseAllLocalizedPages.Text">
+    <value>Alle Übersetzungen löschen</value>
+  </data>
+  <data name="EraseTranslatedPagesWarning.Text">
+    <value>Sie sind dabei, alle Übersetzungen in die Sprache '{0}' zu löschen. Wollen Sie fortfahren?</value>
+  </data>
+  <data name="ErrorFiles.Text">
+    <value>Ungültige Sprachdateien löschen: </value>
+  </data>
+  <data name="Exceptions.Text">
+    <value>Ausnahmen</value>
+  </data>
+  <data name="FriendsAndGroups.Text">
+    <value>Freunde und Gruppen</value>
+  </data>
+  <data name="Full.LangPackType">
+    <value>vollständig</value>
+  </data>
+  <data name="Global.Text">
+    <value>System</value>
+  </data>
+  <data name="GlobalResources.Text">
+    <value>System-Sprachdateien</value>
+  </data>
+  <data name="GlobalRoles.Text">
+    <value>Allgemeine Rollen</value>
+  </data>
+  <data name="GlobalSetting.Text">
+    <value>Dies ist eine Systemeinstellung, die alle Websites in der Installation betrifft.</value>
+  </data>
+  <data name="HighlightPendingTranslations.Text">
+    <value>Nicht übersetzte Texte hervorheben</value>
+  </data>
+  <data name="HostSkins.Text">
+    <value>System-Designs</value>
+  </data>
+  <data name="HtmlEditor.Text">
+    <value>Html-Editor verwalten</value>
+  </data>
+  <data name="HtmlEditorWarning.Text">
+    <value>Hier können Sie den zu verwendenden HTML-Editor auswählen und dessen Einstellungen festlegen.</value>
+  </data>
+  <data name="IgnoreWords.Text">
+    <value>Auszuschließende Worte</value>
+  </data>
+  <data name="IgnoreWordsCreateSuccess.Text">
+    <value>Das auszuschließende Wort wurde hinzugefügt.</value>
+  </data>
+  <data name="IgnoreWordsDeletedWarning.Text">
+    <value>Sind Sie sicher, dass Sie die zu ignorierenden Worte löschen wollen?</value>
+  </data>
+  <data name="IgnoreWordsDeleteError.Text">
+    <value>Die zu ignorierenden Worte konnten nicht gelöscht werden, bitte versuchen Sie es später erneut.</value>
+  </data>
+  <data name="IgnoreWordsDeleteSuccess.Text">
+    <value>Die zu ignorierenden Worte wurden gelöscht.</value>
+  </data>
+  <data name="IgnoreWordsUpdateSuccess.Text">
+    <value>Die zu ignorierenden Worte wurden aktualisiert.</value>
+  </data>
+  <data name="InvalidAlias.Text">
+    <value>Der Website-Alias ist ungültig, bitte geben Sie einen gültigen an.</value>
+  </data>
+  <data name="InvalidLocale.ErrorMessage">
+    <value>Die aktuelle Website unterstützt diese Sprache nicht ({0}).</value>
+  </data>
+  <data name="Language.Text">
+    <value>Sprache</value>
+  </data>
+  <data name="LanguageCreateSuccess.Text">
+    <value>Die Sprache wurde hinzugefügt.</value>
+  </data>
+  <data name="LanguageEditor.Header">
+    <value>Sprachdateien übersetzen</value>
+  </data>
+  <data name="LanguagePackCreateFailure.Text">
+    <value>Sie müssen die Sprachdateien übersetzen, bevor Sie ein Sprachpaket erstellen können.</value>
+  </data>
+  <data name="LanguagePackCreateSuccess.Text">
+    <value>Die Sprachpakete wurden im Verzeichnis {0}/Install/Language erstellt.</value>
+  </data>
+  <data name="Languages.Text">
+    <value>Sprachen</value>
+  </data>
+  <data name="LanguageUpdateSuccess.Text">
+    <value>Die Sprache wurde aktualisiert.</value>
+  </data>
+  <data name="lblName.Help">
+    <value>Sie können hier den Namen des zu generierenden Sprachpakets (teilweise) anpassen.</value>
+  </data>
+  <data name="lblName.Text">
+    <value>Name des Sprachpakets</value>
+  </data>
+  <data name="lbLocale.Help">
+    <value>Wählen Sie die Sprache, für die Sie das Sprachpaket erstellen wollen.</value>
+  </data>
+  <data name="lbLocale.Text">
+    <value>Sprache</value>
+  </data>
+  <data name="lblType.Help">
+    <value>Wählen Sie den Typ, für den Sie ein Sprachpaket erstellen wollen.</value>
+  </data>
+  <data name="lblType.Text">
+    <value>Sprachpaket-Typ</value>
+  </data>
+  <data name="Localization.Help">
+    <value>Übersetzung: Im nächsten Schritt pflegen Sie die Übersetzung der Profileigenschaft. Wählen Sie die zu bearbeitende Sprache und bearbeiten Sie Name, Gruppe und Hilfetext fur die Eigenschaft.</value>
+  </data>
+  <data name="LocalizedValue.Text">
+    <value>Übersetzer Wert</value>
+  </data>
+  <data name="LocalResources.Text">
+    <value>Lokale Ressourcen</value>
+  </data>
+  <data name="MakeNeutralWarning.Text">
+    <value>Diese Aktion löscht alle Übersetzungen der Seite, nur die Seite in der Standardsprache der Website bleibt erhalten. Sind Sie sicher?</value>
+  </data>
+  <data name="MarkAllPagesAsTranslated.Text">
+    <value>Alle Seiten als übersetzt kennzeichnen</value>
+  </data>
+  <data name="MembersOnly.Text">
+    <value>Nur für Mitglieder</value>
+  </data>
+  <data name="MessageCompactIndexWarning.Text">
+    <value>Wenn Sie den Index komprimieren, wird der Platz von gelöschten Einträgen freigegeben, daher hat diese Aktion nur dann einen merkbaren Erfolg, wenn viele Dokumente gelöscht wurden. Für die Komprimierung wird vorübergehend der doppelte Speicherplatz benötigt.</value>
+  </data>
+  <data name="MicroServices.Text">
+    <value>Mikro-Dienste</value>
+  </data>
+  <data name="MicroServicesDescription.Text">
+    <value>Warnung: nachdem Sie die Mikro-Dienste aktiviert haben, müssen Sie sich an den Support wenden, um diesen wieder zu deaktivieren.</value>
+  </data>
+  <data name="MissingEntries.Text">
+    <value>Dateien mit fehlenden Einträgen: </value>
+  </data>
+  <data name="MissingFiles.Text">
+    <value>Fehlende Sprachdateien: </value>
+  </data>
+  <data name="Mode.HelpText">
+    <value>Wählen Sie "Basis", um die originalen Ressourcen bzw. die Dateien des Sprachpakets zu bearbeiten. Mit "System" übersteuern Sie die Sprachdateien für alle Websites in Ihrer Anwendung, mit der letzten Option nur für die aktuelle Website.</value>
+  </data>
+  <data name="Mode.Label">
+    <value>Modus</value>
+  </data>
+  <data name="Module.LangPackType">
+    <value>Modul</value>
+  </data>
+  <data name="ModuleRequired.Error">
+    <value>Bitte wählen Sie mindestens ein Modul aus der Liste.</value>
+  </data>
+  <data name="Name.Header">
+    <value>Name</value>
+  </data>
+  <data name="nav_SiteSettings.Text">
+    <value>Website-Einstellungen</value>
+  </data>
+  <data name="NeutralCulture.Text">
+    <value>Sprachneutral</value>
+  </data>
+  <data name="Next.Text">
+    <value>nächste</value>
+  </data>
+  <data name="No.Text">
+    <value>nein</value>
+  </data>
+  <data name="NoneSpecified.Text">
+    <value>nicht angegeben</value>
+  </data>
+  <data name="ObsoleteEntries.Text">
+    <value>Dateien mit obsoleten Einträgen: </value>
+  </data>
+  <data name="OldFiles.Text">
+    <value>Dateien, die älter als die der Standardsprache sind: </value>
+  </data>
+  <data name="OpenHtmlEditor.Text">
+    <value>HTML-Editor verwalten</value>
+  </data>
+  <data name="PageOutputSettings.Text">
+    <value>Seitenausgabe</value>
+  </data>
+  <data name="PagesSuccessfullyLocalized.Text">
+    <value>Die Seiten wurden in der Sprache erstellt.</value>
+  </data>
+  <data name="PagesSuccessfullyTranslated.Text">
+    <value>Die Seiten wurden übersetzt.</value>
+  </data>
+  <data name="PagesToTranslate.Text">
+    <value>Noch zu übersetzende Seiten:</value>
+  </data>
+  <data name="plCategoryName.Help">
+    <value>Gebe Sie den Namen der Kategorie (in der gewählten Sprache) an.</value>
+  </data>
+  <data name="plCategoryName.Text">
+    <value>Kategoriename</value>
+  </data>
+  <data name="plLocales.Help">
+    <value>Wählen Sie die zu bearbeitende Sprache.</value>
+  </data>
+  <data name="plLocales.Text">
+    <value>Sprache wählen</value>
+  </data>
+  <data name="plLogoIcon.Text">
+    <value>Logo und Symbole</value>
+  </data>
+  <data name="plPropertyHelp.Help">
+    <value>Geben Sie einen Hilfetext ein, der bei der Bearbeitung des Feldinhalts angezeigt wird.</value>
+  </data>
+  <data name="plPropertyHelp.Text">
+    <value>Feld-Hilfe</value>
+  </data>
+  <data name="plPropertyName.Help">
+    <value>Geben Sie die Bezeichnung der Eigenschaft in der gewählten Sprache an.</value>
+  </data>
+  <data name="plPropertyName.Text">
+    <value>Eigenschaftsname</value>
+  </data>
+  <data name="plPropertyRequired.Help">
+    <value>Geben Sie den Hinweistext für dieses Feld an, wenn es ein Pflichtfeld ist und nicht angegeben wurde.</value>
+  </data>
+  <data name="plPropertyRequired.Text">
+    <value>Pflichtfeld-Fehlermeldung</value>
+  </data>
+  <data name="plPropertyValidation.Help">
+    <value>Geben Sie den Hinweistext für dieses Feld an, wenn der eingegebene Wert nicht dem regulären Ausdruck entspricht.</value>
+  </data>
+  <data name="plPropertyValidation.Text">
+    <value>Wertprüfungs-Fehlermeldung</value>
+  </data>
+  <data name="PortalSkins.Text">
+    <value>Website-Designs</value>
+  </data>
+  <data name="Primary.Header">
+    <value>primär</value>
+  </data>
+  <data name="ProfilePropertyDefinition_DataType.Help">
+    <value>Wählen Sie den Datentyp dieses Feldes.</value>
+  </data>
+  <data name="ProfilePropertyDefinition_DataType.Required">
+    <value>Sie mssen den Datentyp angeben</value>
+  </data>
+  <data name="ProfilePropertyDefinition_DataType.Text">
+    <value>Datentyp</value>
+  </data>
+  <data name="ProfilePropertyDefinition_DefaultValue.Help">
+    <value>Sie können hier bei Bedarf einen Standardwert für dieses Feld angeben.</value>
+  </data>
+  <data name="ProfilePropertyDefinition_DefaultValue.Text">
+    <value>Standardwert</value>
+  </data>
+  <data name="ProfilePropertyDefinition_DefaultVisibility.Help">
+    <value>Sie können hier die Sichtbarkeit der Profileigenschaft voreinstellen. Der Benutzer kann die Sichtbarkeit in seinem Profil ggf. übersteuern.</value>
+  </data>
+  <data name="ProfilePropertyDefinition_DefaultVisibility.Text">
+    <value>Standardsichtbarkeit</value>
+  </data>
+  <data name="ProfilePropertyDefinition_Length.Help">
+    <value>Geben Sie die max. Textlänge für diese Eigenschaft an (sofern zutreffend).</value>
+  </data>
+  <data name="ProfilePropertyDefinition_Length.Text">
+    <value>Länge</value>
+  </data>
+  <data name="ProfilePropertyDefinition_PropertyCategory.Help">
+    <value>Geben Sie die Kategorie der Profileigenschaft an, die verwendet wird, um die Eigenschaften zu gruppieren.</value>
+  </data>
+  <data name="ProfilePropertyDefinition_PropertyCategory.Required">
+    <value>Sie müssen die Kategorie angeben.</value>
+  </data>
+  <data name="ProfilePropertyDefinition_PropertyCategory.Text">
+    <value>Profilkategorie</value>
+  </data>
+  <data name="ProfilePropertyDefinition_PropertyName.Help">
+    <value>Geben Sie den Namen der Eigenschaft an</value>
+  </data>
+  <data name="ProfilePropertyDefinition_PropertyName.Required">
+    <value>Sie müssen den Feldnamen angeben.</value>
+  </data>
+  <data name="ProfilePropertyDefinition_PropertyName.Text">
+    <value>Feldname</value>
+  </data>
+  <data name="ProfilePropertyDefinition_ReadOnly.Help">
+    <value>Schreibgeschützte Eigenschaften können nur von Website-Betreuern bearbeitet werden.</value>
+  </data>
+  <data name="ProfilePropertyDefinition_ReadOnly.Text">
+    <value>schreibgeschützt</value>
+  </data>
+  <data name="ProfilePropertyDefinition_Required.Help">
+    <value>Legen Sie hier fest, ob ein Wert angegeben werden muss.</value>
+  </data>
+  <data name="ProfilePropertyDefinition_Required.Text">
+    <value>Pflichtfeld</value>
+  </data>
+  <data name="ProfilePropertyDefinition_ValidationExpression.Help">
+    <value>Sie können hier einen regulären Ausdruck angeben, gegen den der eingegebene Wert geprüft wird.</value>
+  </data>
+  <data name="ProfilePropertyDefinition_ValidationExpression.Text">
+    <value>Validierungsausdruck</value>
+  </data>
+  <data name="ProfilePropertyDefinition_ViewOrder.Help">
+    <value>Geben Sie eine Zahl ein, um die Reihenfolgenposition festzulegen.</value>
+  </data>
+  <data name="ProfilePropertyDefinition_ViewOrder.Text">
+    <value>Anzeigeposition</value>
+  </data>
+  <data name="ProfilePropertyDefinition_Visible.Help">
+    <value>Aktivieren Sie diese Option, wenn diese Eigenschaft vom Benutzer angesehen und bearbeitet werden kann. Andernfalls ist das Feld nur für Website-Betreuern sichtbar.</value>
+  </data>
+  <data name="ProfilePropertyDefinition_Visible.Text">
+    <value>Sichtbar</value>
+  </data>
+  <data name="PropertyDefinitionDeletedWarning.Text">
+    <value>Sind Sie sicher, dass Sie diese Profileigenschaft löschen wollen?</value>
+  </data>
+  <data name="PropertyDefinitionUpdateSuccess.Text">
+    <value>Die Profildefinitionen wurden aktualisiert.</value>
+  </data>
+  <data name="Provider.LangPackType">
+    <value>Provider</value>
+  </data>
+  <data name="PublishedAllTranslatedPages.Text">
+    <value>Die Seiten wurden veröffentlicht.</value>
+  </data>
+  <data name="ReindexContent.Text">
+    <value>Inhalte neu indizieren</value>
+  </data>
+  <data name="ReindexHostContent.Text">
+    <value>Systeminhalte neu indizieren</value>
+  </data>
+  <data name="Required.Header">
+    <value>Mindestlänge</value>
+  </data>
+  <data name="RequiredTextBox.Text">
+    <value>Geben Sie hier die Mindestzahl an Zeichen als ganze positive Zahl an.</value>
+  </data>
+  <data name="ResourceFile.Text">
+    <value>Sprachdatei</value>
+  </data>
+  <data name="ResourceFileVerifier.Text">
+    <value>Sprachdateien prüfen</value>
+  </data>
+  <data name="ResourceFolder.Text">
+    <value>Ordner</value>
+  </data>
+  <data name="ResourceName.Text">
+    <value>Name der Ressource</value>
+  </data>
+  <data name="ResourceUpdated.Text">
+    <value>Die Sprachdatei wurde aktualisiert.</value>
+  </data>
+  <data name="RoleName.Header">
+    <value>Gruppe</value>
+  </data>
+  <data name="Save.Text">
+    <value>speicherm</value>
+  </data>
+  <data name="SaveConfirm.Text">
+    <value>Sind Sie sicher, dass Sie Ihre Änderungen speichern wollen?</value>
+  </data>
+  <data name="SaveOrCancelWarning.Text">
+    <value>Sie haben noch nicht gespeicherte Änderungen. Bitte speichern Sie erst oder brechen Sie das Bearbeiten ab.</value>
+  </data>
+  <data name="SaveTranslationsToFile.Text">
+    <value>Übersetzungen in einer Datei speichern</value>
+  </data>
+  <data name="SearchPriorities.Text">
+    <value>Suchprioritäten</value>
+  </data>
+  <data name="Select.Header">
+    <value>Auswählen</value>
+  </data>
+  <data name="SelectModules.Text">
+    <value>Modul(e) in Sprachpaket aufnehmen</value>
+  </data>
+  <data name="SelectResourcePlaceholder.Text">
+    <value>-- bitte auswählen --</value>
+  </data>
+  <data name="SetPrimary.Text">
+    <value>Als primär setzen</value>
+  </data>
+  <data name="SettingsError">
+    <value>Die Einstellungen konnten nicht gespeichert werden, bitte versuchen Sie es später erneut.</value>
+  </data>
+  <data name="SettingsRestoreWarning.Text">
+    <value>Sind Sie sicher, dass Sie Ihre Änderungen verwerfen wollen?</value>
+  </data>
+  <data name="SettingsUpdateSuccess">
+    <value>Die EInstellungen wurden gespeichert.</value>
+  </data>
+  <data name="SiteAlias.Text">
+    <value>Website-Alias</value>
+  </data>
+  <data name="SiteAliasCreateSuccess.Text">
+    <value>Der Website-Alias wurde hinzugefügt.</value>
+  </data>
+  <data name="SiteAliasDeletedWarning.Text">
+    <value>Sind Sie sicher, dass Sie diesen Alias löschen wollen?</value>
+  </data>
+  <data name="SiteAliasDeleteError.Text">
+    <value>Der Alias konnte nicht gelöscht werden, bitte versuchen Sie es später erneut.</value>
+  </data>
+  <data name="SiteAliasDeleteSuccess.Text">
+    <value>Der Alias wurde gelöscht.</value>
+  </data>
+  <data name="SiteAliases.Text">
+    <value>Website-Aliase</value>
+  </data>
+  <data name="SiteAliasUpdateSuccess.Text">
+    <value>Der Alias wurde gespeichert.</value>
+  </data>
+  <data name="SiteTemplates.Text">
+    <value>Website-Vorlagen</value>
+  </data>
+  <data name="SynonymsGroup.Header">
+    <value>Synonym-Gruppen</value>
+  </data>
+  <data name="SynonymsGroupCreateSuccess.Text">
+    <value>Die Synonym-Gruppe wurde hinzugefügt.</value>
+  </data>
+  <data name="SynonymsGroupDeletedWarning.Text">
+    <value>Sind Sie sicher, dass Sie diese Synonym-Gruppe löschen wollen?</value>
+  </data>
+  <data name="SynonymsGroupDeleteError.Text">
+    <value>Die Synonym-Gruppe konnte nicht gelöscht werden, bitte versuchen Sie es später erneut.</value>
+  </data>
+  <data name="SynonymsGroupDeleteSuccess.Text">
+    <value>Die Synonym-Gruppe wurde gelöscht.</value>
+  </data>
+  <data name="SynonymsGroupUpdateSuccess.Text">
+    <value>Die Synonym-Gruppe wurde gespeichert.</value>
+  </data>
+  <data name="TabBasicSettings.Text">
+    <value>Grundeinstellungen</value>
+  </data>
+  <data name="TabCrawling.Text">
+    <value>Indizierung</value>
+  </data>
+  <data name="TabDefaultPages.Text">
+    <value>Standardseiten</value>
+  </data>
+  <data name="TabFileExtensions.Text">
+    <value>Dateierweiterungen</value>
+  </data>
+  <data name="TabIgnoreWords.Text">
+    <value>zu Ignorierende Worte</value>
+  </data>
+  <data name="TabLanguage.Text">
+    <value>Sprachen</value>
+  </data>
+  <data name="TabMessaging.Text">
+    <value>Nachrichtensystem</value>
+  </data>
+  <data name="TabMore.Text">
+    <value>weitere</value>
+  </data>
+  <data name="TabSearch.Text">
+    <value>Suche</value>
+  </data>
+  <data name="TabSiteAliases.Text">
+    <value>Website-Aliase</value>
+  </data>
+  <data name="TabSiteBehavior.Text">
+    <value>Website-Verhalten</value>
+  </data>
+  <data name="TabSiteInfo.Text">
+    <value>Website-Info</value>
+  </data>
+  <data name="TabSynonyms.Text">
+    <value>Synonyme</value>
+  </data>
+  <data name="TabUserProfiles.Text">
+    <value>Benutzerprofile</value>
+  </data>
+  <data name="Template.Text">
+    <value>Vorlage</value>
+  </data>
+  <data name="Theme.Header">
+    <value>Design</value>
+  </data>
+  <data name="Theme.Text">
+    <value>Design</value>
+  </data>
+  <data name="TranslatePageContent.Text">
+    <value>Seiteninhalt übersetzen</value>
+  </data>
+  <data name="TranslationProgressBarText.Text">
+    <value>[number] neue Seiten werden für jede Sprache erstellt. Bitte warten Sie, bis die Erstellung der Seiten abgeschlossen ist ...</value>
+  </data>
+  <data name="Translators.Text">
+    <value>Übersetzer</value>
+  </data>
+  <data name="UnassignPrimary.Text">
+    <value>Primären entfernen</value>
+  </data>
+  <data name="UnpublishTranslatedPages.Text">
+    <value>Alle Seiten</value>
+  </data>
+  <data name="Updated.Text">
+    <value>Die Datei {0} wurde gespeichert.</value>
+  </data>
+  <data name="UrlMappingSettings.Text">
+    <value>URL-Zuordnung</value>
+  </data>
+  <data name="UserProfileFields.Text">
+    <value>Felder des Benutzerprofils</value>
+  </data>
+  <data name="UserProfileSettings.Text">
+    <value>Benutzerprofiile</value>
+  </data>
+  <data name="valName.ErrorMessage">
+    <value>Sie müssen einen Namen für das Sprachpaket angeben.</value>
+  </data>
+  <data name="valPropertyName.ErrorMessage">
+    <value>Sie müssen einen Namen für diese Eigenschaft angeben.</value>
+  </data>
+  <data name="VerifyLanguageResources.Text">
+    <value>Sprachdateien überprüfen</value>
+  </data>
+  <data name="ViewOrderUpdateSuccess.Text">
+    <value>Die Anzeigereihenfolge wurde aktualisiert.</value>
+  </data>
+  <data name="Visible.Header">
+    <value>sichtbar</value>
+  </data>
+  <data name="Yes.Text">
+    <value>ja</value>
+  </data>
+  <data name="Language.Header">
+    <value>Sprache</value>
+  </data>
+  <data name="Translated.Header">
+    <value>übersetzt:</value>
+  </data>
+  <data name="LanguageSelectionLabel.Text">
+    <value>Sprache</value>
+  </data>
+  <data name="SiteSelectionLabel.Text">
+    <value>Website bearbeiten</value>
+  </data>
+  <data name="UnPublishedAllTranslatedPages.Text">
+    <value>Die Seiten wurden zurückgezogen.</value>
+  </data>
+  <data name="BrowseAction.Text">
+    <value>Drücken Sie {speichern|[ENTER]} zum Speichern, or {abbrechen|[ESC]}, um die Änderung nicht durchzuführen.</value>
+  </data>
+  <data name="BrowseButton.Text">
+    <value>Dateisystem durchsuchen</value>
+  </data>
+  <data name="cmdAddEntry.Text">
+    <value>Eintrag hinzufügen</value>
+  </data>
+  <data name="DefaultImageTitle.Text">
+    <value>BIld</value>
+  </data>
+  <data name="DragDefault.Text">
+    <value>Ziehen Sie eine Datei und legen Sie sie ab oder wählen Sie eine Option.</value>
+  </data>
+  <data name="DragOver.Text">
+    <value>Ziehen Sie eine Datei hierher</value>
+  </data>
+  <data name="EnableSortOrder.Help">
+    <value>Aktivieren Sie diese Option, um die individuelle Sortierung von Einträgen in der Liste zuzulassen</value>
+  </data>
+  <data name="EnableSortOrder.Text">
+    <value>Individuelle Sortierung</value>
+  </data>
+  <data name="File.Text">
+    <value>Datei</value>
+  </data>
+  <data name="Folder.Text">
+    <value>Ordner</value>
+  </data>
+  <data name="Host.Text">
+    <value>System</value>
+  </data>
+  <data name="InvalidEntryText.Text">
+    <value>Der Text ist ein Pflichtfeld</value>
+  </data>
+  <data name="InvalidEntryValue.Text">
+    <value>Dies ist ein Pflichtfeld</value>
+  </data>
+  <data name="LinkButton.Text">
+    <value>Geben Sie die URL für den Link an</value>
+  </data>
+  <data name="LinkInputAction.Text">
+    <value>Drücken Sie {speichern|[ENTER]} zum speichern, oder {abbrechen|[ESC]}, um abzubrechen.</value>
+  </data>
+  <data name="LinkInputPlaceholder.Text">
+    <value>http://example.com/imagename.jpg</value>
+  </data>
+  <data name="LinkInputTitle.Text">
+    <value>URL des Links</value>
+  </data>
+  <data name="ListEntries.Help">
+    <value>Listeneinträge verwalten: Die Details der Eigenschaft wurden gespeichert. Diese Eigenschaft ist ein Listentyp, im nächsten Schritt müssen Sie die angebotenen Werte eingeben.</value>
+  </data>
+  <data name="ListEntries.Text">
+    <value>Listeneinträge</value>
+  </data>
+  <data name="ListEntryCreateSuccess.Text">
+    <value>Der Listeneintrag wurde erstellt.</value>
+  </data>
+  <data name="ListEntryDeletedWarning.Text">
+    <value>Sind Sie sicher, dass Sie den Listeneintrag löschen wollen?</value>
+  </data>
+  <data name="ListEntryDeleteError.Text">
+    <value>Der Listeneintrag konnte nicht gelöscht werden, bitte versuchen Sie es später erneut.</value>
+  </data>
+  <data name="ListEntryDeleteSuccess.Text">
+    <value>Der Listeneintrag wurde gelöscht.</value>
+  </data>
+  <data name="ListEntryText.Text">
+    <value>Text</value>
+  </data>
+  <data name="ListEntryUpdateSuccess.Text">
+    <value>Der Listeneintrag wurde aktualisiert.</value>
+  </data>
+  <data name="ListEntryValue.Text">
+    <value>Value</value>
+  </data>
+  <data name="NoData.Text">
+    <value>Es gibt keine anzuzeigenden Einträge</value>
+  </data>
+  <data name="NotSpecified.Text">
+    <value>&lt;nicht angegeben&gt;</value>
+  </data>
+  <data name="SearchFilesPlaceHolder.Text">
+    <value>Dateien suchen...</value>
+  </data>
+  <data name="SearchFoldersPlaceHolder.Text">
+    <value>Ordner Suchen...</value>
+  </data>
+  <data name="UploadButton.Text">
+    <value>Datei hochladen</value>
+  </data>
+  <data name="UploadComplete.Text">
+    <value>hochladen abgeschlossen</value>
+  </data>
+  <data name="UploadDefault.Text">
+    <value>myImage.jpg</value>
+  </data>
+  <data name="UploadFailed.Text">
+    <value>Hochladen fehlgeschlagen</value>
+  </data>
+  <data name="Uploading.Text">
+    <value>lade hoch...</value>
+  </data>
+  <data name="WrongFormat.Text">
+    <value>Falsches Format</value>
+  </data>
+</root>

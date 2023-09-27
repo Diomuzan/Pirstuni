@@ -1,0 +1,363 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="plPortalID.Text">
+    <value>Website</value>
+  </data>
+  <data name="plPortalID.Help">
+    <value>Wählen Sie die anzuzeigende Website aus.</value>
+  </data>
+  <data name="plLogType.Text">
+    <value>Typ</value>
+  </data>
+  <data name="plLogType.Help">
+    <value>Ereignisse nur für einen Ereignistyp anzeigen.</value>
+  </data>
+  <data name="plShowRecords.Text">
+    <value>Datensätze anzeigen</value>
+  </data>
+  <data name="plShowRecords.Help">
+    <value>Wählen Sie die Einträge, deren Details sie angezeigt bekommen wollen.</value>
+  </data>
+  <data name="ColorCoding.Text">
+    <value>Typen farblich kennzeichnen</value>
+  </data>
+  <data name="Settings.Text">
+    <value>Protokollierung</value>
+  </data>
+  <data name="Legend.Text">
+    <value>Erläuterung der Farben</value>
+  </data>
+  <data name="Date.Text">
+    <value>Datum</value>
+  </data>
+  <data name="Type.Text">
+    <value>Ereignistyp</value>
+  </data>
+  <data name="Username.Text">
+    <value>Benutzer</value>
+  </data>
+  <data name="Portal.Text">
+    <value>Website</value>
+  </data>
+  <data name="Summary.Text">
+    <value>Zusammenfassung</value>
+  </data>
+  <data name="btnDelete.Text">
+    <value>gewählte löschen</value>
+  </data>
+  <data name="btnClear.Text">
+    <value>Protokoll leeren</value>
+  </data>
+  <data name="SendExceptions.Text">
+    <value>Protokolleinträge versenden</value>
+  </data>
+  <data name="ExceptionsWarning.Text">
+    <value>&lt;b&gt;Bitte beachten Sie&lt;/b&gt;: Wenn Sie diese Funktion verwenden, versenden Sie u.U. sicherheitsrelevante Daten unverschlüsselt über das Internet. Bitte prüfen Sie die Inhalte der zu verschickenden Einträge auf Unbedenklichkeit. Nur die ausgewählten Einträge werden versandt.</value>
+  </data>
+  <data name="SendExceptionsEmail.Text">
+    <value>Protokolleinträge per E-Mail versenden</value>
+  </data>
+  <data name="plEmailAddress.Text">
+    <value>E-Mail-Adresse</value>
+  </data>
+  <data name="plEmailAddress.Help">
+    <value>Bitte geben Sie die E-Mail-Adresse(n) an, an die die Protokolleinträge versandt werden sollen. Trennen Sie mehrere Adressen durch Komma oder Semikolon.</value>
+  </data>
+  <data name="SendMessage.Text">
+    <value>Nachrichtentext (bei Bedarf)</value>
+  </data>
+  <data name="SendMessage.Help">
+    <value>Geben Sie hier bei Bedarf einen Hinweis ein, der mit den Protokolleinträgen in der E-Mail verschickt wird.</value>
+  </data>
+  <data name="btnEmail.Text">
+    <value>gewählte weiterleiten</value>
+  </data>
+  <data name="AddContent.Action">
+    <value>Ereignistyp hinzufügen</value>
+  </data>
+  <data name="NoEntries.Text">
+    <value>Es gibt keine Protokolleinträge.</value>
+  </data>
+  <data name="Showing.Text">
+    <value>Einträge {0} bis {1} von {2}</value>
+  </data>
+  <data name="DeleteSuccess.Text">
+    <value>Die angegebenen Protokolleinträge wurden gelöscht.</value>
+  </data>
+  <data name="EmailSuccess.Text">
+    <value>Ihre E-Mail wurde versandt.</value>
+  </data>
+  <data name="EmailFailure.Text">
+    <value>Ihre E-Mail wurde &lt;b&gt;nicht&lt;/b&gt; versandt.</value>
+  </data>
+  <data name="ServiceUnavailable.Text">
+    <value>Der Webservice bei dnnSoftware.com ist vorübergehend nicht verfügbar.</value>
+  </data>
+  <data name="ServerName.Text">
+    <value>&lt;b&gt;Server-Name&lt;/b&gt; </value>
+  </data>
+  <data name="LogCleared.Text">
+    <value>Das Protokoll wurde geleert.</value>
+  </data>
+  <data name="ClickRow.Text">
+    <value>Klicken SIe auf eine Zeile, um Details anzuzeigen.</value>
+  </data>
+  <data name="ExceptionCode.Text">
+    <value>Ausnahme</value>
+  </data>
+  <data name="ItemCreatedCode.Text">
+    <value>Eintrag erstellt</value>
+  </data>
+  <data name="ItemUpdatedCode.Text">
+    <value>Eintrag aktualisiert</value>
+  </data>
+  <data name="ItemDeletedCode.Text">
+    <value>Eintrag gelöscht</value>
+  </data>
+  <data name="SuccessCode.Text">
+    <value>Erfolgreiche Operation</value>
+  </data>
+  <data name="FailureCode.Text">
+    <value>Operation fehlgeschlagen</value>
+  </data>
+  <data name="AdminOpCode.Text">
+    <value>Allgemeine Admin-Aktion</value>
+  </data>
+  <data name="AdminAlertCode.Text">
+    <value>Admin-Meldung</value>
+  </data>
+  <data name="HostAlertCode.Text">
+    <value>Systembenachrichtigung</value>
+  </data>
+  <data name="ToEmail.Text">
+    <value>E-Mail des Empfängers</value>
+  </data>
+  <data name="ControlTitle_.Text">
+    <value>Ereignisprotokoll</value>
+  </data>
+  <data name="ModuleHelp.Text">
+    <value>&lt;h1&gt;Ereignisanzeige&lt;/h1&gt;&lt;p&gt;Sie können hier das Ereignisprotokoll einsehen und die zu protokollierenden Ereignisse bearbeiten.&lt;/p&gt;</value>
+  </data>
+  <data name="SecurityException.Text">
+    <value>Sicherheitsbenachrichtigung</value>
+  </data>
+  <data name="plSubject.Help">
+    <value>Geben Sie den Betreff der zu versendenden E-Mail an.</value>
+  </data>
+  <data name="plSubject.Text">
+    <value>Betreff</value>
+  </data>
+  <data name="InavlidEmailAddress.Text">
+    <value>'{0}' ist keine gültige E-Mail-Adresse.</value>
+  </data>
+  <data name="Viewer.Text">
+    <value>Anzeige</value>
+  </data>
+  <data name="ClearLog.Text">
+    <value>Sind Sie sicher, dass Sie alle Einträge löschen wollen?</value>
+  </data>
+  <data name="SelectException.Text">
+    <value>Sie müssen mindestens einen Eintrag auswählen.</value>
+  </data>
+  <data name="LogEntryDefaultMsg.Text">
+    <value>Angehängt sind Einträge aus meinem Fehlerprotokoll.</value>
+  </data>
+  <data name="LogEntryDefaultSubject.Text">
+    <value>Fehlerprotokolle</value>
+  </data>
+  <data name="LogType.Header">
+    <value>Ereignistyp</value>
+  </data>
+  <data name="Portal.Header">
+    <value>Website</value>
+  </data>
+  <data name="Active.Header">
+    <value>aktiv</value>
+  </data>
+  <data name="FileName.Header">
+    <value>Dateiname</value>
+  </data>
+  <data name="Edit.EditText">
+    <value>bearbeiten</value>
+  </data>
+  <data name="plIsActive.Text">
+    <value>protokollieren</value>
+  </data>
+  <data name="plIsActive.Help">
+    <value>Aktivieren Sie dieses Feld, um die Protokollierung zu aktivieren.</value>
+  </data>
+  <data name="plLogTypeKey.Text">
+    <value>Ereignistyp</value>
+  </data>
+  <data name="plLogTypeKey.Help">
+    <value>Wählen Sie den zu protokollierenden Ereignistyp aus.</value>
+  </data>
+  <data name="plLogTypePortalID.Text">
+    <value>Website</value>
+  </data>
+  <data name="plLogTypePortalID.Help">
+    <value>Geben Sie die Website an, für die das Ereignis protokolliert werden soll.</value>
+  </data>
+  <data name="plKeepMostRecent.Text">
+    <value>Aktuellste Einträge aufbewaren</value>
+  </data>
+  <data name="plFileName.Text">
+    <value>Dateiname</value>
+  </data>
+  <data name="plFileName.Help">
+    <value>Der Dateiname der Protokolldatei.</value>
+  </data>
+  <data name="plEmailNotificationStatus.Text">
+    <value>Weiterleitung per E-Mail</value>
+  </data>
+  <data name="plEmailNotificationStatus.Help">
+    <value>Aktivieren Sie dieses Feld, um beim Auftreten dieses Ereignisses eine E-Mail zu versenden.</value>
+  </data>
+  <data name="plThreshold.Text">
+    <value>Schwellwert des Auftretens</value>
+  </data>
+  <data name="plMailFromAddress.Text">
+    <value>E-Mail-Absender</value>
+  </data>
+  <data name="plMailFromAddress.Help">
+    <value>Geben Sie die E-Mail-Adresse an, von der Benachrichtigungen versandt werden sollen.</value>
+  </data>
+  <data name="plMailToAddress.Text">
+    <value>E-Mail-Empfänger</value>
+  </data>
+  <data name="plMailToAddress.Help">
+    <value>Geben Sie die E-Mail-Adresse an, an die die Benachrichtigungen versandt werden sollen.</value>
+  </data>
+  <data name="EmailSettings.Text">
+    <value>Weiterleitung per E-Mail</value>
+  </data>
+  <data name="ConfigDeleted.Text">
+    <value>Der Ereignistyp wurde entfernt.</value>
+  </data>
+  <data name="ConfigUpdated.Text">
+    <value>Die Protokollierung des Ereignistyps wurde aktualisiert.</value>
+  </data>
+  <data name="ConfigAdded.Text">
+    <value>Der Ereignistyp wurde hinzugefügt.</value>
+  </data>
+  <data name="LogEntry.Text">
+    <value> Eintrag</value>
+  </data>
+  <data name="LogEntries.Text">
+    <value> Einträge</value>
+  </data>
+  <data name="Occurence.Text">
+    <value> Auftreten</value>
+  </data>
+  <data name="Occurences.Text">
+    <value> Auftreten</value>
+  </data>
+  <data name="In.Text">
+    <value>in</value>
+  </data>
+  <data name="ControlTitle_edit.Text">
+    <value>Ereignistypen bearbeiten</value>
+  </data>
+  <data name="DeleteError.Text">
+    <value>Die Protokollierung des gewählten Ereignistyps konnte nicht gelöscht werden. Sie müssen erst alle bestehenden Protokolleinträge für diesen Typ löschen.</value>
+  </data>
+  <data name="TimeType_1.Text">
+    <value>Sekunden</value>
+  </data>
+  <data name="TimeType_2.Text">
+    <value>Minuten</value>
+  </data>
+  <data name="TimeType_3.Text">
+    <value>Stunden</value>
+  </data>
+  <data name="TimeType_4.Text">
+    <value>Tage</value>
+  </data>
+  <data name="nav_AdminLogs.Text">
+    <value>Ereignisprotokoll</value>
+  </data>
+  <data name="AdminLogs.Header">
+    <value>Ereignisprotokoll</value>
+  </data>
+  <data name="ConfigAddError.Text">
+    <value>Der Ereignistyp konnte nicht hinzugefügt werden. Bitte versuchen Sie es später erneut.</value>
+  </data>
+  <data name="ConfigBtnCancel.Text">
+    <value>abbrechen</value>
+  </data>
+  <data name="ConfigBtnDelete.Text">
+    <value>löschen</value>
+  </data>
+  <data name="ConfigBtnSave.Text">
+    <value>speichern</value>
+  </data>
+  <data name="ConfigDeleteCancelled.Text">
+    <value>Löschen abgebrochen.</value>
+  </data>
+  <data name="ConfigDeletedWarning.Text">
+    <value>Sind Sie sicher, dass Sie die Protokollierung dieses Ereignistyp entfernen wollen?</value>
+  </data>
+  <data name="ConfigDeleteInconsistency.Text">
+    <value>Es gibt eine Inkonsistenz der Benutzeroberfläche. Bitte aktualisieren Sie die Seite und versuchen Sie es erneut.</value>
+  </data>
+  <data name="ConfigUpdateError.Text">
+    <value>Die Protokollierung des Ereignistyps konnte nicht aktualisiert werden, bitte versuchen Sie es später erneut.</value>
+  </data>
+  <data name="False.Text">
+    <value>falsch</value>
+  </data>
+  <data name="LogSettings.Header">
+    <value>Protokollierte Ereignisse</value>
+  </data>
+  <data name="no.Text">
+    <value>nein</value>
+  </data>
+  <data name="True.Text">
+    <value>wahr</value>
+  </data>
+  <data name="yes.Text">
+    <value>ja</value>
+  </data>
+  <data name="btnCancel.Text">
+    <value>abbrechen</value>
+  </data>
+  <data name="btnSend.Text">
+    <value>senden</value>
+  </data>
+  <data name="EntriesPerPage.Text">
+    <value>Einträge je Seite</value>
+  </data>
+  <data name="LogDeleteWarning.Text">
+    <value>Sind Sie sicher, dass Sie die ausgewählten Protokolleinträge löschen wollen?</value>
+  </data>
+  <data name="ShowingOne.Text">
+    <value>Ein Eintrag</value>
+  </data>
+  <data name="ShowingTotal.Text">
+    <value>{0} Einträge</value>
+  </data>
+  <data name="MailToAddress.Message">
+    <value>Sie müssen eine gültige E-Mail-Adresse angeben.</value>
+  </data>
+  <data name="Email.Message">
+    <value>Sie müssen eine gültige E-Mail-Adresse angeben..</value>
+  </data>
+  <data name="UnAuthorizedToSendLog.Text">
+    <value>Sie sind nicht berechtigt, diese Protokolleinträge weiterzuleiten.</value>
+  </data>
+  <data name="AllTypes.Text">
+    <value>Alle Typen</value>
+  </data>
+</root>

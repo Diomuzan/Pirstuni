@@ -1,0 +1,410 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System" name="System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="$this.DefaultModifiers" type="System.CodeDom.MemberAttributes, System">
+    <value>Privat</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="$this.TrayLargeIcon" type="System.Boolean, mscorlib">
+    <value>falsch</value>
+  </data>
+  <data name="$this.TrayAutoArrange" type="System.Boolean, mscorlib">
+    <value>wahr</value>
+  </data>
+  <data name="btnCancel.Text">
+    <value>schließen</value>
+  </data>
+  <data name="btnOK.Text">
+    <value>speichern</value>
+  </data>
+  <data name="lblHeader.Text">
+    <value>Informationen</value>
+  </data>
+  <data name="lblModInst.Text">
+    <value>Modul-Instanz:</value>
+  </data>
+  <data name="lblModName.Text">
+    <value>Modulname:</value>
+  </data>
+  <data name="lblModType.Text">
+    <value>Modultyp:</value>
+  </data>
+  <data name="lblSettings.Text">
+    <value>Einstellungen</value>
+  </data>
+  <data name="lblUName.Text">
+    <value>Benutzername:</value>
+  </data>
+  <data name="Error1.Text">
+    <value>Sie sind nicht berechtigt, diese Seite zu betrachten!</value>
+  </data>
+  <data name="lblPage.Text">
+    <value>Seite:</value>
+  </data>
+  <data name="lblSetFor.Text">
+    <value>Bearbeite Einstellungen für ...</value>
+  </data>
+  <data name="lblBrowAllow.Text">
+    <value>Erlaubte Gruppen:</value>
+  </data>
+  <data name="lblBrowser.Text">
+    <value>Datei Browser:</value>
+  </data>
+  <data name="lblBrowsSec.Text">
+    <value>Datei Browser</value>
+  </data>
+  <data name="lblCSSURL.Text">
+    <value>CSS des Editor-Bereichs:</value>
+  </data>
+  <data name="lblPortal.Text">
+    <value>Name der Website:</value>
+  </data>
+  <data name="lblStyles.Text">
+    <value>Editor-Stile</value>
+  </data>
+  <data name="lblToolbars.Text">
+    <value>Symbolleisten:</value>
+  </data>
+  <data name="lnkRemove.Text">
+    <value>Einstellungen entfernen</value>
+  </data>
+  <data name="lblInfo.Text">
+    <value>Einstellungen gespeichert. Laden Sie die Seite neu, um die Änderungen zu sehen!</value>
+  </data>
+  <data name="lblInfoDel.Text">
+    <value>Einstellungen gelöscht</value>
+  </data>
+  <data name="lblBlanktext.Text">
+    <value>Leerer Text:</value>
+  </data>
+  <data name="lblRole.Text">
+    <value>Gruppe</value>
+  </data>
+  <data name="lblSelToolb.Text">
+    <value>Symbolleiste auswählen:</value>
+  </data>
+  <data name="Options.Text">
+    <value>Editor-Optionen</value>
+  </data>
+  <data name="lblMainSet.Text">
+    <value>Grundeinstellungen</value>
+  </data>
+  <data name="lblBrowserDirs.Text">
+    <value>Unterordner für nicht Admins benutzen (..\Portals\0\userfiles\username)?</value>
+  </data>
+  <data name="lblTemplates.Text">
+    <value>Editor-Vorlagen</value>
+  </data>
+  <data name="lblTemplFiles.Text">
+    <value>Editor-Vorlagendatei:</value>
+  </data>
+  <data name="lblCustomConfig.Text">
+    <value>Eigene Konfigurationsdatei:</value>
+  </data>
+  <data name="AddToolbar.Text">
+    <value>Neue Toolbar Set hinzufügen</value>
+  </data>
+  <data name="CancelToolbar.Text">
+    <value>Editieren abbrechen</value>
+  </data>
+  <data name="DeleteToolbar.Text">
+    <value>Ausgewählte Symbolleiste löschen</value>
+  </data>
+  <data name="EditToolbar.Text">
+    <value>Ausgewählte Symbolleiste bearbeiten</value>
+  </data>
+  <data name="lblCustomToolbars.Text">
+    <value>Eigene Symbolleisten</value>
+  </data>
+  <data name="lblToolbarList.Text">
+    <value>Eigene Symbolleiste:</value>
+  </data>
+  <data name="lblToolbName.Text">
+    <value>Symbolleistenname:</value>
+  </data>
+  <data name="lblToolbSet.Text">
+    <value>Verfügbare Schaltflächen:</value>
+  </data>
+  <data name="SaveToolbar.Text">
+    <value>Symbolleiste speichern</value>
+  </data>
+  <data name="lblUseJquery.Text">
+    <value>jQuery-Adapter benutzen?</value>
+  </data>
+  <data name="lblHeight.Text">
+    <value>Editor-Höhe ('px' oder '%') :</value>
+  </data>
+  <data name="lblWidth.Text">
+    <value>Editor-Breite ('px' oder '%') :</value>
+  </data>
+  <data name="lblImExport.Text">
+    <value>Einstellungen importieren/exportieren....</value>
+  </data>
+  <data name="lblResizeHeight.Text">
+    <value>Standardhöhe bei Bildverkleinerung:</value>
+  </data>
+  <data name="lblResizeWidth.Text">
+    <value>Standardbreite bei Bildverkleinerung:</value>
+  </data>
+  <data name="lnkExport.Text">
+    <value>exportieren</value>
+  </data>
+  <data name="lnkImport.Text">
+    <value>importieren</value>
+  </data>
+  <data name="BadImportXml.Text">
+    <value>Falsche XML-Datei!</value>
+  </data>
+  <data name="Export.Text">
+    <value>Aktuelle Editor-Einstellungen exportiert</value>
+  </data>
+  <data name="Imported.Text">
+    <value>Editor-Einstellungen importiert für</value>
+  </data>
+  <data name="lblInjectSyntaxJs.Text">
+    <value>SyntaxHighlighter Js-Link injezieren?</value>
+  </data>
+  <data name="UploadFolderLabel.Text">
+    <value>Standardordner zum Hochladen:</value>
+  </data>
+  <data name="BrowserRootFolder.Text">
+    <value>Basisordner anzeigen:</value>
+  </data>
+  <data name="lblAutoCreateFileThumbNails.Text">
+    <value>Auto. Miniaturbilder für Vorschau erstellen:</value>
+  </data>
+  <data name="lblShowPageLinksTabFirst.Text">
+    <value>Reiter mit Seiten-Link zuerst anzeigen:</value>
+  </data>
+  <data name="lblUseAnchorSelector.Text">
+    <value>Anker-Auswahl anzeigen (findet autom. alle Anker auf der gewählen Seite):</value>
+  </data>
+  <data name="FileListViewModeLabel.Text">
+    <value>Standard-Listenansicht:</value>
+  </data>
+  <data name="SettingsExportTitle.Text">
+    <value>Einstellungen exportieren</value>
+  </data>
+  <data name="SettingsImportTitle.Text">
+    <value>Einstellungen importieren</value>
+  </data>
+  <data name="ExportNow.Text">
+    <value>exportieren</value>
+  </data>
+  <data name="ImportNow.Text">
+    <value>Importieren</value>
+  </data>
+  <data name="FileListPageSizeLabel.Text">
+    <value>Dateien pro Seite (0=Keine Seiten):</value>
+  </data>
+  <data name="Remove.Help">
+    <value>Optionen nur für aktuelle(s) {0} löschen.</value>
+  </data>
+  <data name="Remove.Text">
+    <value>{0} Optionen löschen</value>
+  </data>
+  <data name="RemoveAll.Help">
+    <value>Alle Optionen für aktuelle(s) {0} löschen.</value>
+  </data>
+  <data name="RemoveAll.Text">
+    <value>Alle {0} Optionen löschen</value>
+  </data>
+  <data name="CreateGroupLabel.Text">
+    <value>Neue Gruppe erstellen</value>
+  </data>
+  <data name="CreateGroupTitle.Text">
+    <value>Neue Gruppe zur Symbolleistengruppe hinzufügen?</value>
+  </data>
+  <data name="DeleteGroup.Text">
+    <value>Diese Symbolleisten-Gruppe löschen?</value>
+  </data>
+  <data name="DeleteToolbarButton.Text">
+    <value>Diesen Toolbar Button entfernen?</value>
+  </data>
+  <data name="EditGroupName.Text">
+    <value>Anklicken um diesen Gruppen Namen zu ändern</value>
+  </data>
+  <data name="NewGroupName.Text">
+    <value>Gruppe erstellen</value>
+  </data>
+  <data name="SaveGroupName.Text">
+    <value>Gruppenname speichern</value>
+  </data>
+  <data name="lblToolbarPriority.Text">
+    <value>Priorität der Symbolleiste:</value>
+  </data>
+  <data name="ToolbarGroupsLabel.Text">
+    <value>Symbolleisten-Gruppen:</value>
+  </data>
+  <data name="CodeMirrorLabel.Text">
+    <value>CodeMirror-Darstellung (Source Syntax Highlighting):</value>
+  </data>
+  <data name="lblSkin.Text">
+    <value>Layout</value>
+  </data>
+  <data name="NoJava.Text">
+    <value>&lt;strong&gt;CKEditor benötigt JavaScript&lt;/strong&gt;. In einem Browser ohne JavaScript sehen Sie nur den Quelltext in einem Feld, ohne die Interaktiven Bearbeitungsfunktionen.</value>
+  </data>
+  <data name="lblEditorConfig.Text">
+    <value>Editor-Einstellungen</value>
+  </data>
+  <data name="ModuleError.Text">
+    <value>Die Editor-Einstellungen für die Modulinstanzen können nur auf der Seite aufgerufen werden, auf der sich die Modulinstanz befindet.</value>
+  </data>
+  <data name="ModuleHeader.Text">
+    <value>CKEditor konfigurieren</value>
+  </data>
+  <data name="PortalOnlyLabel.Text">
+    <value>Einstellungen nur für diese Website anzeigen oder alle Websites?</value>
+  </data>
+  <data name="Wait.Text">
+    <value>Bitte warten...</value>
+  </data>
+  <data name="WaitMessage.Text">
+    <value>Einstellungen werden geladen</value>
+  </data>
+  <data name="PortalOnly.Text">
+    <value>Nur diese Website</value>
+  </data>
+  <data name="ModuleHasSettingLabel.Text">
+    <value>Enthält Moduleinstellungen</value>
+  </data>
+  <data name="ModuleNoSettingLabel.Text">
+    <value>Enthällt keine Moduleinstellungen</value>
+  </data>
+  <data name="PageHasSettingLabel.Text">
+    <value>Enthält die Seiteneinstellungen</value>
+  </data>
+  <data name="PageNoSettingLabel.Text">
+    <value>Enthält keine Seiteneinstellungen</value>
+  </data>
+  <data name="PortalHasSettingLabel.Text">
+    <value>Enthält Website-Einstellungen</value>
+  </data>
+  <data name="PortalNoSettingLabel.Text">
+    <value>Enthält keine Website-Einstellungen</value>
+  </data>
+  <data name="IconLegendLabel.Text">
+    <value>Symbol-Legende</value>
+  </data>
+  <data name="EditorConfigWarning.Text">
+    <value>&lt;strong&gt;Info:&lt;/strong&gt; Die folgenden Einstellungen sind nur für Experten, bitte nehmen Sie nur Änderungen vor, wenn Sie sich über die Konsequenzen sicher sind. Um mehr über die Einstellungen zu erfahren, besuchen Sie die &lt;a href="http://docs.cksource.com/ckeditor_api/symbols/CKEDITOR.config.html"&gt;&lt;strong&gt;CKEditor JavaScript API Documentation Page&lt;/strong&gt;&lt;/a&gt;. Sie können die Einstellungen leer lassen, dann werden beim Laden des Editors die Standardeinstellungen verwendet.</value>
+  </data>
+  <data name="ModuleInstance.Text">
+    <value>Modul</value>
+  </data>
+  <data name="Page.Text">
+    <value>Seite</value>
+  </data>
+  <data name="Portal.Text">
+    <value>Website</value>
+  </data>
+  <data name="RemoveModuleChild.Help">
+    <value>Löscht alle Modulinstanz-Einstellungen aller Module auf dieser Seite.</value>
+  </data>
+  <data name="RemoveModuleChild.Text">
+    <value>Alle Moduleinstellungen der Seite löschen.</value>
+  </data>
+  <data name="RemovePageChild.Help">
+    <value>Löscht alle Seiteneinstellungen der Seiten unterhalb dieser Seite</value>
+  </data>
+  <data name="RemovePageChild.Text">
+    <value>Alle Unterseiten-Einstellungen löschen</value>
+  </data>
+  <data name="RowBreak.Text">
+    <value>Zeilenumbruch</value>
+  </data>
+  <data name="AddRowBreakLabel.Text">
+    <value>Zeilenumbruch hinzufügen</value>
+  </data>
+  <data name="AddRowBreakTitle.Text">
+    <value>Neuen Zeilenumbruch zum Toolbar Set hinzufügen</value>
+  </data>
+  <data name="DefaultLinkMode0.Text">
+    <value>Relative URL</value>
+  </data>
+  <data name="DefaultLinkMode1.Text">
+    <value>Absolute URL</value>
+  </data>
+  <data name="DefaultLinkMode2.Text">
+    <value>Relative gesicherte URL</value>
+  </data>
+  <data name="DefaultLinkMode3.Text">
+    <value>Absolute gesicherte URL</value>
+  </data>
+  <data name="DefaultLinkModeLabel.Text">
+    <value>Standard Link-Modus</value>
+  </data>
+  <data name="DetailView.Text">
+    <value>Detailansicht</value>
+  </data>
+  <data name="IconsView.Text">
+    <value>Symbolansicht</value>
+  </data>
+  <data name="ListView.Text">
+    <value>Listenansicht</value>
+  </data>
+  <data name="BlanktextTT.Text">
+    <value>Der Standardtext wird angezeigt, wenn kein Inhalt vorhanden ist.</value>
+  </data>
+  <data name="NewsArcticlesArticlesList.Text">
+    <value>Wählen Sie einen Artikel:</value>
+  </data>
+  <data name="NewsArcticlesModuleList.Text">
+    <value>Wählen Sie die Seite und die NewsArticle-Modulinstanz:</value>
+  </data>
+  <data name="ToolbarNameMissing.Text">
+    <value>Sie müssen einen Symbolleisten-Namen angeben</value>
+  </data>
+  <data name="ToolbarSetCreated.Text">
+    <value>Neue Symbolleiste "{0}" erstellt!</value>
+  </data>
+  <data name="ToolbarSetDeleted.Text">
+    <value>Ausgewählte Symbolleiste wurde gelöscht!</value>
+  </data>
+  <data name="ToolbarSetSaved.Text">
+    <value>Symbolleiste gespeichert!</value>
+  </data>
+  <data name="CustomJsFileLabel.Text">
+    <value>Eigene JS-Datei</value>
+  </data>
+  <data name="OverrideFileOnUploadLabel.Text">
+    <value>Bestehende Datei beim Hochladen überschreiben? (andernfalls wird eine neue Datei erzeugt)</value>
+  </data>
+  <data name="CopyPageChild.Help">
+    <value>Kopiert die aktuellen Einstellungen für alle Unterseiten</value>
+  </data>
+  <data name="CopyPageChild.Text">
+    <value>Einstellungen für Unterseiten kopieren</value>
+  </data>
+  <data name="lblInfoCopyAll.Text">
+    <value>Die Einstellungen wurden auf alle untergeordneten Seiten kopiert.</value>
+  </data>
+  <data name="SizeLimitLabel.Text">
+    <value>Max. Dateigröße beim Hochladen</value>
+  </data>
+  <data name="UploadFileLimitLabel.Text">
+    <value>Max. Dateigröße beim Hochladen:</value>
+  </data>
+  <data name="AllPortals.Text">
+    <value>Alle Websites</value>
+  </data>
+  <data name="HostHasSettingLabel.Text">
+    <value>Enthält Systemeinstellungen</value>
+  </data>
+  <data name="HostNoSettingLabel.Text">
+    <value>Enthält keine Systemeinstellungen</value>
+  </data>
+</root>

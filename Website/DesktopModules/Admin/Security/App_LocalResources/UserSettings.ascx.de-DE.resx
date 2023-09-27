@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="CannotChangeSettings.Text">
+    <value xml:space="preserve">Diese Seite ist Mitglied einer Website-Gruppe, diese Einstellungen werden auf der Hauptseite eingestellt.</value>
+  </data>
+  <data name="Column_Address.Help">
+    <value xml:space="preserve">Spalte 'Adresse' anzeigen</value>
+  </data>
+  <data name="Column_Address.Text">
+    <value xml:space="preserve">Spalte 'Adresse' anzeigen:</value>
+  </data>
+  <data name="Column_Authorized.Help">
+    <value xml:space="preserve">Spalte 'autorisiert' anzeigen</value>
+  </data>
+  <data name="Column_Authorized.Text">
+    <value xml:space="preserve">Spalte 'autorisiert' anzeigen:</value>
+  </data>
+  <data name="Column_CreatedDate.Help">
+    <value xml:space="preserve">Spalte 'Erstellt am' anzeigen</value>
+  </data>
+  <data name="Column_CreatedDate.Text">
+    <value xml:space="preserve">Spalte 'Erstellt am' anzeigen:</value>
+  </data>
+  <data name="Column_DisplayName.Help">
+    <value xml:space="preserve">Spalte 'Anzeigename' anzeigen</value>
+  </data>
+  <data name="Column_DisplayName.Text">
+    <value xml:space="preserve">Spalte 'Anzeigename' anzeigen:</value>
+  </data>
+  <data name="Column_Email.Help">
+    <value xml:space="preserve">Spalte 'E-Mail' anzeigen</value>
+  </data>
+  <data name="Column_Email.Text">
+    <value xml:space="preserve">Spalte 'E-Mail' anzeigen:</value>
+  </data>
+  <data name="Column_FirstName.Help">
+    <value xml:space="preserve">Spalte 'Vorname' anzeigen</value>
+  </data>
+  <data name="Column_FirstName.Text">
+    <value xml:space="preserve">Spalte 'Vorname' anzeigen:</value>
+  </data>
+  <data name="Column_LastLogin.Help">
+    <value xml:space="preserve">Spalte 'letzte Anmeldung' anzeigen</value>
+  </data>
+  <data name="Column_LastLogin.Text">
+    <value xml:space="preserve">Spalte 'letzte Anmeldung' anzeigen:</value>
+  </data>
+  <data name="Column_LastName.Help">
+    <value xml:space="preserve">Spalte 'Nachname' anzeigen</value>
+  </data>
+  <data name="Column_LastName.Text">
+    <value xml:space="preserve">Spalte 'Nachname' anzeigen:</value>
+  </data>
+  <data name="Column_Telephone.Help">
+    <value xml:space="preserve">Spalte Telefon anzeigen</value>
+  </data>
+  <data name="Column_Telephone.Text">
+    <value xml:space="preserve">Spalte Telefon anzeigen:</value>
+  </data>
+  <data name="Combo.Text">
+    <value xml:space="preserve">Auswahlfeld</value>
+  </data>
+  <data name="ControlTitle_settings.Text">
+    <value xml:space="preserve">Benutzerkonto einstellen</value>
+  </data>
+  <data name="ControlTitle_usersettings.Text">
+    <value xml:space="preserve">Benutzereinstellungen</value>
+  </data>
+  <data name="Display_Mode.Help">
+    <value xml:space="preserve">Wählen Sie den StandardAnzeigemodus für die Benutzertabelle</value>
+  </data>
+  <data name="Display_Mode.Text">
+    <value xml:space="preserve">Standard-Anzeigemodus:</value>
+  </data>
+  <data name="Display_SuppressPager.Help">
+    <value xml:space="preserve">Aktivieren diese Option, um Blättern in der Benutzerliste zu deaktivieren, wenn nur eine Seite anzuzeigen ist.</value>
+  </data>
+  <data name="Display_SuppressPager.Text">
+    <value xml:space="preserve">Blättern in Ergebnisliste deaktivieren</value>
+  </data>
+  <data name="FirstLetter.Text">
+    <value xml:space="preserve">Erste Spalte</value>
+  </data>
+  <data name="InvalidRegex.Text">
+    <value xml:space="preserve">Der Wert für {0} ist kein gültiger regulärer Ausdruck.</value>
+  </data>
+  <data name="MembersOnly.Text">
+    <value xml:space="preserve">nur für Mitglieder</value>
+  </data>
+  <data name="PasswordSettings.Text">
+    <value xml:space="preserve">Kennwortwechsel</value>
+  </data>
+  <data name="PasswordSettingsHelp.Text">
+    <value xml:space="preserve">Sie können hier Änderungsregeln für Kennworte einstellen.</value>
+  </data>
+  <data name="Profile_ManageServices.Help">
+    <value xml:space="preserve">Aktivieren Sie diese Option, um das Register "Dienste verwalten" im Benutzerprofil anzuzeigen</value>
+  </data>
+  <data name="Profile_ManageServices.Text">
+    <value xml:space="preserve">"Dienste verwalten" anzeigen</value>
+  </data>
+  <data name="ProviderSettings.Text">
+    <value xml:space="preserve">Einstellungen des Membership-Diensts</value>
+  </data>
+  <data name="ProviderSettingsHelp.Text">
+    <value xml:space="preserve">In diesem Abschnitt sehen Sie die Einstellungen des Membership-Diensts. Einige Provider erlauben Ihnen hier Änderungen, der Standarddienst erfordert es, die Änderungen ausschließlich in der Web.config vorzunehmen.</value>
+  </data>
+  <data name="Records_PerPage.Help">
+    <value xml:space="preserve">Geben Sie die Anzahl der anzuzeigenden Benutzer je Seite an</value>
+  </data>
+  <data name="Records_PerPage.Text">
+    <value xml:space="preserve">Benutzer je Seite:</value>
+  </data>
+  <data name="Security_DisplayNameFormat.Help">
+    <value xml:space="preserve">Sie können bei Bedarf den Anzeigenamen der Benutzer automatisch generieren, wobei Sie die Platzhalter [FIRSTNAME] und [LASTNAME] verwenden können. Der Anzeigename kann in diesem Fall nicht individuell geändert werden.</value>
+  </data>
+  <data name="Security_DisplayNameFormat.Text">
+    <value xml:space="preserve">Format des Anzeigenamens</value>
+  </data>
+  <data name="Security_UsersControl.Help">
+    <value xml:space="preserve">Wählen Sie hier, wie die Auswahl von Benutzern bei der Zuordnung zu Benutzergruppen erfolgen soll.</value>
+  </data>
+  <data name="Security_UsersControl.Text">
+    <value xml:space="preserve">Anzeige des Benutzers bei Gruppenzuordnung</value>
+  </data>
+  <data name="TextBox.Text">
+    <value xml:space="preserve">Textfeld</value>
+  </data>
+  <data name="UserAccounts.Text">
+    <value xml:space="preserve">Benutzerkonto-Einstellungen</value>
+  </data>
+</root>

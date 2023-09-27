@@ -59,8 +59,8 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="https://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="https://www.w3.org/XML/1998/namespace" />
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
@@ -186,6 +186,12 @@
   <data name="DatabaseName.Text" xml:space="preserve">
     <value>Name der Datenbank</value>
   </data>
+  <data name="DatabaseObjectQualifier.Help" xml:space="preserve">
+    <value>Geben Sie hier den eindeutigen Objekt-Präfix für alle Objekte Ihrer Website innerhalb der Datenbank ein.</value>
+  </data>
+  <data name="DatabaseObjectQualifier.Text" xml:space="preserve">
+    <value>Objekt-Präfix</value>
+  </data>
   <data name="DatabaseOwner.Text" xml:space="preserve">
     <value>Datenbank-Eigentümer</value>
   </data>
@@ -214,7 +220,7 @@
     <value>Geben Sie hier den Namen oder die IP-Adresse und Instanz Ihres Datenbank-Servers an.</value>
   </data>
   <data name="DatabaseServer.Required" xml:space="preserve">
-    <value>Sie müssen den Namen des Datenbankservers angeben.</value>
+    <value>Sie müssen den Namen des Datenbank-Servers angeben.</value>
   </data>
   <data name="DatabaseServer.Text" xml:space="preserve">
     <value>Datenbank-Server</value>
@@ -249,6 +255,15 @@
   <data name="DbSecurityUserDefined.Text" xml:space="preserve">
     <value>benutzerdefiniert</value>
   </data>
+  <data name="ImprovementsProgramTitle.Text" xml:space="preserve">
+    <value>Produktverbesserungsprogramm</value>
+  </data>
+  <data name="ImprovementProgramExplain.Text" xml:space="preserve">
+    <value>Das Produktverbesserungsprogramm ermöglicht uns, besser zu verstehen, wie wir DNN für Sie verbessern können. Die Daten helfen uns, die Nutzung zu analysieren und was für die Nutzer des Produkts wichtig ist. Alle Daten sind anonym und nur für den internen Gebrauch bestimmt. Erfahren Sie mehr über das &lt;a href="http://www.dnnsoftware.com/dnn-improvement-program" target="_blank"&gt;Produktverbesserungsprogramm&lt;/a&gt;.</value>
+  </data>
+  <data name="ImprovementProgramLabel.Text" xml:space="preserve">
+    <value>Anonyme Nutzungsinformationen an DNN senden</value>
+  </data>
   <data name="DeletingOldFiles.Text" xml:space="preserve">
     <value>Ältere Dateien löschen für </value>
   </data>
@@ -265,10 +280,12 @@
     <value>Berechtigungsprüfung für Dateien und Ordner</value>
   </data>
   <data name="FileAndFolderPermissionCheckFailed.Text" xml:space="preserve">
-    <value>&lt;div class="permission"&gt;&lt;img alt="Das bild zeigt die Berechtigungseinstellungen für das Basisverzeichnis der Website, die Lesen, Schreiben und Ändern dem Benutzerkonto gewähren müssen, das vom IIS-Anwendungspool verwendet wird." src="..\403-3.gif" align="right" hspace="10"/&gt;
+    <value>&lt;div class="permission"&gt;&lt;img alt="Das Bild zeigt die Berechtigungseinstellungen für das Basisverzeichnis der Website, die Lesen, Schreiben und Ändern dem Benutzerkonto gewähren müssen, das vom IIS-Anwendungspool verwendet wird." src="..\403-3.gif" align="right" hspace="10"/&gt;
 &lt;p&gt;&lt;b&gt;&lt;font color='red'&gt;Ihre Website hat die Berechtigungsprüfung nicht bestanden.&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
 Gehen Sie im Windows Explorer zum Basisverzeichnis Ihrer Website ({0}). Klicken Sie das Verzeichnis mit der rechten Maustaste an und wählen Sie Sicherheit und Berechtigungen im Kontextmenü und dann den Reiter Berechtigungen. Fügen Sie hier das entsprechenden Benutzerkonto hinzu und gewähren Sie die Berechtigungen.
 &lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;Falls Sie Windows Server 2003, Windows Vista oder Windows Server 2008 mit IIS6 oder IIS7 verwenden&lt;/h3&gt;
+&lt;p&gt;Das Konto NT AUTHORITY\Netzwerkdienst muss die Berechtigungen Lesen, Schreiben und Ändern für das Basisverzeichnis der Website erhalten.&lt;/p&gt;
 &lt;h3&gt;Falls Sie Windows 7, Windows 8 oder Windows Server 2008 R2 bzw. 2012 verwenden mit IIS7.5&lt;/h3&gt;
 &lt;p&gt;Das Benutzerkonto IIS AppPool\DefaultAppPool muss die Berechtigungen Lesen, Schreiben und Ändern für das Basisverzeichnis der Website erhalten.&lt;/p&gt;&lt;p&gt;&lt;a class="dnnPrimaryAction" href=""&gt;Recheck&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</value>
   </data>
@@ -288,7 +305,7 @@ Gehen Sie im Windows Explorer zum Basisverzeichnis Ihrer Website ({0}). Klicken 
     <value>Prüfe das Löschen von Ordnern</value>
   </data>
   <data name="HostWarning.Text" xml:space="preserve">
-    <value>Der Name des Systemverwalters enthält nicht zugelassene Zeichen, verwenden dürfen Sie nur a-Z, 0-9, . und -.  Bitte passen Sie den Namen entsprechend an.</value>
+    <value>Der Name des Systemverwalters enthält nicht zugelassene Zeichen, verwenden dürfen Sie nur a bis Z, 0 bis 9, . (Punkt) und - (Bindestrich).  Bitte passen Sie den Namen entsprechend an.</value>
   </data>
   <data name="IISVerificationFail.Text" xml:space="preserve">
     <value>Der Anwendungspool des Webservers muss im integrierten Modus ausgeführt werden.</value>
@@ -333,16 +350,16 @@ Gehen Sie im Windows Explorer zum Basisverzeichnis Ihrer Website ({0}). Klicken 
     <value>Installation</value>
   </data>
   <data name="InstallVersion.Text" xml:space="preserve">
-    <value>füge Installationsversion hinzu</value>
+    <value>Installationsversion hinzufügen</value>
   </data>
   <data name="IntroDetail.Text" xml:space="preserve">
-    <value>&lt;a class="dnnSecondaryAction" href="https://www.dnnsoftware.com/Resources/Training/Training-Videos/Installation.aspx" target="new"&gt;Installations-Video&lt;/a&gt; (in engl. Sprache)</value>
+    <value>&lt;a class="dnnSecondaryAction" href="http://www.dotnetnuke.com/Resources/Training/Training-Videos/Installation.aspx" target="new"&gt;Installations-Video&lt;/a&gt; (in engl. Sprache)</value>
   </data>
   <data name="InvalidQualifier.Text" xml:space="preserve">
     <value>Der Objekt-Präfix mus mit einem Buchstaben beginnen und darf nicht mehr als 20 Zeichen haben.</value>
   </data>
   <data name="IsAbleToPerformDatabaseActions.Text" xml:space="preserve">
-    <value>Ihr SQL-Server-Benutzer verfügt nicht über die notwendigen Berechtigungen (dbo) zum Installieren.</value>
+    <value>Ihr SQL-Server-Benutzer verfügt nicht über die notwendigen Eigentümer-Berechtigungen (DBO) zum Installieren.</value>
   </data>
   <data name="IsAbleToPerformDatabaseActionsCheck.Text" xml:space="preserve">
     <value>Prüfe, ob das Benutzerkonto am SQL-Server über die notwendigen Datenbankberechtigungen verfügt.</value>
@@ -350,11 +367,14 @@ Gehen Sie im Windows Explorer zum Basisverzeichnis Ihrer Website ({0}). Klicken 
   <data name="IsSqlServerDbo.Text" xml:space="preserve">
     <value>Ihr Datenbank-Benutzer verfügt nicht über die DBO-Berechtigungen.</value>
   </data>
+  <data name="IsValidDotNetVersion.Text" xml:space="preserve">
+    <value>DotNetNuke erfordert mindestens Version 4.0 des .Net-Frameworks.</value>
+  </data>
   <data name="IsValidSqlServerVersion.Text" xml:space="preserve">
-    <value>DotNetNuke erfordert mindestens Version 2008 R2 des Microsoft SQL Servers (Express oder höher).</value>
+    <value>DotNetNuke erfordert mindestens Version 2008 des Microsoft SQL Servers (Express oder höher).</value>
   </data>
   <data name="IsValidSqlServerVersionCheck.Text" xml:space="preserve">
-    <value>Prüfe, ob mindestens SQL-Server 2008 R2 (Express oder höher) installiert ist.</value>
+    <value>Prüfe, ob mindestens SQL-Server 2008 (Express oder höher) installiert ist.</value>
   </data>
   <data name="Language.Help" xml:space="preserve">
     <value>Wählen Sie hier die Standardsprache, die Sie für Ihre Website verwenden wollen.</value>
@@ -510,21 +530,21 @@ Gehen Sie im Windows Explorer zum Basisverzeichnis Ihrer Website ({0}). Klicken 
     <value>Geben Sie eine E-Mail-Adresse für diesen Benutzer ein.</value>
   </data>
   <data name="Email.Invalid" xml:space="preserve">
-    <value>Die eingegebene E-Mail-Adresse ist nicht gültig</value>
+    <value>Die eingegebene E-Mail-Adresse ist nicht gültig.</value>
   </data>
   <data name="Email.Required" xml:space="preserve">
-    <value>Eine E-Mail-Adresse ist erforderlich</value>
+    <value>Eine E-Mail-Adresse ist erforderlich.</value>
   </data>
   <data name="Email.Text" xml:space="preserve">
     <value>E-Mail-Addresse:</value>
   </data>
   <data name="AcceptTerms.Required" xml:space="preserve">
-    <value>Accept the terms of the license agreement to continue.</value>
+    <value>Akzeptieren Sie die Lizenzbedingungen, um fortzufahren.</value>
   </data>
   <data name="AcceptTerms.Text" xml:space="preserve">
-    <value>I accept the terms of the &lt;a href="../Licenses/Dnn_Corp_License.pdf" target="_blank"&gt;license agreement&lt;/a&gt;</value>
+    <value>Ich akzeptiere die Bedingungen der &lt;a href="../Licenses/Dnn_Corp_License.pdf" target="_blank"&gt;Lizenzvereinbarung&lt;/a&gt;.</value>
   </data>
-  <data name="DotNetVersion472Required.Text" xml:space="preserve">
-    <value>DNN benötigt .Net Framework in der Version 4.7.2 oder neuer. Bitte prüfen Sie verfügbare Updates für Windows, bevor Sie mit der Installation fortfahren.</value>
+  <data name="FcnMode.Text">
+    <value>FcnMode hinzufügen</value>
   </data>
 </root>

@@ -1,0 +1,372 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="nav_SiteImportExport.Text">
+    <value>Import &amp; Export</value>
+  </data>
+  <data name="SiteImportExport.Header">
+    <value>Import &amp; Export</value>
+  </data>
+  <data name="ImportButton.Text">
+    <value>Datenimport</value>
+  </data>
+  <data name="ExportButton.Text">
+    <value>Daten exportieren</value>
+  </data>
+  <data name="LastImport.Text">
+    <value>Letzter Import</value>
+  </data>
+  <data name="LastExport.Text">
+    <value>Letzter Export</value>
+  </data>
+  <data name="LastUpdate.Text">
+    <value>Letzte Aktualisierung</value>
+  </data>
+  <data name="JobDate.Header">
+    <value>Datum</value>
+  </data>
+  <data name="JobType.Header">
+    <value>Typ</value>
+  </data>
+  <data name="JobUser.Header">
+    <value>Benutzername</value>
+  </data>
+  <data name="JobPortal.Header">
+    <value>Website</value>
+  </data>
+  <data name="JobStatus.Header">
+    <value>Status</value>
+  </data>
+  <data name="LegendExport.Text">
+    <value>Website-Export</value>
+  </data>
+  <data name="LegendImport.Text">
+    <value>Website-Import</value>
+  </data>
+  <data name="LogSection.Text">
+    <value>Import- &amp; Export-Protokoll</value>
+  </data>
+  <data name="ShowSiteLabel.Text">
+    <value>Website: </value>
+  </data>
+  <data name="ShowFilterLabel.Text">
+    <value>Filter: </value>
+  </data>
+  <data name="JobTypeAll.Text">
+    <value>Alle Importe und Exporte</value>
+  </data>
+  <data name="JobTypeImport.Text">
+    <value>Alle Importe</value>
+  </data>
+  <data name="JobTypeExport.Text">
+    <value>Alle Exporte</value>
+  </data>
+  <data name="SearchPlaceHolder.Text">
+    <value>Nach Stichwort suchen</value>
+  </data>
+  <data name="SummaryNoteTitle.Text">
+    <value>*Hinweis:</value>
+  </data>
+  <data name="SummaryNoteDescription.Text">
+    <value>Ihre Exportdateien werden sicher im Website-Verzeichnis App_Data/ExportImport gespeichert.</value>
+  </data>
+  <data name="ExportSummary.Text">
+    <value>Exportzusammenfassung</value>
+  </data>
+  <data name="NoJobs.Text">
+    <value>Es gibt keine Jobs</value>
+  </data>
+  <data name="BackToImportExport.Text">
+    <value>Zurück zu Import/Export</value>
+  </data>
+  <data name="Export.Text">
+    <value>Daten exportieren</value>
+  </data>
+  <data name="Import.Text">
+    <value>Daten importieren</value>
+  </data>
+  <data name="ExportSettings.Text">
+    <value>Exporteinstellungen </value>
+  </data>
+  <data name="Site.Text">
+    <value>Website</value>
+  </data>
+  <data name="Description.Text">
+    <value>Beschreibung</value>
+  </data>
+  <data name="Name.Text">
+    <value>Name</value>
+  </data>
+  <data name="IncludeInExport.Text">
+    <value>In Export aufnehmen</value>
+  </data>
+  <data name="PagesInExport.Text">
+    <value>Seiten im Export</value>
+  </data>
+  <data name="BeginExport.Text">
+    <value>Export starten</value>
+  </data>
+  <data name="Cancel.Text">
+    <value>abbrechen</value>
+  </data>
+  <data name="Content.Text">
+    <value>Inhalt</value>
+  </data>
+  <data name="ProfileProperties.Text">
+    <value>Profileigenschaften</value>
+  </data>
+  <data name="Permissions.Text">
+    <value>Berechtigungen</value>
+  </data>
+  <data name="Extensions.Text">
+    <value>Erweiterungen</value>
+  </data>
+  <data name="DeletionsInExport.Text">
+    <value>gelöschte einschließenn</value>
+  </data>
+  <data name="ExportName.ErrorMessage">
+    <value>Sie müssen den Namen eingeben</value>
+  </data>
+  <data name="ExportRequestSubmitted">
+	<value>Ihr Datenexport wurde eingeplant und wird in Kürze ausgeführt.</value>
+  </data>
+  <data name="ExportRequestSubmit.ErrorMessage">
+    <value>Der Website-Export konnte nicht ausgeführt werden, bitte versuchen Sie es erneut.</value>
+  </data>
+  <data name="ImportRequestSubmitted">
+	<value>Ihr Datenimport wird in Kürze gestartet.</value>
+  </data>
+  <data name="ImportRequestSubmit.ErrorMessage">
+    <value>Der Website-Import konnte nicht ausgeführt werden, bitte versuchen Sie es erneut.</value>
+  </data>
+  <data name="JobStatus0.Text">
+    <value>abgeschickt</value>
+  </data>
+  <data name="JobStatus1.Text">
+    <value>wird bearbeitet</value>
+  </data>
+  <data name="JobStatus2.Text">
+    <value>abgeschlossen</value>
+  </data>
+  <data name="JobStatus3.Text">
+    <value>fehlgeschlagen</value>
+  </data>
+  <data name="JobStatus4.Text">
+    <value>abgebrochen</value>
+  </data>
+  <data name="CreatedOn.Text">
+    <value>Erstellt am</value>
+  </data>
+  <data name="CompletedOn.Text">
+    <value>Abgeschlossen am </value>
+  </data>
+  <data name="ExportFile.Text">
+    <value>Dateien exportieren</value>
+  </data>
+  <data name="lblLanguages.Help">
+    <value>Wählen Sie alle zusätzlichen Sprachen aus, die in einer mehrsprachigen Website-Vorlage enthalten sein sollen oder nur eine einzelne Sprache der Website für eine einsprachige Vorlage.</value>
+  </data>
+  <data name="lblLanguages.Text">
+    <value>Sprachen exportieren</value>
+  </data>
+  <data name="lblSelectLanguages.Text">
+    <value>-- Sprachen auswählen --</value>
+  </data>
+  <data name="lblNote.Text">
+    <value>Die Standardsprache ({0}) wird immer mitexportiert.</value>
+  </data>
+  <data name="AllSites.Text">
+    <value>-- alle Websites --</value>
+  </data>
+  <data name="SelectImportPackage.Text">
+    <value>Bitte wählen Sie das zu importierende Paket</value>
+  </data>
+  <data name="ClicktoSelect.Text">
+    <value>Klicken Sie, um das Paket auszuwählen</value>
+  </data>
+  <data name="ClicktoDeselect.Text">
+    <value>Klicken Sie, um das Paket abzuwählen</value>
+  </data>
+  <data name="PackageDescription.Text">
+    <value>Paket-Beschreibung</value>
+  </data>
+  <data name="Continue.Text">
+    <value>weiter</value>
+  </data>
+  <data name="NoPackages.Text">
+    <value>Es wurde kein Importpaket gefunden</value>
+  </data>
+  <data name="SelectException.Text">
+    <value>Bitte wählen Sie ein Importpaket und versuchen Sie es erneut.</value>
+  </data>
+  <data name="AnalyzingPackage.Text">
+    <value>Das zu importierende Paket wird analysiert ...</value>
+  </data>
+  <data name="AnalyzedPackage.Text">
+    <value>Dateien verifiziert</value>
+  </data>
+  <data name="ImportSummary.Text">
+    <value>Importzusammenfassung</value>
+  </data>
+  <data name="Pages.Text">
+    <value>Seiten</value>
+  </data>
+  <data name="Users.Text">
+    <value>Benutzer</value>
+  </data>
+  <data name="UsersStep1.Text">
+    <value>Benutzer (Schritt 1 / 2)</value>
+  </data>
+  <data name="UsersStep2.Text">
+    <value>Benutzer (Schritt 2 / 2)</value>
+  </data>
+  <data name="Roles.Text">
+    <value>Rollen und Gruppen</value>
+  </data>
+  <data name="Vocabularies.Text">
+    <value>Schlagwortkataloge</value>
+  </data>
+  <data name="PageTemplates.Text">
+    <value>Seitenvorlagen</value>
+  </data>
+  <data name="IncludeProfileProperties.Text">
+    <value>Profileigenschaften einschließen</value>
+  </data>
+  <data name="IncludePermissions.Text">
+    <value>Berechtigugnen einschließen</value>
+  </data>
+  <data name="IncludeExtensions.Text">
+    <value>Erweiterungen einschließen</value>
+  </data>
+  <data name="IncludeDeletions.Text">
+    <value>Gelöschte einschloeßen</value>
+  </data>
+  <data name="IncludeContent.Text">
+    <value>Inhalt einschließen</value>
+  </data>
+  <data name="FolderName.Text">
+    <value>Verzeichnisname</value>
+  </data>
+  <data name="Timestamp.Text">
+    <value>Zeitstempel</value>
+  </data>
+  <data name="Assets.Text">
+    <value>Dateien</value>
+  </data>
+  <data name="TotalExportSize.Text">
+    <value>Gesamtgröße des Exports</value>
+  </data>
+  <data name="ExportMode.Text">
+    <value>Exportmodus</value>
+  </data>
+  <data name="OverwriteCollisions.Text">
+    <value>Bei Kollisionen überschreiben</value>
+  </data>
+  <data name="FinishImporting.Text">
+    <value>Um dem Import der Daten in Ihre Website abzuschließen, klicken Sie auf "weiter", oder klicken Sie auf "abbrechen" um den Import zu beenden.</value>
+  </data>
+  <data name="ExportModeComplete.Text">
+    <value>voll</value>
+  </data>
+  <data name="ExportModeDifferential.Text">
+    <value>differentiell</value>
+  </data>
+  <data name="ConfirmCancel.Text">
+    <value>Ja, abbrechen</value>
+  </data>
+  <data name="ConfirmDelete.Text">
+    <value>ja, entfernen</value>
+  </data>
+  <data name="KeepImport.Text">
+    <value>nein</value>
+  </data>
+  <data name="Yes.Text">
+    <value>Ja</value>
+  </data>
+  <data name="No.Text">
+    <value>nein</value>
+  </data>
+  <data name="CancelExport.Text">
+    <value>Export abbrechen</value>
+  </data>
+  <data name="CancelImport.Text">
+    <value>Import abbrechen</value>
+  </data>
+  <data name="CancelImportMessage.Text">
+    <value>Wenn Sie jetzt abbrechen, wird der Import nur unvollständig ausgeführt. Sind Sie sicher?</value>
+  </data>
+  <data name="Delete.Text">
+    <value>löschen</value>
+  </data>
+  <data name="JobCancelled.Text">
+    <value>Der Job wurde abgebrochen</value>
+  </data>
+  <data name="JobDeleted.Text">
+    <value>Der Job wurde entfernt.</value>
+  </data>
+  <data name="JobCancel.ErrorMessage">
+    <value>Der Job konnte nicht abgeschlossen werden, bitte versuchen Sie es erneut.</value>
+  </data>
+  <data name="JobDelete.ErrorMessage">
+    <value>Der Job konnte nicht entfernt werden, bitte versuchen Sie es erneut.</value>
+  </data>
+  <data name="CancelJobMessage.Text">
+    <value>Wenn Sie jetzt abbrechen, wird der Job nur unvollständig ausgeführt. Sind Sie sicher?</value>
+  </data>
+  <data name="DeleteJobMessage.Text">
+    <value>Sind Sie sicher, dass Sie diesen Job entfernen möchten?</value>
+  </data>
+  <data name="SortByDateNewest.Text">
+    <value>Datum (absteigend)</value>
+  </data>
+  <data name="SortByDateOldest.Text">
+    <value>Datum (aufsteigend)</value>
+  </data>
+  <data name="SortByName.Text">
+    <value>Name (A .. Z)</value>
+  </data>
+  <data name="ShowSortLabel.Text">
+    <value>sortiert nach:</value>
+  </data>
+  <data name="Website.Text">
+    <value>Website</value>
+  </data>
+  <data name="Mode.Text">
+    <value>Modus</value>
+  </data>
+  <data name="FileSize.Text">
+    <value>Größe</value>
+  </data>
+  <data name="VerifyPackage.Text">
+    <value>Bitte warten Sie einen Moment, das Paket wird geprüft...</value>
+  </data>
+  <data name="DeletedPortal.Text">
+    <value>gelöscht</value>
+  </data>
+  <data name="RunNow.Text">
+    <value>jetzt ausführen</value>
+  </data>
+  <data name="NoExportItem.ErrorMessage">
+    <value>Die Export-Anforderung konnte nicht gespeichert werden. Bitte wählen Sie die zu exportierenden Elemente und versuchen Sie es erneut.</value>
+  </data>
+  <data name="EmptyDateTime.Text">
+    <value>-- --</value>
+  </data>
+  <data name="SwitchOff.Text">
+    <value>aus</value>
+  </data>
+  <data name="SwitchOn.Text">
+    <value>ein</value>
+  </data>
+</root>

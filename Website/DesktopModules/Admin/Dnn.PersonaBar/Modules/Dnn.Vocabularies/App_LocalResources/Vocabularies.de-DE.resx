@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Application.Text">
+    <value>Anwendung</value>
+  </data>
+  <data name="Hierarchy.Text">
+    <value>Hierarchie</value>
+  </data>
+  <data name="Name.Required">
+    <value>Sie müssen einen Namen für das Klassifikationsschema eingeben</value>
+  </data>
+  <data name="Name.Text">
+    <value>Name</value>
+  </data>
+  <data name="Name.ToolTip">
+    <value>Der Name des Klassifikationssschemas.</value>
+  </data>
+  <data name="Portal.Text">
+    <value>Website</value>
+  </data>
+  <data name="Scope.Text">
+    <value>Anwendungsbereich</value>
+  </data>
+  <data name="Scope.ToolTip">
+    <value>Der Anwendungsbereich des Klassifikationssschemas - die aktuelle Website oder alle Websites der Installation.</value>
+  </data>
+  <data name="Simple.Text">
+    <value>einfach</value>
+  </data>
+  <data name="Type.Text">
+    <value>Typ</value>
+  </data>
+  <data name="Type.ToolTip">
+    <value>Der Typ des Klassifikationsschemas - einfach oder hierarchisch.</value>
+  </data>
+  <data name="VocabularyExists.Error">
+    <value>Das Klassifikationsschema "{0}" existiert bereits in der Liste.</value>
+  </data>
+  <data name="cancelCreate.Text">
+    <value>abbrechen</value>
+  </data>
+  <data name="ControlTitle_createvocabulary.Text">
+    <value>Klassifikationsschema erstellen</value>
+  </data>
+  <data name="AddTerm.Text">
+    <value>Begriff hinzufügen</value>
+  </data>
+  <data name="ControlTitle_edit.Text">
+    <value>Klassifikationsschema bearbeiten</value>
+  </data>
+  <data name="ControlTitle_editvocabulary.Text">
+    <value>Klassifikationsschema bearbeiten</value>
+  </data>
+  <data name="CreateTerm.Text">
+    <value>speichern</value>
+  </data>
+  <data name="CurrentTerm.Text">
+    <value>Begriff bearbeiten</value>
+  </data>
+  <data name="DeleteTerm.Text">
+    <value>löschen</value>
+  </data>
+  <data name="DeleteVocabulary.Text">
+    <value>löschen</value>
+  </data>
+  <data name="Description.Text">
+    <value>Beschreibung</value>
+  </data>
+  <data name="Description.ToolTip">
+    <value>Die Beschreibung des Ausdrucks</value>
+  </data>
+  <data name="NewTerm.Text">
+    <value>Klasse erstellen</value>
+  </data>
+  <data name="ParentTerm.Text">
+    <value>übergeordneter Begriff</value>
+  </data>
+  <data name="ParentTerm.ToolTip">
+    <value>der übergeordnete Term für diesen hierarchischen Term verwendet wird. </value>
+  </data>
+  <data name="SaveTerm.Text">
+    <value>speichern</value>
+  </data>
+  <data name="SaveVocabulary.Text">
+    <value>speichern</value>
+  </data>
+  <data name="TermName.Required">
+    <value>Sie müssen einen Term-Namen eingeben</value>
+  </data>
+  <data name="TermName.Text">
+    <value>Name</value>
+  </data>
+  <data name="TermName.ToolTip">
+    <value>Der Name des Terms</value>
+  </data>
+  <data name="Terms.Text">
+    <value>Bedingungen</value>
+  </data>
+  <data name="TermValidationError.Message">
+    <value>Beim Validieren des Terms ist ein Fehler aufgetreten. Der Term muss einen Namen enthalten.</value>
+  </data>
+  <data name="TermValidationError.MessageHeader">
+    <value>Fehler bei der Validierung des Terms</value>
+  </data>
+  <data name="Confirm.Text">
+    <value>Sind Sie sicher, dass Sie ein neues Klassifikationsschema erstellen wollen</value>
+  </data>
+  <data name="ControlTitle_.Text">
+    <value>Klassifikationen verwalten</value>
+  </data>
+  <data name="Create.Text">
+    <value>Klassifikationsschema erstellen</value>
+  </data>
+  <data name="Create.ToolTip">
+    <value>Betätigen Sie diese Schaltfläche, um ein neues Klassifikationsschema zu erstellen</value>
+  </data>
+  <data name="Description.Header">
+    <value>Beschreibung</value>
+  </data>
+  <data name="Edit.Text">
+    <value>bearbeiten</value>
+  </data>
+  <data name="Name.Header">
+    <value>Name</value>
+  </data>
+  <data name="Scope.Header">
+    <value>Anwendungsbereich</value>
+  </data>
+  <data name="Title.Text">
+    <value>Liste der Klassifikationsschemata</value>
+  </data>
+  <data name="Type.Header">
+    <value>Typ</value>
+  </data>
+  <data name="ConfirmDeletion_Term.Text">
+    <value>Sind Sie sicher, dass Sie den Begriff "{0}" löschen wollen?</value>
+  </data>
+  <data name="ConfirmDeletion_Vocabulary.Text">
+    <value>Sind Sie sicher, dass Sie "{0}" löschen wollen?</value>
+  </data>
+  <data name="CreateVocabulary.Text">
+    <value>erstellen</value>
+  </data>
+  <data name="LoadMore.Text">
+    <value>weitere laden</value>
+  </data>
+  <data name="nav_Vocabularies.Text">
+    <value>Klassifikationen</value>
+  </data>
+  <data name="NoVocabularyTerms.Error">
+    <value>Es gibt kein Klassifikationsschema.</value>
+  </data>
+  <data name="RequiredField.Text">
+    <value>Pflichtfeld</value>
+  </data>
+  <data name="TermExists.Error">
+    <value>Der Eintrag "{0}" existiert bereits in der Liste.</value>
+  </data>
+  <data name="All.Text">
+    <value>alle</value>
+  </data>
+  <data name="BackToVocabularies.Text">
+    <value>Zurück zu Klassifikationen</value>
+  </data>
+  <data name="Close.Text">
+    <value>schließen</value>
+  </data>
+  <data name="EditFieldHelper.Text">
+    <value>Drücken Sie die Eingabetaste, wenn Sie die Bearbeitung abgeschlossen haben, oder ESC, um abzubrechen.</value>
+  </data>
+</root>

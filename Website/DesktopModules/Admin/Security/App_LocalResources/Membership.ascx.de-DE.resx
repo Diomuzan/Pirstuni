@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Approved.Help">
+    <value xml:space="preserve">ist der Benutzer für diese Website freigeschaltet.</value>
+  </data>
+  <data name="Approved.Text">
+    <value xml:space="preserve">autorisiert:</value>
+  </data>
+  <data name="cmdAuthorize.Text">
+    <value xml:space="preserve">Benutzer autorisieren</value>
+  </data>
+  <data name="cmdPassword.Text">
+    <value xml:space="preserve">Kennwortänderung erzwingen</value>
+  </data>
+  <data name="cmdUnAuthorize.Text">
+    <value xml:space="preserve">Autorisierung des Benutzers widerrufen</value>
+  </data>
+  <data name="cmdUnLock.Text">
+    <value xml:space="preserve">Konto entsperren</value>
+  </data>
+  <data name="CreatedDate.Help">
+    <value xml:space="preserve">Datum, an dem das Benutzerkonto erstellt wurde</value>
+  </data>
+  <data name="CreatedDate.Text">
+    <value xml:space="preserve">Erstellt am:</value>
+  </data>
+  <data name="DemoteFromSuperUser.Text">
+    <value xml:space="preserve">Zum gewöhnlichen Benutzer machen</value>
+  </data>
+  <data name="IsDeleted.Help">
+    <value xml:space="preserve">ist der Benutzer gelöscht</value>
+  </data>
+  <data name="IsDeleted.Text">
+    <value xml:space="preserve">gelöscht:</value>
+  </data>
+  <data name="IsOnLine.Help">
+    <value xml:space="preserve">ist der Benutzer im Moment angemeldet</value>
+  </data>
+  <data name="IsOnLine.Text">
+    <value xml:space="preserve">Benutzer ist angemeldet:</value>
+  </data>
+  <data name="LastActivityDate.Help">
+    <value xml:space="preserve">Datum der letzten Aktivität dieses Benutzers</value>
+  </data>
+  <data name="LastActivityDate.Text">
+    <value xml:space="preserve">Letztes Aktivitätsdatum:</value>
+  </data>
+  <data name="LastLockoutDate.Help">
+    <value xml:space="preserve">Datum, an dem der Benutzer aufgrund zu vieler Fehleingaben gesperrt wurde</value>
+  </data>
+  <data name="LastLockoutDate.Text">
+    <value xml:space="preserve">letztes Abmeldedatum:</value>
+  </data>
+  <data name="LastLoginDate.Help">
+    <value xml:space="preserve">Datum, an dem sich der Benutzer zum letzten Mal angemeldet hat</value>
+  </data>
+  <data name="LastLoginDate.Text">
+    <value xml:space="preserve">letztes Anmeldedatum:</value>
+  </data>
+  <data name="LastPasswordChangeDate.Help">
+    <value xml:space="preserve">Datum, an dem das Kennwort zuletzt geändert wurde</value>
+  </data>
+  <data name="LastPasswordChangeDate.Text">
+    <value xml:space="preserve">letzte Kennwortänderung:</value>
+  </data>
+  <data name="LockedOut.Help">
+    <value xml:space="preserve">Zeigt, ob der Benutzer aufgrund zu vieler fehlerhafter Anmeldeversuche gesperrt</value>
+  </data>
+  <data name="LockedOut.Text">
+    <value xml:space="preserve">ausgesperrt:</value>
+  </data>
+  <data name="Never.Text">
+    <value xml:space="preserve">nie</value>
+  </data>
+  <data name="OptionUnavailable.Text">
+    <value xml:space="preserve">"Kennwort zurücksetzen" ist zur Zeit nicht verfügbar.</value>
+  </data>
+  <data name="PromoteToSuperUser.Text">
+    <value xml:space="preserve">Zum Systemverwalter machen</value>
+  </data>
+  <data name="UpdatePassword.Help">
+    <value xml:space="preserve">Zwingen Sie den Benutzer sein Kennwort zu ändern.</value>
+  </data>
+  <data name="UpdatePassword.Text">
+    <value xml:space="preserve">Kennwort ändern:</value>
+  </data>
+  <data name="UserFolder.Help">
+    <value xml:space="preserve">Dies ist der Name und Pfad des Verzeichnisses, in dem eigene Dateien des Benutzers abgelegt werden.</value>
+  </data>
+  <data name="UserFolder.Text">
+    <value xml:space="preserve">Benutzerverzeichnis</value>
+  </data>
+</root>

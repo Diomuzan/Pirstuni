@@ -1,0 +1,367 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AllowIndexLabel.Help">
+    <value xml:space="preserve">Diese Einstellung legt fest, ob das Modul bei der Such-Indizierung mit aufgenommen werden soll.</value>
+  </data>
+  <data name="AllowIndexLabel.Text">
+    <value xml:space="preserve">indizieren</value>
+  </data>
+  <data name="Appearance.Text">
+    <value xml:space="preserve">Grundeinstellungen</value>
+  </data>
+  <data name="Bind.Text">
+    <value xml:space="preserve">binden</value>
+  </data>
+  <data name="CacheDuration.Help">
+    <value xml:space="preserve">Geben Sie die Zwischenspeicher-Dauer der Seite in Sekunden an. Nur ganze Zahlen sind zugelassen.</value>
+  </data>
+  <data name="CacheDuration.Text">
+    <value xml:space="preserve">Zwischenspeicherdauer (Sekunden)</value>
+  </data>
+  <data name="CacheDurationWarning.Text">
+    <value xml:space="preserve">Dieses Modul hat angezeigt, dass der Ausgabespeicher deaktiviert werden soll (wählen Sie KEINE in der Liste der Zwischenspeicher aus). Falls Sie den Speicher doch aktivieren, können u.U. sensible Daten falsch angezeigt werden.</value>
+  </data>
+  <data name="CacheInherited.Text">
+    <value xml:space="preserve">geerbt</value>
+  </data>
+  <data name="CacheProvider.Help">
+    <value xml:space="preserve">Wählen Sie den Zwischenspeicher, den Sie für diese Seite verwenden wollen.</value>
+  </data>
+  <data name="CacheProvider.Text">
+    <value xml:space="preserve">Ausgabezwischenspeicher</value>
+  </data>
+  <data name="CacheSettings.Text">
+    <value xml:space="preserve">Einstellung des Zwischenspeichers</value>
+  </data>
+  <data name="cmdClearAllTabModuleCache.Text">
+    <value xml:space="preserve">Zwischenspeicher für alle Modulreferenzen löschen</value>
+  </data>
+  <data name="cmdClearTabModuleCache.Text">
+    <value xml:space="preserve">Zwischenspeicher für diese Modulreferenz löschen</value>
+  </data>
+  <data name="ContainerPreview.Text">
+    <value xml:space="preserve">Vorschau</value>
+  </data>
+  <data name="ControlTitle_module.Text">
+    <value xml:space="preserve">Modul</value>
+  </data>
+  <data name="ControlTitle_settings.Text">
+    <value xml:space="preserve">{0} Einstellungen</value>
+  </data>
+  <data name="CreateBoundCopies.Text">
+    <value xml:space="preserve">gebundene Kopie erstellen</value>
+  </data>
+  <data name="cultureLabel.Help">
+    <value xml:space="preserve">Die Sprache für dieses Modul</value>
+  </data>
+  <data name="cultureLabel.Text">
+    <value xml:space="preserve">Modulsprache:</value>
+  </data>
+  <data name="CustomSettings.Text">
+    <value xml:space="preserve">{0} Einstellungen</value>
+  </data>
+  <data name="defaultCultureLabel.Help">
+    <value xml:space="preserve">Klicken Sie auf den Link, um den Modulinhalt in der Originalsprache anzuzeigen.</value>
+  </data>
+  <data name="defaultCultureLabel.Text">
+    <value xml:space="preserve">Standardsprache:</value>
+  </data>
+  <data name="edit.Text">
+    <value xml:space="preserve">bearbeiten</value>
+  </data>
+  <data name="ExpandAll.Text">
+    <value xml:space="preserve">Alles anzeigen</value>
+  </data>
+  <data name="GeneralDetails.Text">
+    <value xml:space="preserve">Grundeinstellungen</value>
+  </data>
+  <data name="InheritPermissions.Text">
+    <value xml:space="preserve">&lt;b&gt;Anzeige&lt;/b&gt;-Berechtigung von der Seite übernehmen</value>
+  </data>
+  <data name="InstalledOn.Help">
+    <value xml:space="preserve">Sie sehen hier die Liste der Seiten, auf denen diese Modulinstanz enthalten ist. ein bestehendes Modul kann über die Funktion "bestehendes Modul hinzufügen" auf weiteren Seiten angezeigt werden, sofern dabei nicht "Modul kopieren" aktiviert wurde.</value>
+  </data>
+  <data name="InstalledOn.Text">
+    <value xml:space="preserve">Das Modul wurde auf folgenden Seiten hinzugefügt:</value>
+  </data>
+  <data name="isShareableLabel.Help">
+    <value xml:space="preserve">Aktivieren Sie diese Option, um das Modul in anderen Websites der Gruppe referenzieren zu können.</value>
+  </data>
+  <data name="isShareableLabel.Text">
+    <value xml:space="preserve">referenzierbar?</value>
+  </data>
+  <data name="isShareableViewOnlyLabel.Help">
+    <value xml:space="preserve">Aktivieren Sie diese Option, wenn die Referenzen in anderen Websites nur Lesezugriff erhalten sollen.</value>
+  </data>
+  <data name="isShareableViewOnlyLabel.Text">
+    <value xml:space="preserve">nur lesen?</value>
+  </data>
+  <data name="lblCachedItemCount.Text">
+    <value xml:space="preserve">Aktuelle Cache-Elemente: {0} Eintrag für dieses TabModule</value>
+  </data>
+  <data name="lblNoRecords.Text">
+    <value xml:space="preserve">Dieses Modul wurde keiner anderen Seite hinzugefügt.</value>
+  </data>
+  <data name="LocalizedModules.Text">
+    <value xml:space="preserve">Modulübersetzung</value>
+  </data>
+  <data name="ModuleExists.Text">
+    <value xml:space="preserve">Das Modul existiert bereits auf der Zielseite (es mag sich im Papierkorb befinden). Nur eine Instanz eines Moduls darf sich auf einer Seite befinden.</value>
+  </data>
+  <data name="ModuleHelp.Text">
+    <value xml:space="preserve">&lt;h1&gt;Moduleinstellungen&lt;/h&gt;
+&lt;p&gt;Seitenautoren können hier die allgemeinen und typspezifischen Einstellungen für ein Modul vornehmen sowie Ansichts- und Bearbeitenberechtigungen vergeben. Wenn ein Modul auf mehreren Seiten angezeigt wird, wirken sich die Seiten-Einstellungen nur auf die Darstellung auf der aktuellen Seite aus.&lt;/p&gt;</value>
+  </data>
+  <data name="ModuleInstalledOn.Text">
+    <value xml:space="preserve">Zu Seiten hinzugefügt</value>
+  </data>
+  <data name="ModuleSettings.Text">
+    <value xml:space="preserve">Moduleinstellungen</value>
+  </data>
+  <data name="MsgInstalledOnAll.Text">
+    <value xml:space="preserve">Diese Modulinstanz wird auf allen Seiten angezeigt.</value>
+  </data>
+  <data name="MsgInstalledOnNone.Text">
+    <value xml:space="preserve">Diese Modulinstanz wurde keiner weiteren Seite hinzugefügt.</value>
+  </data>
+  <data name="OtherSettings.Text">
+    <value xml:space="preserve">Weitere Einstellungen</value>
+  </data>
+  <data name="Page.Header">
+    <value xml:space="preserve">Seite</value>
+  </data>
+  <data name="PageSettings.Text">
+    <value xml:space="preserve">Seiteneinstellungen</value>
+  </data>
+  <data name="Permissions.Text">
+    <value xml:space="preserve">Berechtigungen</value>
+  </data>
+  <data name="plAdminBorder.Help">
+    <value xml:space="preserve">Aktivieren Sie diese Option, um einen roten Rand um das Modul anzuzeigen, wenn nur Verwalter der Website Zugriff darauf haben.</value>
+  </data>
+  <data name="plAdminBorder.Text">
+    <value xml:space="preserve">Administrator-Hinweis ausblenden</value>
+  </data>
+  <data name="plAlign.Help">
+    <value xml:space="preserve">Wählen Sie die Ausrichtung des Moduls.</value>
+  </data>
+  <data name="plAlign.Text">
+    <value xml:space="preserve">Ausrichtung:</value>
+  </data>
+  <data name="plAllModules.Help">
+    <value xml:space="preserve">Aktivieren Sie diese Option, wenn Sie die Seiteneinstellungen dieses Moduls auf alle existierenden Module der Website übertragen wollen. Diese Option steht nur Verwaltern der Website zur Verfügung.</value>
+  </data>
+  <data name="plAllModules.Text">
+    <value xml:space="preserve">Auf alle Module anwenden</value>
+  </data>
+  <data name="plAllTabs.Help">
+    <value xml:space="preserve">Wählen Sie, ob das Modul auf ALLEN Seiten angezeigt werden soll.</value>
+  </data>
+  <data name="plAllTabs.Text">
+    <value xml:space="preserve">Modul auf allen Seiten anzeigen:</value>
+  </data>
+  <data name="plBorder.Help">
+    <value xml:space="preserve">Geben Sie eine Rahmenbreite für das Modul an.</value>
+  </data>
+  <data name="plBorder.Text">
+    <value xml:space="preserve">Rahmen:</value>
+  </data>
+  <data name="plCacheTime.Help">
+    <value xml:space="preserve">Geben Sie die Zwischenspeicher-Dauer für das Objekt an.</value>
+  </data>
+  <data name="plCacheTime.Text">
+    <value xml:space="preserve">Zwischenspeicherdauer (Sekunden):</value>
+  </data>
+  <data name="plColor.Help">
+    <value xml:space="preserve">Geben Sie einen Namen oder Hexadezimalwert für die Hintergrundfarbe des Moduls an.</value>
+  </data>
+  <data name="plColor.Text">
+    <value xml:space="preserve">Farbe:</value>
+  </data>
+  <data name="plDefault.Help">
+    <value xml:space="preserve">Aktivieren Sie diese Option, wenn Sie die Seiteneinstellungen dieses Moduls als Standardwert für neue Module festlegen wollen. Diese Option steht nur Verwaltern der Website zur Verfügung.</value>
+  </data>
+  <data name="plDefault.Text">
+    <value xml:space="preserve">Als Standardeinstellung verwenden</value>
+  </data>
+  <data name="plDisplayPrint.Help">
+    <value xml:space="preserve">Aktivieren Sie diese Option um das Drucksymbol anzuzeigen.</value>
+  </data>
+  <data name="plDisplayPrint.Text">
+    <value xml:space="preserve">Drucken zulassen</value>
+  </data>
+  <data name="plDisplaySyndicate.Help">
+    <value xml:space="preserve">Aktivieren Sie diese Option um das RSS-Symbol anzuzeigen.</value>
+  </data>
+  <data name="plDisplaySyndicate.Text">
+    <value xml:space="preserve">RSS-Abonnement zulassen</value>
+  </data>
+  <data name="plDisplayTitle.Help">
+    <value xml:space="preserve">Aktivieren Sie diese Option um den Modulrahmen anzuzeigen.</value>
+  </data>
+  <data name="plDisplayTitle.Text">
+    <value xml:space="preserve">Modulrahmen anzeigen:</value>
+  </data>
+  <data name="plEndDate.Help">
+    <value xml:space="preserve">Das Enddatum zur Anzeige dieses Moduls. Nach diesem Datum wird es nur Benutzern mit Bearbeitungsberechtigung angezeigt.</value>
+  </data>
+  <data name="plEndDate.Text">
+    <value xml:space="preserve">Enddatum:</value>
+  </data>
+  <data name="plFooter.Help">
+    <value xml:space="preserve">Geben Sie den Fußtext für dieses Modul ein, der unterhalb des Modulinhalts angezeigt wird.</value>
+  </data>
+  <data name="plFooter.Text">
+    <value xml:space="preserve">Fußbereich:</value>
+  </data>
+  <data name="plFriendlyName.Help">
+    <value xml:space="preserve">Zeigt den Namen des Moduls.</value>
+  </data>
+  <data name="plFriendlyName.Text">
+    <value xml:space="preserve">Modul:</value>
+  </data>
+  <data name="plHeader.Help">
+    <value xml:space="preserve">Geben Sie den Kopftext für dieses Modul ein, der oberhalb des Modulinhalts angezeigt wird.</value>
+  </data>
+  <data name="plHeader.Text">
+    <value xml:space="preserve">Kopfbereich:</value>
+  </data>
+  <data name="plIcon.Help">
+    <value xml:space="preserve">Wählen Sie ein Symbol für dieses Modul, dass in der Titelleiste angezeigt werden soll.</value>
+  </data>
+  <data name="plIcon.Text">
+    <value xml:space="preserve">Symbol:</value>
+  </data>
+  <data name="plModuleContainer.Help">
+    <value xml:space="preserve">Wählen Sie einen Modulrahmen für das Modul.</value>
+  </data>
+  <data name="plModuleContainer.Text">
+    <value xml:space="preserve">Modulrahmen:</value>
+  </data>
+  <data name="plNewTabs.Help">
+    <value xml:space="preserve">Aktivieren Sie diese Option, um das Modul auf allen neuen Seiten automatisch hinzuzufügen. Diese Option ist nur für Systembetreuer und Website-Verwalter verfügbar.</value>
+  </data>
+  <data name="plNewTabs.Text">
+    <value xml:space="preserve">Nur auf neuen Seiten hinzufügen</value>
+  </data>
+  <data name="plPermissions.Help">
+    <value xml:space="preserve">Stellen Sie die Rechte zum Anzeigen und Bearbeiten ein. Das Modul kann einige Berechtigungen von der Seite übernehmen. Aktivieren Sie dazu die Option "Ansichtsrechte von der Seite erben".</value>
+  </data>
+  <data name="plPermissions.Text">
+    <value xml:space="preserve">Berechtigungen:</value>
+  </data>
+  <data name="plStartDate.Help">
+    <value xml:space="preserve">Das Startdatum zum Anzeigen Ihres Moduls. Vor diesem Datum ist es nur für Benutzer mit Bearbeiten-Recht sichtbar.</value>
+  </data>
+  <data name="plStartDate.Text">
+    <value xml:space="preserve">Startdatum:</value>
+  </data>
+  <data name="plTab.Help">
+    <value xml:space="preserve">Diese Modulinstanz auf eine andere Seite verschieben.</value>
+  </data>
+  <data name="plTab.Text">
+    <value xml:space="preserve">verschieben auf Seite:</value>
+  </data>
+  <data name="plTags.Help">
+    <value xml:space="preserve">Wählen Sie Einträge aus der Auswahlliste um dieses Modul zu verschlagworten.</value>
+  </data>
+  <data name="plTags.Text">
+    <value xml:space="preserve">Schlagworte:</value>
+  </data>
+  <data name="plTitle.Help">
+    <value xml:space="preserve">Geben Sie einen Modultitel ein.</value>
+  </data>
+  <data name="plTitle.Text">
+    <value xml:space="preserve">Modultitel:</value>
+  </data>
+  <data name="plVisibility.Help">
+    <value xml:space="preserve">Wählen Sie die Standardeinstellung für die Anzeige des Modulinhalts, d.h. ein- oder ausgeblendet. </value>
+  </data>
+  <data name="plVisibility.Text">
+    <value xml:space="preserve">ein-/ausblenden:</value>
+  </data>
+  <data name="plWebSlice.Help">
+    <value xml:space="preserve">Aktivieren Sie diese Option, um dieses Modul als WebSlice für Internet Explorer anzubieten.</value>
+  </data>
+  <data name="plWebSlice.Text">
+    <value xml:space="preserve">Als WebSlice bereitstellen:</value>
+  </data>
+  <data name="plWebSliceExpiry.Help">
+    <value xml:space="preserve">Geben Sie das Ablaufdatum des WebSlice an - wenn Sie den Wert leer lassen, wird das Enddatum des Moduls verwendet.</value>
+  </data>
+  <data name="plWebSliceExpiry.Text">
+    <value xml:space="preserve">WebSlice-Gültigkeit:</value>
+  </data>
+  <data name="plWebSliceTitle.Help">
+    <value xml:space="preserve">Geben Sie einen Titel für das WebSlice an. Wenn Sie diesen leer lassen, wird der Modulname verwendet.</value>
+  </data>
+  <data name="plWebSliceTitle.Text">
+    <value xml:space="preserve">WebSlice-Bezeichnung:</value>
+  </data>
+  <data name="plWebSliceTTL.Help">
+    <value xml:space="preserve">Geben Sie die Lebensdauer (Time To Live - TTL) für dieses WebSlice in Minuten an. Wenn Sie das Feld leer lassen, wird die Standard-Zwischenspeicher-Dauer verwendet.</value>
+  </data>
+  <data name="plWebSliceTTL.Text">
+    <value xml:space="preserve">WebSlice-TTL:</value>
+  </data>
+  <data name="PreviewNoSelectionMessage.Text">
+    <value xml:space="preserve">Bitte wählen Sie einen Modulrahmen zur Vorschau.</value>
+  </data>
+  <data name="Security.Text">
+    <value xml:space="preserve">Weitere Einstellungen</value>
+  </data>
+  <data name="Site.Header">
+    <value xml:space="preserve">Website</value>
+  </data>
+  <data name="Translated.Text">
+    <value xml:space="preserve">als 'übersetzt' markieren</value>
+  </data>
+  <data name="UnBind.Text">
+    <value xml:space="preserve">abkoppeln</value>
+  </data>
+  <data name="UnTranslated.Text">
+    <value xml:space="preserve">als 'nicht übersetzt' markieren</value>
+  </data>
+  <data name="valBorder.ErrorMessage">
+    <value xml:space="preserve">Ungültige Rahmenstärke (muss eine ganze Zahl zwischen 0 und 9 sein)</value>
+  </data>
+  <data name="valCacheTime.ErrorMessage">
+    <value xml:space="preserve">Ungültige Zwischenspeicherdauer</value>
+  </data>
+  <data name="valEndDate.ErrorMessage">
+    <value xml:space="preserve">Ungültiges Enddatum</value>
+  </data>
+  <data name="valEndDate2.ErrorMessage">
+    <value xml:space="preserve">Das Enddatum muss nach dem Startdatum liegen</value>
+  </data>
+  <data name="valStartDate.ErrorMessage">
+    <value xml:space="preserve">ungültiges Startdatum</value>
+  </data>
+  <data name="valWebSliceExpiry.ErrorMessage">
+    <value xml:space="preserve">Ungültiges Ablaufdatum</value>
+  </data>
+  <data name="valWebSliceTTL.ErrorMessage">
+    <value xml:space="preserve">Ungültige TTL-Angabe, dies muss eine natürliche Zahl sein.</value>
+  </data>
+  <data name="MonikerExists.Text">
+    <value>Der Wert des Modulschlüssels ist bereits vergeben, er muss innerhalb der Website eindeutig sein.</value>
+  </data>
+  <data name="plMoniker.Help">
+    <value>Eindeutiger Bezeichner des Moduls auf der Seite, der von der Web-API verwendet werden kann, um den Modul- und Seiten-Kontext zu setzen.</value>
+  </data>
+  <data name="plMoniker.Text">
+    <value>Modulschlüssel:</value>
+  </data>
+</root>

@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="cmdRSVP.Text">
+    <value xml:space="preserve">abonnieren</value>
+  </data>
+  <data name="Description.Header">
+    <value xml:space="preserve">Beschreibung</value>
+  </data>
+  <data name="Every.Header">
+    <value xml:space="preserve">alle</value>
+  </data>
+  <data name="Expired.Text">
+    <value xml:space="preserve">abgelaufen</value>
+  </data>
+  <data name="ExpiryDate.Header">
+    <value xml:space="preserve">Ablaufdatum</value>
+  </data>
+  <data name="Fee.Header">
+    <value xml:space="preserve">Abonnement-Gebühr</value>
+  </data>
+  <data name="Fee.Text">
+    <value xml:space="preserve">{0} Alle {1} {2}</value>
+  </data>
+  <data name="Frequency_D.Text">
+    <value xml:space="preserve">Tag(e)</value>
+  </data>
+  <data name="Frequency_M.Text">
+    <value xml:space="preserve">Monate</value>
+  </data>
+  <data name="Frequency_W.Text">
+    <value xml:space="preserve">Woche(n)</value>
+  </data>
+  <data name="Frequency_Y.Text">
+    <value xml:space="preserve">Jahr(e)</value>
+  </data>
+  <data name="Name.Header">
+    <value xml:space="preserve">Name</value>
+  </data>
+  <data name="NoFee.Text">
+    <value xml:space="preserve">kostenlos</value>
+  </data>
+  <data name="Period.Header">
+    <value xml:space="preserve">Periode</value>
+  </data>
+  <data name="plRSVPCode.Help">
+    <value xml:space="preserve">Sie können zusätzliche Dienste durch Eingabe eines RSVP-Codes freischalten, der Ihnen vom Verwalter der Website mitgeteilt wurde. Wählen Sie anschließend einlösen, um die Eingabe abzuschicken.</value>
+  </data>
+  <data name="plRSVPCode.Text">
+    <value xml:space="preserve">RSVP-Code:</value>
+  </data>
+  <data name="Renew.Text">
+    <value xml:space="preserve">erneuern</value>
+  </data>
+  <data name="RSVPFailure.Text">
+    <value xml:space="preserve">Der eingegebene RVSP-Code ist nicht gültig oder existiert nicht.</value>
+  </data>
+  <data name="RSVPHelp.Text">
+    <value xml:space="preserve">Wenn Sie einen spezielle RSVP-Code erhalten haben, können Sie diesen hier eingeben und auf "abonnieren" klicken, um diesen in Anspruch zu nehmen.</value>
+  </data>
+  <data name="RSVPSuccess.Text">
+    <value xml:space="preserve">Sie haben erfolgreich die Rolle(n) per RSVP-Code abonniert. Um die damit verbundenen Möglichkeiten nutzen zu können müssen Sie sich u.U. von dieser Website ab- und wieder anmelden</value>
+  </data>
+  <data name="ServicesHelp.Text">
+    <value xml:space="preserve">In diesem Abschnitt können Sie Ihrer Abonnements auf der aktuellen Website verwalten. Einige Dienste können mit einer Gebühr verbunden sein. Wenn dies der Fall ist, werden Sie nach der Aktivierung zu einer Zahlungsseite weitergeleitet. Wenn Sie dann auf diese Website zurückgelangen, können Sie hier den Zahlungsstatus überprüfen.</value>
+  </data>
+  <data name="Subscribe.Text">
+    <value xml:space="preserve">abonnieren</value>
+  </data>
+  <data name="Trial.Header">
+    <value xml:space="preserve">Testgebühr</value>
+  </data>
+  <data name="TrialFee.Text">
+    <value xml:space="preserve">{0} für {1} {2}</value>
+  </data>
+  <data name="Unsubscribe.Text">
+    <value xml:space="preserve">abbestellen</value>
+  </data>
+  <data name="UseTrial.Text">
+    <value xml:space="preserve">Testphase nutzen</value>
+  </data>
+</root>

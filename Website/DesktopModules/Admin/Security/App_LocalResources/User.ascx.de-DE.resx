@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="CaptchaText.Text">
+    <value xml:space="preserve">Geben Sie die oben angegebenen Buchstaben und Ziffern in das folgende Textfeld ein.</value>
+  </data>
+  <data name="cmdAdd.Text">
+    <value xml:space="preserve">Benutzer hinzufügen</value>
+  </data>
+  <data name="cmdRemove.Text">
+    <value xml:space="preserve">löschen</value>
+  </data>
+  <data name="cmdRestore.Text">
+    <value xml:space="preserve">wiederherstellen</value>
+  </data>
+  <data name="ComparePasswordsValidator.ErrorMessage">
+    <value xml:space="preserve">Kennwort und Bestätigung müssen übereinstimmen.</value>
+  </data>
+  <data name="ConfirmUnRegister.Text">
+    <value xml:space="preserve">Sind Sie sicher, dass Sie sich austragen wollen?</value>
+  </data>
+  <data name="CreateUser.Text">
+    <value xml:space="preserve">Benutzerkonto anlegen</value>
+  </data>
+  <data name="Delete.Text">
+    <value xml:space="preserve">löschen</value>
+  </data>
+  <data name="DisplayNameNotUnique.Text">
+    <value xml:space="preserve">Der von Ihnen gewählte Anzeigename wird bereits von einem anderen Benutzer verwendet, bitte geben Sie einen anderen ein.</value>
+  </data>
+  <data name="HideSiteList.Text">
+    <value xml:space="preserve">Liste der Websites ausblenden</value>
+  </data>
+  <data name="InvalidCaptcha.Text">
+    <value xml:space="preserve">Ungültiger Sicherheitscode</value>
+  </data>
+  <data name="Password.Text">
+    <value xml:space="preserve">Kennwort</value>
+  </data>
+  <data name="PasswordHelpAdmin.Text">
+    <value xml:space="preserve">Sie können ein Kennwort für diesen Benutzer angeben, oder das System vergibt ein zufälliges.</value>
+  </data>
+  <data name="PasswordHelpUser.Text">
+    <value xml:space="preserve">Geben Sie ein Kennwort ein.</value>
+  </data>
+  <data name="plAnswer.Help">
+    <value xml:space="preserve">Geben Sie eine geheime Antwort auf Ihre Kennwort-Frage an.</value>
+  </data>
+  <data name="plAnswer.Text">
+    <value xml:space="preserve">Kennwortantwort:</value>
+  </data>
+  <data name="plAuthorize.Help">
+    <value xml:space="preserve">diesen Benutzer autorisieren</value>
+  </data>
+  <data name="plAuthorize.Text">
+    <value xml:space="preserve">autorisieren:</value>
+  </data>
+  <data name="plConfirm.Help">
+    <value xml:space="preserve">Geben Sie Ihr Kennwort zur Bestätigung erneut ein.</value>
+  </data>
+  <data name="plConfirm.Text">
+    <value xml:space="preserve">Kennwort bestätigen:</value>
+  </data>
+  <data name="plNotify.Help">
+    <value xml:space="preserve">eine E-Mail an die Adresse des Benutzers verschicken.</value>
+  </data>
+  <data name="plNotify.Text">
+    <value xml:space="preserve">benachrichtigen:</value>
+  </data>
+  <data name="plPassword.Help">
+    <value xml:space="preserve">Geben Sie ein Kennwort für den Benutzer an.</value>
+  </data>
+  <data name="plPassword.Text">
+    <value xml:space="preserve">Kennwort:</value>
+  </data>
+  <data name="plQuestion.Help">
+    <value xml:space="preserve">Wählen Sie eine Kennwortfrage, die zur Wiedererlangung des Kennwort verwendet werden soll.</value>
+  </data>
+  <data name="plQuestion.Text">
+    <value xml:space="preserve">Kennwortfrage:</value>
+  </data>
+  <data name="plRandom.Help">
+    <value xml:space="preserve">Aktivieren Sie diese Option, um ein zufälliges Kennwort zu erzeugen.</value>
+  </data>
+  <data name="plRandom.Text">
+    <value xml:space="preserve">zufälliges Kennwort</value>
+  </data>
+  <data name="UnRegister.Text">
+    <value xml:space="preserve">austragen</value>
+  </data>
+  <data name="UpdateUserName.Text">
+    <value xml:space="preserve">Hinweis: Dieser Benutzer ist bei {0} Websites dieser Installation registriert.</value>
+  </data>
+  <data name="ViewSiteList.Text">
+    <value xml:space="preserve">Liste der Websites anzeigen</value>
+  </data>
+</root>

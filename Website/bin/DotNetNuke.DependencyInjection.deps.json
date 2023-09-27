@@ -53,7 +53,15 @@
         }
       },
       "StyleCop.Analyzers/1.1.118": {},
+      "DotNetNuke.Abstractions/1.0.0": {
+        "runtime": {
+          "DotNetNuke.Abstractions.dll": {}
+        }
+      },
       "DotNetNuke.Instrumentation/1.0.0": {
+        "dependencies": {
+          "DotNetNuke.Abstractions": "1.0.0"
+        },
         "runtime": {
           "DotNetNuke.Instrumentation.dll": {}
         }
@@ -129,6 +137,11 @@
       "sha512": "sha512-Onx6ovGSqXSK07n/0eM3ZusiNdB6cIlJdabQhWGgJp3Vooy9AaLS/tigeybOJAobqbtggTamoWndz72JscZBvw==",
       "path": "stylecop.analyzers/1.1.118",
       "hashPath": "stylecop.analyzers.1.1.118.nupkg.sha512"
+    },
+    "DotNetNuke.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "DotNetNuke.Instrumentation/1.0.0": {
       "type": "project",

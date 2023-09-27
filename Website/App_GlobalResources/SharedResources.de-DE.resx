@@ -1,0 +1,1869 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Accept.Text">
+    <value xml:space="preserve">annehmen</value>
+  </data>
+  <data name="AcceptFriend.Text">
+    <value xml:space="preserve">Freundschaftsanfrage annehmen</value>
+  </data>
+  <data name="Add.Text">
+    <value xml:space="preserve">hinzufügen</value>
+  </data>
+  <data name="AdminOnly.Text">
+    <value xml:space="preserve">nur für Administratoren</value>
+  </data>
+  <data name="AdminTemplate.Error">
+    <value xml:space="preserve">Fehler beim Parsen der Admin-Vorlage</value>
+  </data>
+  <data name="All.Text">
+    <value xml:space="preserve">alle</value>
+  </data>
+  <data name="AllRoles.Text">
+    <value xml:space="preserve">&lt;Alle Benutzergruppen&gt;</value>
+  </data>
+  <data name="AllUsers.Text">
+    <value xml:space="preserve">Alle Benutzer</value>
+  </data>
+  <data name="ASSEMBLY_Added.Text">
+    <value xml:space="preserve">Anwendung registriert</value>
+  </data>
+  <data name="ASSEMBLY_InUse.Text">
+    <value xml:space="preserve">Die Anwendung wird von einem anderen Paket verwendet</value>
+  </data>
+  <data name="ASSEMBLY_Registered.Text">
+    <value xml:space="preserve">Die Anwendung ist bereits registriert</value>
+  </data>
+  <data name="ASSEMBLY_UnRegistered.Text">
+    <value xml:space="preserve">Anwendungsregistrierung aufgehoben</value>
+  </data>
+  <data name="ASSEMBLY_Updated.Text">
+    <value xml:space="preserve">Anwendung aktualisiert</value>
+  </data>
+  <data name="AUTHENTICATION_LoginSrcMissing.Text">
+    <value xml:space="preserve">Die benötigte Angabe LoginControlSrc fehlt in der Steuerdatei</value>
+  </data>
+  <data name="AUTHENTICATION_ReadSuccess.Text">
+    <value xml:space="preserve">Die Steuerdatei des Authentisierungsdienstes wurde erfolgreich interpretiert.</value>
+  </data>
+  <data name="AUTHENTICATION_Registered.Text">
+    <value xml:space="preserve">Die Authentisierungskomponente wurde erfolgreich registriert - {0}</value>
+  </data>
+  <data name="AUTHENTICATION_SettingsSrcMissing.Text">
+    <value xml:space="preserve">Die benötigte Angabe SettingsControlSrc fehlt in der Steuerdatei</value>
+  </data>
+  <data name="AUTHENTICATION_TypeMissing.Text">
+    <value xml:space="preserve">Die benötigte Angabe Type fehlt in der Steuerdatei</value>
+  </data>
+  <data name="AUTHENTICATION_UnRegistered.Text">
+    <value xml:space="preserve">Authentisierungskomponenten erfolgreich deregistiert - {0}</value>
+  </data>
+  <data name="AuthorizeUser.Text">
+    <value xml:space="preserve">autorisieren</value>
+  </data>
+  <data name="AuthorizeUserDescription.Text">
+    <value xml:space="preserve">Benutzeranmeldung autorisieren.</value>
+  </data>
+  <data name="BannedPasswordUsed.Text">
+    <value xml:space="preserve">Das eingegebene Kennwort ist ungültig, da es entweder der Benutzername ist oder in der Liste verbotener Kennworte enthalten ist.</value>
+  </data>
+  <data name="Basic.Text">
+    <value xml:space="preserve">Profileinstellungen</value>
+  </data>
+  <data name="BeginSkinFile.Text">
+    <value xml:space="preserve">Verarbeitung der Datei gestartet</value>
+  </data>
+  <data name="BeginZip.Text">
+    <value xml:space="preserve">Verarbeitung der ZIP-Datei begonnen</value>
+  </data>
+  <data name="Calendar.Text">
+    <value xml:space="preserve">Kalender</value>
+  </data>
+  <data name="Cancel.Action">
+    <value xml:space="preserve">abbrechen</value>
+  </data>
+  <data name="Cancel.Text">
+    <value xml:space="preserve">abbrechen</value>
+  </data>
+  <data name="Captcha.Help">
+    <value xml:space="preserve">Geben Sie den Sicherheitscode an</value>
+  </data>
+  <data name="Captcha.Text">
+    <value xml:space="preserve">Sicherheitscode</value>
+  </data>
+  <data name="CaptchaAlt.Text">
+    <value xml:space="preserve">CAPTCHA-Bild</value>
+  </data>
+  <data name="CaptchaText.Text">
+    <value xml:space="preserve">Geben Sie die oben angegebenen Buchstaben und Ziffern in das folgende Textfeld ein.</value>
+  </data>
+  <data name="Center.Text">
+    <value xml:space="preserve">zentriert</value>
+  </data>
+  <data name="ChildPortal.Error">
+    <value xml:space="preserve">Fehler beim Konfigurieren der Unter-Website.</value>
+  </data>
+  <data name="ChooseFile.Text">
+    <value xml:space="preserve">Datei wählen</value>
+  </data>
+  <data name="CLEANUP_ProcessComplete.Text">
+    <value xml:space="preserve">Die Verarbeitung der Bereinigungsdatei wurde abgeschlossen - {0}.</value>
+  </data>
+  <data name="CLEANUP_Processing.Text">
+    <value xml:space="preserve">verarbeite Bereinigungsdatei - {0}.</value>
+  </data>
+  <data name="CleanWarningTitle.Text">
+    <value xml:space="preserve">URL bereinigt</value>
+  </data>
+  <data name="Close.Text">
+    <value xml:space="preserve">schließen</value>
+  </data>
+  <data name="cmdBack.Help">
+    <value xml:space="preserve">Klicken Sie hier, um die vorherige Seite anzuzeigen.</value>
+  </data>
+  <data name="cmdBack.Text">
+    <value xml:space="preserve">zurück</value>
+  </data>
+  <data name="cmdCancel.Text">
+    <value xml:space="preserve">abbrechen</value>
+  </data>
+  <data name="cmdDelete.Text">
+    <value xml:space="preserve">löschen</value>
+  </data>
+  <data name="cmdDisplay.Text">
+    <value xml:space="preserve">anzeigen</value>
+  </data>
+  <data name="cmdDownLoad.Text">
+    <value xml:space="preserve">herunterladen</value>
+  </data>
+  <data name="cmdEdit.Text">
+    <value xml:space="preserve">bearbeiten</value>
+  </data>
+  <data name="cmdFinish.Text">
+    <value xml:space="preserve">abschließen</value>
+  </data>
+  <data name="cmdGo.Text">
+    <value xml:space="preserve">Start</value>
+  </data>
+  <data name="cmdHelp.Help">
+    <value xml:space="preserve">Klicken Sie hier, um die Hilfe für diese Seite anzuzeigen.</value>
+  </data>
+  <data name="cmdHelp.Text">
+    <value xml:space="preserve">Hilfe</value>
+  </data>
+  <data name="cmdNext.Help">
+    <value xml:space="preserve">Klicken Sie hier, um die nächste Seite anzuzeigen.</value>
+  </data>
+  <data name="cmdNext.Text">
+    <value xml:space="preserve">weiter</value>
+  </data>
+  <data name="cmdReturn.Text">
+    <value xml:space="preserve">zurück</value>
+  </data>
+  <data name="cmdStop.Text">
+    <value xml:space="preserve">Stop</value>
+  </data>
+  <data name="cmdUpdate.Text">
+    <value xml:space="preserve">speichern</value>
+  </data>
+  <data name="cmdUpload.Text">
+    <value xml:space="preserve">Datei hochladen</value>
+  </data>
+  <data name="CollapseAll.Text">
+    <value xml:space="preserve">alle ausblenden</value>
+  </data>
+  <data name="CommentProvided.Action">
+    <value xml:space="preserve">Kommentar angegeben</value>
+  </data>
+  <data name="CommentProvided.Comment">
+    <value xml:space="preserve">Kommentar für Status '[STATE]': [COMMENT]</value>
+  </data>
+  <data name="COMPONENT_Installed.Text">
+    <value xml:space="preserve">Die Komponente wurde erfolgreich installiert.</value>
+  </data>
+  <data name="COMPONENT_RolledBack.Text">
+    <value xml:space="preserve">Die Installation der Komponente wurde erfolgreich rückgängig gemacht.</value>
+  </data>
+  <data name="COMPONENT_RollingBack.Text">
+    <value xml:space="preserve">Installation der Komponente rückgängig machen.</value>
+  </data>
+  <data name="COMPONENT_Skipped.Text">
+    <value xml:space="preserve">Komponente übersprungen.</value>
+  </data>
+  <data name="COMPONENT_UnInstalled.Text">
+    <value xml:space="preserve">Die Komponente wurde erfolgreich deinstalliert.</value>
+  </data>
+  <data name="CONFIG_Committed.Text">
+    <value xml:space="preserve">Änderung der Konfigurationsdatei ausgeführt.</value>
+  </data>
+  <data name="CONFIG_RolledBack.Text">
+    <value xml:space="preserve">Änderung der Konfigurationsdatei zurückgenommen.</value>
+  </data>
+  <data name="CONFIG_Updated.Text">
+    <value xml:space="preserve">Die Konfigurationsdatei wurde aktualisiert.</value>
+  </data>
+  <data name="Confirm.Text">
+    <value xml:space="preserve">bestätigen</value>
+  </data>
+  <data name="Contact.Text">
+    <value xml:space="preserve">Kontakt</value>
+  </data>
+  <data name="ContainerLoad.Error">
+    <value xml:space="preserve">Der Modulrahmen konnte nicht geladen werden: {0}</value>
+  </data>
+  <data name="Containers.Text">
+    <value xml:space="preserve">Modulrahmen</value>
+  </data>
+  <data name="ContractExpired.Error">
+    <value xml:space="preserve">Der Hosting-Vertrag für {0} ist am {1} abgelaufen. Bitte nehmen Sie mit &lt;a href="mailto:{2}"&gt;{2}&lt;/a&gt; Kontakt auf, um weitere Information zu erhalten.</value>
+  </data>
+  <data name="ControlDirective.Text">
+    <value xml:space="preserve">Anweisung für die Formatierung</value>
+  </data>
+  <data name="ControlFormat.Text">
+    <value xml:space="preserve">Hinweise zur Formatierung</value>
+  </data>
+  <data name="ControlRegister.Text">
+    <value xml:space="preserve">Formatierung der Registrierungshinweise</value>
+  </data>
+  <data name="CopyPermissionsToChildren.Text">
+    <value xml:space="preserve">Durch diese Aktion werden die eingestellten Seitenlayouts und Modulrahmen ALLER untergeordneter Seiten ersetzt.&lt;br /&gt;&lt;br /&gt;Sind Sie sicher, dass Sie dies möchten?</value>
+  </data>
+  <data name="CreateAdminUser.Error">
+    <value xml:space="preserve">Fehler beim Erstellen des Benutzerkontos für den Betreuer der Website.</value>
+  </data>
+  <data name="CreateDir.Text">
+    <value xml:space="preserve">Erstelle Verzeichnis</value>
+  </data>
+  <data name="CreatePortal.Error">
+    <value xml:space="preserve">Fehler beim Erstellen der Website</value>
+  </data>
+  <data name="CreateProfileDefinitions.Error">
+    <value xml:space="preserve">Fehler beim Erstellen der Profildefinition.</value>
+  </data>
+  <data name="CreatingConfiguredFolderMapping.Error">
+    <value xml:space="preserve">Die Ordner-Abbildung konnte aus der Konfigurationsdatei nicht erstellt werden.</value>
+  </data>
+  <data name="CriticalError.Error">
+    <value xml:space="preserve">Es ist ein kritischer Fehler aufgetreten, weitere Details finden Sie im Ereignisprotokoll dieser Website.</value>
+  </data>
+  <data name="Daily.Text">
+    <value xml:space="preserve">täglich</value>
+  </data>
+  <data name="DASHBOARD_KeyMissing.Text">
+    <value xml:space="preserve">Die benötigte Angabe "Key" fehlt in der Steuerdatei.</value>
+  </data>
+  <data name="DASHBOARD_LocalResourcesMissing.Text">
+    <value xml:space="preserve">Die benötigte Angabe "LocalResources" fehlt in der Steuerdatei.</value>
+  </data>
+  <data name="DASHBOARD_ReadSuccess.Text">
+    <value xml:space="preserve">Die Steuerdatei der Systeminfo-Erweiterung wurde erfolgreich interpretiert.</value>
+  </data>
+  <data name="DASHBOARD_Registered.Text">
+    <value xml:space="preserve">Systeminfo-Erweiterung erfolgreich registriert.</value>
+  </data>
+  <data name="DASHBOARD_SrcMissing.Text">
+    <value xml:space="preserve">Die benötigte Angabe "Src" fehlt in der Steuerdatei.</value>
+  </data>
+  <data name="DASHBOARD_UnRegistered.Text">
+    <value xml:space="preserve">Systeminfo-Erweiterung erfolgreich deregistriert.</value>
+  </data>
+  <data name="Day.Text">
+    <value xml:space="preserve">Tag</value>
+  </data>
+  <data name="DayAgo.Text">
+    <value xml:space="preserve">vor {0} Tag</value>
+  </data>
+  <data name="Days.Text">
+    <value xml:space="preserve">Tage</value>
+  </data>
+  <data name="DaysAgo.Text">
+    <value xml:space="preserve">vor {0} Tagen</value>
+  </data>
+  <data name="DefaultDirectPublishWorkflowDescription.Text">
+    <value xml:space="preserve">Erlaubt es einem Autor, Inhalt direkt auf der Website zu veröffentlichen.</value>
+  </data>
+  <data name="DefaultDirectPublishWorkflowName.Text">
+    <value xml:space="preserve">direkt veröffentlichen</value>
+  </data>
+  <data name="DefaultFolderMappings.Error">
+    <value xml:space="preserve">Fehler beim Erstellen der Standard-Ordnertypen</value>
+  </data>
+  <data name="DefaultSaveDraftWorkflowDescription.Text">
+    <value xml:space="preserve">Erlaubt es einem Autor, eine Kopie als Entwurf zu speichern, bevor die neue Version veröffentlicht wird.</value>
+  </data>
+  <data name="DefaultSaveDraftWorkflowName.Text">
+    <value xml:space="preserve">Entwurf speichern</value>
+  </data>
+  <data name="DefaultWorkflowDescription.Text">
+    <value xml:space="preserve">Erlaubt es einem Autor, den Inhalt zu verwalten und dies vor der Veröffentlichung durch einen anderen Benutzer überprüfen zu lassen.</value>
+  </data>
+  <data name="DefaultWorkflowMigrationPrefix.Text">
+    <value xml:space="preserve">Ordner:</value>
+  </data>
+  <data name="DefaultWorkflowName.Text">
+    <value xml:space="preserve">Inhalte freigeben</value>
+  </data>
+  <data name="DefaultWorkflowState1.OnCompleteMessageBody">
+    <value xml:space="preserve">[DATE]: Die Datei [FILE] steht zur Überprüfung durch [USER] bereit.</value>
+  </data>
+  <data name="DefaultWorkflowState1.OnCompleteMessageSubject">
+    <value xml:space="preserve">Zu überprüfende Datei</value>
+  </data>
+  <data name="DefaultWorkflowState1.StateName">
+    <value xml:space="preserve">Entwurf</value>
+  </data>
+  <data name="DefaultWorkflowState2.OnCompleteMessageBody">
+    <value xml:space="preserve">[DATE]: Die Datei [FILE] wurde von [USER] freigegeben.</value>
+  </data>
+  <data name="DefaultWorkflowState2.OnCompleteMessageSubject">
+    <value xml:space="preserve">Datei freigegeben</value>
+  </data>
+  <data name="DefaultWorkflowState2.OnDiscardMessageBody">
+    <value xml:space="preserve">[DATE]: Die Datei [FILE] wurde von [USER] zurückgewiesen.</value>
+  </data>
+  <data name="DefaultWorkflowState2.OnDiscardMessageSubject">
+    <value xml:space="preserve">Datei zurückgewiesen</value>
+  </data>
+  <data name="DefaultWorkflowState2.StateName">
+    <value xml:space="preserve">bereit zur Überprüfung</value>
+  </data>
+  <data name="DefaultWorkflowState3.StateName">
+    <value xml:space="preserve">veröffentlicht</value>
+  </data>
+  <data name="Delete.Text">
+    <value xml:space="preserve">löschen</value>
+  </data>
+  <data name="Deleted.Text">
+    <value xml:space="preserve">gelöscht</value>
+  </data>
+  <data name="DeleteItem.Text">
+    <value xml:space="preserve">Sind Sie sicher, dass Sie diese Einträge löschen wollen?</value>
+  </data>
+  <data name="DeleteItems.Confirm">
+    <value xml:space="preserve">Sind Sie sicher, dass Sie diese Einträge löschen wollen?</value>
+  </data>
+  <data name="DeleteItems.Text">
+    <value xml:space="preserve">Sind Sie sicher, dass Sie diese Einträge löschen wollen?</value>
+  </data>
+  <data name="DeleteModule.Confirm">
+    <value xml:space="preserve">Sind Sie sicher, dass Sie dieses Modul löschen wollen?</value>
+  </data>
+  <data name="DeleteSharedModule.Confirm">
+    <value xml:space="preserve">Dieses Modul wird von einer anderen Website in der Gruppe verwendet. Wenn Sie diese Modulinstanz löschen, werden alle Referenzen auch gelöscht. Um alle Referenzen anzuzeigen, gehen Sie in die Moduleinstellungen &gt; Hinzugefügt zu Seiten.
+Sind Sie sicher, dass Sie dieses Modul und alle Referenzen löschen wollen?</value>
+  </data>
+  <data name="DeletetUser.Text">
+    <value xml:space="preserve">Sind Sie sicher, dass Sie dieses Benutzerkonto löschen wollen?</value>
+  </data>
+  <data name="DeleteUploadFolder.Error">
+    <value xml:space="preserve">Fehler beim Löschen eines zuvor erstellten Ordners.</value>
+  </data>
+  <data name="DeLocalizeModule.Confirm">
+    <value xml:space="preserve">Sind Sie sicher, dass Sie dieses Modul de-lokalisieren wollen?</value>
+  </data>
+  <data name="DiskSpaceExceeded.Text">
+    <value xml:space="preserve">Die Datei {0} überschreitet den Ihnen zur Verfügung stehenden Speicherplatz. Bitte wenden Sie sich an Ihren Systembetreuer, um den verfügbaren Speicherplatz vergrößern zu lassen.</value>
+  </data>
+  <data name="Dismiss.Text">
+    <value xml:space="preserve">gelesen</value>
+  </data>
+  <data name="DismissNotification.Text">
+    <value xml:space="preserve">Diese Nachricht versenden</value>
+  </data>
+  <data name="DisplayEnglish.Text">
+    <value xml:space="preserve">englische Bezeichnung verwenden</value>
+  </data>
+  <data name="DisplayName.Text">
+    <value xml:space="preserve">Anzeigename:</value>
+  </data>
+  <data name="DisplayNative.Text">
+    <value xml:space="preserve">ursprüngliche Bezeichnung verwenden</value>
+  </data>
+  <data name="DNN_Reading.Text">
+    <value xml:space="preserve">Paket-Steuerdatei wird gelesen</value>
+  </data>
+  <data name="DNN_ReadingComponent.Text">
+    <value xml:space="preserve">Steuerdatei der Komponenten wird gelesen</value>
+  </data>
+  <data name="DNN_ReadingPackage.Text">
+    <value xml:space="preserve">Paket-Steuerdatei wird gelesen</value>
+  </data>
+  <data name="DNN_Success.Text">
+    <value xml:space="preserve">Die Steuerdatei wurde erfolgreich verarbeitet.</value>
+  </data>
+  <data name="DNN_Valid.Text">
+    <value xml:space="preserve">Die DNN-Datei ist ein gültiges {0} Format.</value>
+  </data>
+  <data name="DNN_ValidSkinObject.Text">
+    <value xml:space="preserve">Die DNN-Datei ist ein gültiges 2.0 Seitenlayout-Format.</value>
+  </data>
+  <data name="DraftCompleted.Action">
+    <value xml:space="preserve">Entwurf vollständig</value>
+  </data>
+  <data name="DraftCompleted.Comment">
+    <value xml:space="preserve">Der Entwurfs-Status wurde abgeschlossen, der Inhalt steht zur Veröffentlichung bereit.</value>
+  </data>
+  <data name="DropDownList.ClearButtonTooltip">
+    <value xml:space="preserve">löschen</value>
+  </data>
+  <data name="DropDownList.LoadingResultText">
+    <value xml:space="preserve">...lade Ergebnisse</value>
+  </data>
+  <data name="DropDownList.Results">
+    <value xml:space="preserve">Ergebnisse</value>
+  </data>
+  <data name="DropDownList.SearchButtonTooltip">
+    <value xml:space="preserve">Suche</value>
+  </data>
+  <data name="DropDownList.SearchInputPlaceHolder">
+    <value xml:space="preserve">suchen...</value>
+  </data>
+  <data name="DropDownList.SelectedItemCollapseTooltip">
+    <value xml:space="preserve">Zum Ausblenden hier klicken</value>
+  </data>
+  <data name="DropDownList.SelectedItemExpandTooltip">
+    <value xml:space="preserve">Zum Einblenden hier klicken</value>
+  </data>
+  <data name="DropDownList.SelectFolderDefaultText">
+    <value xml:space="preserve">Bitte wählen Sie einen Ordner</value>
+  </data>
+  <data name="DropDownList.SelectUserDefaultText">
+    <value xml:space="preserve">Bitte wählen Sie einen Benutzer</value>
+  </data>
+  <data name="DropDownList.SelectWebPageDefaultText">
+    <value xml:space="preserve">Bitte wählen Sie eine Seite</value>
+  </data>
+  <data name="DropDownList.SortAscendingButtonTitle">
+    <value xml:space="preserve">A-Z</value>
+  </data>
+  <data name="DropDownList.SortAscendingButtonTooltip">
+    <value xml:space="preserve">aufsteigend sortieren</value>
+  </data>
+  <data name="DropDownList.SortDescendingButtonTooltip">
+    <value xml:space="preserve">absteigend sortieren</value>
+  </data>
+  <data name="DropDownList.UnsortedOrderButtonTooltip">
+    <value xml:space="preserve">Sortierung entfernen</value>
+  </data>
+  <data name="DuplicateDisplayName.Text">
+    <value xml:space="preserve">Der Anzeigename wird bereits verwendet.</value>
+  </data>
+  <data name="DuplicateSkinObject.Detail">
+    <value xml:space="preserve">Jedes Seitenlayout, das diesen Platzhalter verwendet,wird das zuvor registrierte Layoutobjekt {0} referenzieren, anstelle des Duplikats ({1}). Dadurch wird das Seitenlayout u.U. falsch dargestellt.</value>
+  </data>
+  <data name="DuplicateSkinObject.Error">
+    <value xml:space="preserve">Eliminiere doppelte Layoutobjekte für Kennung {0}</value>
+  </data>
+  <data name="DuplicateUrlWarningTitle.Text">
+    <value xml:space="preserve">Doppelte URL</value>
+  </data>
+  <data name="Edit.Text">
+    <value xml:space="preserve">bearbeiten</value>
+  </data>
+  <data name="EndSkinFile.Text">
+    <value xml:space="preserve">Dateiverarbeitung beendet</value>
+  </data>
+  <data name="EndSkinFiles.Text">
+    <value xml:space="preserve">Verarbeitung der Layoutdateien beendet.</value>
+  </data>
+  <data name="EndZip.Text">
+    <value xml:space="preserve">Verarbeitung der Zip-Datei beendet.</value>
+  </data>
+  <data name="ErrorOccurred.Text">
+    <value xml:space="preserve">Es ist ein Fehler aufgetreten.</value>
+  </data>
+  <data name="EVENTMESSAGE_CommandMissing.Text">
+    <value xml:space="preserve">Das Prozessorkommando fehlt in der Steuerdatei.</value>
+  </data>
+  <data name="EVENTMESSAGE_TypeMissing.Text">
+    <value xml:space="preserve">Der Prozessortyp fehlt in der Steuerdatei.</value>
+  </data>
+  <data name="EXCEPTION.DuplicateLocale.Text">
+    <value xml:space="preserve">Diese Sprache ist bereits definiert.</value>
+  </data>
+  <data name="EXCEPTION.LangPack.FileMissing">
+    <value xml:space="preserve">Die Datei {0} fehlt in der Steuerdatei des Sprachpakets.</value>
+  </data>
+  <data name="EXCEPTION.LangPack.Install">
+    <value xml:space="preserve">Beim Laden des Sprachpakets ist ein Fehler aufgetreten: {0}</value>
+  </data>
+  <data name="EXCEPTION.LangPack.ManifestLoad">
+    <value xml:space="preserve">Beim Laden der Sprachpaket-Steuerdatei ist ein Fehler aufgetreten: {0}</value>
+  </data>
+  <data name="EXCEPTION.LangPack.ManifestZip">
+    <value xml:space="preserve">Beim Lesen der Sprachpaket-Steuerdatei ist ein Fehler aufgetreten: {0}</value>
+  </data>
+  <data name="EXCEPTION.Log">
+    <value xml:space="preserve">AUSNAHME: {0}</value>
+  </data>
+  <data name="EXCEPTION.SaveLocale.Text">
+    <value xml:space="preserve">Eine Dateioperation ist fehlgeschlagen. Bitte überprüfen Sie die Dateiberechtigungen.</value>
+  </data>
+  <data name="EXCEPTION.Text">
+    <value xml:space="preserve">Ausnahme</value>
+  </data>
+  <data name="EXCEPTION_DesktopSrc.Text">
+    <value xml:space="preserve">Ein Modul-Steuerelement muss einen Wert für DesktopSrc haben - Abbruch.</value>
+  </data>
+  <data name="EXCEPTION_DirectoryExists.Text">
+    <value xml:space="preserve">Das Verzeichnis existiert bereits.</value>
+  </data>
+  <data name="EXCEPTION_FileLoad.Text">
+    <value xml:space="preserve">Datei laden fehlgeschlagen - Abbruch.</value>
+  </data>
+  <data name="EXCEPTION_FileName.Text">
+    <value xml:space="preserve">Die Datei muss einen gültigen Namen haben - Abbruch.</value>
+  </data>
+  <data name="EXCEPTION_FileRead.Text">
+    <value xml:space="preserve">Die Datei konnte nicht vollständig gelesen werden:</value>
+  </data>
+  <data name="EXCEPTION_FolderDesc.Text">
+    <value xml:space="preserve">Ein Ordner muss eine Beschreibung haben - Abbruch.</value>
+  </data>
+  <data name="EXCEPTION_FolderName.Text">
+    <value xml:space="preserve">Ein Ordner muss einen Namen haben - Abbruch.</value>
+  </data>
+  <data name="EXCEPTION_FolderProvider.Text">
+    <value xml:space="preserve">Ein Ordner muss einen Verzeichnistyp haben - Abbruch.</value>
+  </data>
+  <data name="EXCEPTION_FolderVersion.Text">
+    <value xml:space="preserve">Ein Ordner muss eine Version haben - Abbruch.</value>
+  </data>
+  <data name="EXCEPTION_Format.Text">
+    <value xml:space="preserve">Ungültiges Format der .dnn-Datei - Abbruch.</value>
+  </data>
+  <data name="EXCEPTION_InstallerCreate.Text">
+    <value xml:space="preserve">Fehler beim Erstellen der Komponente im Installer.</value>
+  </data>
+  <data name="EXCEPTION_InvalidEmailAddress.Text">
+    <value xml:space="preserve">Die E-Mail-Adresse ({0}) hat kein gültiges Format.</value>
+  </data>
+  <data name="EXCEPTION_LoadFailed.Text">
+    <value xml:space="preserve">Laden der Anwendung fehlgeschlagen - Abbruch.</value>
+  </data>
+  <data name="EXCEPTION_MissingDnn.Text">
+    <value xml:space="preserve">Es wurde keine .dnn-Datei gefunden.</value>
+  </data>
+  <data name="EXCEPTION_MissingResource.Text">
+    <value xml:space="preserve">Die in der Beschreibungsdatei angegebene Ressourcendatei konnte nicht im Paket gefunden werden:</value>
+  </data>
+  <data name="EXCEPTION_ModuleCacheMissing.Text">
+    <value xml:space="preserve">Der ModuleCachingProvider ist nicht richtig konfiguriert. Bitte stellen Sie sicher, dass in der web.config-Datei eine Konfiguration für den der ModuleCaching-Provider vorhanden ist und als Standard-Provider festgelegt ist.</value>
+  </data>
+  <data name="EXCEPTION_MultipleDnn.Text">
+    <value xml:space="preserve">es wurden mehrere .dnn-Dateien im Paket gefunden:</value>
+  </data>
+  <data name="EXCEPTION_NameMissing.Text">
+    <value xml:space="preserve">Das Element "Name" muss angegeben werden.</value>
+  </data>
+  <data name="EXCEPTION_Src.Text">
+    <value xml:space="preserve">Ein Modul-Steuerelement muss einen Wert für Src haben - Abbruch.</value>
+  </data>
+  <data name="EXCEPTION_Type.Text">
+    <value xml:space="preserve">Ein Modul-Steuerelement muss einen Wert für Type haben - Abbruch.</value>
+  </data>
+  <data name="EXCEPTION_TypeMissing.Text">
+    <value xml:space="preserve">Sie müssen den Typ angeben.</value>
+  </data>
+  <data name="EXCEPTION_VersionMissing.Text">
+    <value xml:space="preserve">Sie müssen das Element Version angeben.</value>
+  </data>
+  <data name="ExpandAll.Text">
+    <value xml:space="preserve">Alles anzeigen</value>
+  </data>
+  <data name="FailedRecipient.Text">
+    <value xml:space="preserve">Dei Nachricht wurde an folgende Empfänger nicht ausgeliefert: {0}</value>
+  </data>
+  <data name="False.Text">
+    <value xml:space="preserve">falsch</value>
+  </data>
+  <data name="FILE_CreateBackup.Text">
+    <value xml:space="preserve">Erstelle eine Sicherung der Vorversion - {0}</value>
+  </data>
+  <data name="FILE_Created.Text">
+    <value xml:space="preserve">erstellt - {0}</value>
+  </data>
+  <data name="FILE_Deleted.Text">
+    <value xml:space="preserve">gelöscht - {0}</value>
+  </data>
+  <data name="FILE_Found.Text">
+    <value xml:space="preserve">Gültiger Pfad ({0}) für {1} gefunden.</value>
+  </data>
+  <data name="FILE_Loading.Text">
+    <value xml:space="preserve">lade</value>
+  </data>
+  <data name="FILE_NotAllowed.Text">
+    <value xml:space="preserve">Die Dateierweiterung ist nicht zugelassen - {0}.</value>
+  </data>
+  <data name="FILE_NotFound.Text">
+    <value xml:space="preserve">Die in der Steuerdatei angegebene Datei wurde im Paket nicht gefunden:</value>
+  </data>
+  <data name="FILE_ReadSuccess.Text">
+    <value xml:space="preserve">Die Datei {0} wurde erfolgreich gelesen.</value>
+  </data>
+  <data name="FILE_RestoreBackup.Text">
+    <value xml:space="preserve">Sicherung von vorheriger Version wiederherstellen - {0}</value>
+  </data>
+  <data name="FileAccess.Error">
+    <value xml:space="preserve">Sie sind nicht berechtigt, auf diese Datei zuzugreifen.</value>
+  </data>
+  <data name="FileError.Text">
+    <value xml:space="preserve">Fehler beim Verarbeiten der Datei</value>
+  </data>
+  <data name="FileFormat.Detail">
+    <value xml:space="preserve">{0} enthält keinen Bereich "ContentPane".</value>
+  </data>
+  <data name="FileFormat.Error">
+    <value xml:space="preserve">Fehler im Dateiformat</value>
+  </data>
+  <data name="FileInUse.Text">
+    <value xml:space="preserve">Die Datei {0} ist offenbar in Verwendung und kann zur Zeit nicht gelöscht werden. Bitte versuchen Sie es in einigen Minuten erneut.</value>
+  </data>
+  <data name="FilePermission.Error">
+    <value xml:space="preserve">Sie haben keine Berechtigung, die gewünschte Datei anzuzeigen.</value>
+  </data>
+  <data name="FileRestricted.Text">
+    <value xml:space="preserve">{0} ist ein nicht zugelassenen Dateityp. Zugelassene Dateitypen sind ( *.{1}). Bitte wenden Sie sich an Ihren Systembetreuer, falls Sie eine Datei eines anderen Typs hochladen möchten.</value>
+  </data>
+  <data name="Files.Text">
+    <value xml:space="preserve">Dateien:</value>
+  </data>
+  <data name="FILES_Created.Text">
+    <value xml:space="preserve">Die Dateien wurden erstellt</value>
+  </data>
+  <data name="FILES_CreatedResources.Text">
+    <value xml:space="preserve">Sprachdateien erstellt</value>
+  </data>
+  <data name="FILES_Creating.Text">
+    <value xml:space="preserve">Erstelle Dateien</value>
+  </data>
+  <data name="FILES_Expanding.Text">
+    <value xml:space="preserve">Ressourcendatei anzeigen</value>
+  </data>
+  <data name="FILES_Loading.Text">
+    <value xml:space="preserve">Die Dateiinformation wird geladen</value>
+  </data>
+  <data name="FILES_Reading.Text">
+    <value xml:space="preserve">Dateien werden gelesen</value>
+  </data>
+  <data name="FILES_ReadingEnd.Text">
+    <value xml:space="preserve">Lesen der Dateien abgeschlossen.</value>
+  </data>
+  <data name="FileUpload.UnzipFileFailedPromptBody.Text">
+    <value xml:space="preserve">&lt;div class="invalidFiles"&gt;&lt;p&gt;[COUNT] von [TOTAL] Dateien wurden nicht entpackt, da ihr Dateityp nicht unterstützt wird:&lt;/p&gt;[FILELIST]&lt;/div&gt;</value>
+  </data>
+  <data name="FileUpload.UnzipFilePromptTitle.Text">
+    <value xml:space="preserve">Unzip-Information</value>
+  </data>
+  <data name="FileUpload.UnzipFileSuccessPromptBody.Text">
+    <value xml:space="preserve">&lt;div class="validFiles"&gt;&lt;p&gt;[TOTAL] von[TOTAL] Dateien wurden erfolgreich entpackt.&lt;/p&gt;&lt;/div&gt;</value>
+  </data>
+  <data name="FileWrite.Text">
+    <value xml:space="preserve">Die Datei wird geschrieben</value>
+  </data>
+  <data name="First.Text">
+    <value xml:space="preserve">Erste</value>
+  </data>
+  <data name="FOLDER_Created.Text">
+    <value xml:space="preserve">Ordner erstellt - {0}</value>
+  </data>
+  <data name="FOLDER_Deleted.Text">
+    <value xml:space="preserve">Ordner gelöscht - {0}</value>
+  </data>
+  <data name="FOLDER_DeletedBackup.Text">
+    <value xml:space="preserve">Der temporäre Installationsordner wurde gelöscht</value>
+  </data>
+  <data name="Folders.Text">
+    <value xml:space="preserve">Ordner:</value>
+  </data>
+  <data name="Follow.Text">
+    <value xml:space="preserve">beobachten</value>
+  </data>
+  <data name="FollowBack.Text">
+    <value xml:space="preserve">zurückverfolgen</value>
+  </data>
+  <data name="Followers.Text">
+    <value xml:space="preserve">Verfolger</value>
+  </data>
+  <data name="Friends.Text">
+    <value xml:space="preserve">Freunde</value>
+  </data>
+  <data name="FriendsAndGroups.Text">
+    <value xml:space="preserve">Freunde und Gruppen</value>
+  </data>
+  <data name="FriendsGroups.Text">
+    <value xml:space="preserve">Freunde und Gruppen</value>
+  </data>
+  <data name="FTB_FolderCreate.Error">
+    <value xml:space="preserve">Beim Erstellen des Ordners ist ein unbekannter Fehler aufgetreten.</value>
+  </data>
+  <data name="FTB_FolderCreate.Permission">
+    <value xml:space="preserve">Sie haben keine Berechtigung, Ordner zu erstellen.</value>
+  </data>
+  <data name="FTB_FolderCreated.Text">
+    <value xml:space="preserve">Der Ordner {0} wurde erfolgreich erstellt.</value>
+  </data>
+  <data name="FTB_FolderDelete.Error">
+    <value xml:space="preserve">Beim Erstellen des Ordners ist ein unbekannter Fehler aufgetreten.</value>
+  </data>
+  <data name="FTB_FolderDelete.Permission">
+    <value xml:space="preserve">Sie haben keine Berechtigung, Ordner zu löschen.</value>
+  </data>
+  <data name="FTB_FolderDeleted.Text">
+    <value xml:space="preserve">Der Ordner {0} wurde erfolgreich gelöscht.</value>
+  </data>
+  <data name="FTB_ImageDelete.Error">
+    <value xml:space="preserve">Beim Erstellen des Bildes ist ein unbekannter Fehler aufgetreten.</value>
+  </data>
+  <data name="FTB_ImageDelete.Permission">
+    <value xml:space="preserve">Sie haben keine Berechtigung, Bilder zu löschen.</value>
+  </data>
+  <data name="FTB_ImageDeleted.Text">
+    <value xml:space="preserve">Das Bild {0} wurde erfolgreich gelöscht.</value>
+  </data>
+  <data name="FTB_ImageUpload.Error">
+    <value xml:space="preserve">Beim Hochladen des Bildes ist ein unbekannter Fehler aufgetreten.</value>
+  </data>
+  <data name="FTB_ImageUpload.Permission">
+    <value xml:space="preserve">Sie haben keine Berechtigung, Bilder hochzuladen.</value>
+  </data>
+  <data name="FTB_ImageUploaded.Text">
+    <value xml:space="preserve">Das Bild {0} wurde erfolgreich hochgeladen.</value>
+  </data>
+  <data name="FTB_ImageUploadNoFile.Text">
+    <value xml:space="preserve">Keine Datei hochgeladen.</value>
+  </data>
+  <data name="GlobalRoles.Text">
+    <value xml:space="preserve">&lt; Allgemeine Benutzergruppen &gt;</value>
+  </data>
+  <data name="GreenSuccess.Text">
+    <value xml:space="preserve">erfolgreich</value>
+  </data>
+  <data name="Help.Text">
+    <value xml:space="preserve">Hilfe</value>
+  </data>
+  <data name="Home.Text">
+    <value xml:space="preserve">Start</value>
+  </data>
+  <data name="HostRootFolder.Name">
+    <value xml:space="preserve">System-Basis</value>
+  </data>
+  <data name="Hour.Text">
+    <value xml:space="preserve">Stunde</value>
+  </data>
+  <data name="HourAgo.Text">
+    <value xml:space="preserve">vor {0} Stunde</value>
+  </data>
+  <data name="Hourly.Text">
+    <value xml:space="preserve">stündlich</value>
+  </data>
+  <data name="Hours.Text">
+    <value xml:space="preserve">Stunden</value>
+  </data>
+  <data name="HoursAgo.Text">
+    <value xml:space="preserve">vor {0} Stunden</value>
+  </data>
+  <data name="Ignore.Text">
+    <value xml:space="preserve">ignorieren</value>
+  </data>
+  <data name="IgnoreFriend.Text">
+    <value xml:space="preserve">Freundschaftsanfrage ignorieren</value>
+  </data>
+  <data name="InsecureAdmin.Text">
+    <value xml:space="preserve">Ihr Administrator-Konto verwendet immer noch ein bekanntes Standard-Kennwort. Bitte ändern Sie das Kennwort in ein sicheres und prüfen Sie, dass auch die E-Mail-Adresse korrekt hinterlegt ist.</value>
+  </data>
+  <data name="InsecureDefaults.Text">
+    <value xml:space="preserve">Beide Standardkonten (host und admin) verwenden ein unsicheres bekanntes Standard-Kennwort. Bitte ändern Sie das Kennwort in ein sicheres und prüfen Sie, dass die Konten über korrekte E-Mail-Adressen verfügen.</value>
+  </data>
+  <data name="InsecureDefaults.Title">
+    <value xml:space="preserve">Unsichere Anmeldedaten</value>
+  </data>
+  <data name="InsecureHost.Text">
+    <value xml:space="preserve">Ihr Systemverwalter-Konto verwendet immer noch ein bekanntes Standard-Kennwort. Bitte ändern Sie das Kennwort in ein sicheres und prüfen Sie, dass auch die E-Mail-Adresse korrekt hinterlegt ist.</value>
+  </data>
+  <data name="InsertSmileyButton.Text">
+    <value xml:space="preserve">Smiley einfügen</value>
+  </data>
+  <data name="INSTALL_Aborted.Text">
+    <value xml:space="preserve">Paketinstallation abgebrochen</value>
+  </data>
+  <data name="INSTALL_Committed.Text">
+    <value xml:space="preserve">Installation abgeschlossen</value>
+  </data>
+  <data name="INSTALL_Compatibility.Text">
+    <value xml:space="preserve">Installation abgebrochen - Das zu installierende Modul ist nicht kompatibel mit der eingesetzten Version des Basissystems, Sie müssen dieses erst auf Version {0} aktualisieren.</value>
+  </data>
+  <data name="INSTALL_Dependencies.Text">
+    <value xml:space="preserve">Installation abgebrochen - Das zu installierende Modul erfordert weitere Komponenten, die noch nicht installiert sind.</value>
+  </data>
+  <data name="INSTALL_Failed.Text">
+    <value xml:space="preserve">Installation abgebrochen</value>
+  </data>
+  <data name="INSTALL_Namespace.Text">
+    <value xml:space="preserve">Eine abhängige Komponente ist nicht installiert.</value>
+  </data>
+  <data name="INSTALL_OlderVersion.Text">
+    <value xml:space="preserve">Installation abgebrochen - Das zu installierende Modul ist älter als die bereits installierte Version.</value>
+  </data>
+  <data name="INSTALL_Package.Text">
+    <value xml:space="preserve">Ein abhängiges Paket ist nicht installiert.</value>
+  </data>
+  <data name="INSTALL_Permissions.Text">
+    <value xml:space="preserve">Installation abgebrochen - Das zu installierende Modul erfordert mehr Berechtigungen als derzeit in Ihrer Umgebung zugelassen.</value>
+  </data>
+  <data name="INSTALL_Start.Text">
+    <value xml:space="preserve">Installation gestartet</value>
+  </data>
+  <data name="INSTALL_Success.Text">
+    <value xml:space="preserve">Installation erfolgreich abgeschlossen.</value>
+  </data>
+  <data name="INSTALL_Version.Text">
+    <value xml:space="preserve">Es ist bereits eine neuere Version dieses Pakets installiert.</value>
+  </data>
+  <data name="InsufficientFolderPermission.Text">
+    <value xml:space="preserve">Sie haben keine ausreichende Berechtigung, in Ordner {0} zu schreiben. Bitte wenden Sie sich an den Systembetreuer, damit die notwendigen Berechtigungen für das Verzeichnis erteilt werden.</value>
+  </data>
+  <data name="InvalidAnswer.Text">
+    <value xml:space="preserve">Die angegebene Antwort ist ungültig. Bitte geben Sie eine gültige Antwort auf die Frage an.</value>
+  </data>
+  <data name="InvalidCaptcha.Text">
+    <value xml:space="preserve">Ungültiger Sicherheitscode</value>
+  </data>
+  <data name="InvalidDisplayName.Text">
+    <value xml:space="preserve">Der angegebene Anzeigename ist nicht zulässig.</value>
+  </data>
+  <data name="InvalidEmail.Text">
+    <value xml:space="preserve">Die angegebene E-Mail-Adresse ist ungültig. Bitte geben Sie eine gültige Adresse an.</value>
+  </data>
+  <data name="InvalidFileName.Text">
+    <value xml:space="preserve">Ungültiger Dateiname - das Apostroph-Zeichen ' darf nicht enthalten sein.</value>
+  </data>
+  <data name="InvalidPassword.Text">
+    <value xml:space="preserve">Das angegebene Kennwort ist ungültig. Bitte geben Sie ein gültiges Kennwort an. Dieses muss mindestens [PasswordLength] Zeichen umfassen, muss mind. [NoneAlphabet] Ziffern oder Sonderzeichen besitzen und darf nicht mit dem Benutzernamen übereinstimmen.</value>
+  </data>
+  <data name="InvalidPasswordAnswer.Text">
+    <value xml:space="preserve">Sie müssen eine geheime Antwort angeben.</value>
+  </data>
+  <data name="InvalidPasswordQuestion.Text">
+    <value xml:space="preserve">Sie müssen die Kennwortfrage angeben.</value>
+  </data>
+  <data name="InvalidQuestion.Text">
+    <value xml:space="preserve">Die angegebene Frage ist ungültig, bitte geben Sie eine gültige Frage ein.</value>
+  </data>
+  <data name="InvalidRoleId.Text">
+    <value xml:space="preserve">Die angegebene Benutzergruppe ist ungültig, bitte geben Sie eine gültige Gruppe an.</value>
+  </data>
+  <data name="InvalidUserName.Text">
+    <value xml:space="preserve">Der angegebene Benutzername ist ungültig, bitte geben Sie einen gültigen Benutzernamen an.</value>
+  </data>
+  <data name="jQuery.NotInstalled.Text">
+    <value xml:space="preserve">jQuery ist nicht installiert.</value>
+  </data>
+  <data name="jQuery.UI.UnknownVersion.Text">
+    <value xml:space="preserve">Die Version von jQuery UI kann nicht ermittelt werden.</value>
+  </data>
+  <data name="jQuery.UnknownVersion.Text">
+    <value xml:space="preserve">Die Version von jQuery kann nicht ermittelt werden.</value>
+  </data>
+  <data name="jQueryUI.NotInstalled.Text">
+    <value xml:space="preserve">jQueryUI ist nicht installiert.</value>
+  </data>
+  <data name="LANGUAGE_PortalsEnabled.Text">
+    <value xml:space="preserve">Die Sprache ist für alle Websites aktiviert - {0}</value>
+  </data>
+  <data name="LANGUAGE_Registered.Text">
+    <value xml:space="preserve">Das Sprachpaket wurde erfolgreich registriert - {0}</value>
+  </data>
+  <data name="LANGUAGE_UnRegistered.Text">
+    <value xml:space="preserve">Das Sprachpaket wurde erfolgreich deregistriert - {0}</value>
+  </data>
+  <data name="LanguageNotSelected.Text">
+    <value xml:space="preserve">Sie haben keine bevorzugte Sprache ausgewählt. Ihre bevorzugte Sprache wird daher auf die Standardsprache der Website eingestellt.</value>
+  </data>
+  <data name="Last.Text">
+    <value xml:space="preserve">letzte</value>
+  </data>
+  <data name="LastPortal.Text">
+    <value xml:space="preserve">Sie können die letzte Website in Ihrer Installation nicht löschen!</value>
+  </data>
+  <data name="Left.Text">
+    <value xml:space="preserve">links</value>
+  </data>
+  <data name="LIBRARY_ReadSuccess.Text">
+    <value xml:space="preserve">Das Manifest der Bibliothek wurde erfolgreich gelesen.</value>
+  </data>
+  <data name="LIBRARY_Registered.Text">
+    <value xml:space="preserve">Die Bibliothek wurde erfolgreich registriert - {0}</value>
+  </data>
+  <data name="LIBRARY_UnRegistered.Text">
+    <value xml:space="preserve">Die Bibliothek wurde erfolgreich de-registriert - {0}</value>
+  </data>
+  <data name="LoadingSkinToken.Text">
+    <value xml:space="preserve">Lade Layout-Objekte für Platzhalter {0}</value>
+  </data>
+  <data name="Localization_NotLocalized.Text">
+    <value xml:space="preserve">nicht übersetzt</value>
+  </data>
+  <data name="Localization_NotTranslated.Text">
+    <value xml:space="preserve">nicht übersetzt</value>
+  </data>
+  <data name="Localization_OutOfDate.Text">
+    <value xml:space="preserve">veraltet</value>
+  </data>
+  <data name="Localization_Translated.Text">
+    <value xml:space="preserve">übersetzt</value>
+  </data>
+  <data name="LocalizeModule.Confirm">
+    <value xml:space="preserve">Sind Sie sicher, dass Sie dieses Modul lokalisieren wollen?</value>
+  </data>
+  <data name="Location.Text">
+    <value xml:space="preserve">Ortsangaben</value>
+  </data>
+  <data name="LOG.LangPack.Admin">
+    <value xml:space="preserve">Administrator</value>
+  </data>
+  <data name="LOG.LangPack.ArchiveFiles">
+    <value xml:space="preserve">Ressourcenpaket archivieren.</value>
+  </data>
+  <data name="LOG.LangPack.Control">
+    <value xml:space="preserve">Steuerelement</value>
+  </data>
+  <data name="LOG.LangPack.CreateArchive">
+    <value xml:space="preserve">Füge Dateien zum Sprachpaket hinzu: {0}</value>
+  </data>
+  <data name="LOG.LangPack.ERROR.CreatingFile">
+    <value xml:space="preserve">Beim Erstellen des Sprachpakets ist ein Fehler aufgetreten: {0}</value>
+  </data>
+  <data name="LOG.LangPack.ERROR.ManifestFile">
+    <value xml:space="preserve">Beim Erstellen der Steuerdatei ist ein Fehler aufgetreten: {0}</value>
+  </data>
+  <data name="LOG.LangPack.ERROR.SavingFile">
+    <value xml:space="preserve">Beim Schreiben einer Datei in das Sprachpaket ist ein Fehler aufgetreten: {0}</value>
+  </data>
+  <data name="LOG.LangPack.Global">
+    <value xml:space="preserve">allgemein</value>
+  </data>
+  <data name="LOG.LangPack.Job.CreateLocale">
+    <value xml:space="preserve">Erstelle/aktualisiere Sprache</value>
+  </data>
+  <data name="LOG.LangPack.Job.DeserializeManifest">
+    <value xml:space="preserve">Die Steuerdatei wird gelesen.</value>
+  </data>
+  <data name="LOG.LangPack.Job.LoadFiles">
+    <value xml:space="preserve">Sprachdateien entpacken</value>
+  </data>
+  <data name="LOG.LangPack.Job.LoadManifest">
+    <value xml:space="preserve">Lade die Steuerdatei.</value>
+  </data>
+  <data name="LOG.LangPack.Job.SaveFiles">
+    <value xml:space="preserve">Sprachdateien importieren</value>
+  </data>
+  <data name="LOG.LangPack.LoadFileName">
+    <value xml:space="preserve">Lade Sprachdatei: {0}</value>
+  </data>
+  <data name="LOG.LangPack.LoadFiles">
+    <value xml:space="preserve">Lade {0} Ressourcendateien.</value>
+  </data>
+  <data name="LOG.LangPack.LoadFromFolder">
+    <value xml:space="preserve">Lade Sprachdateien aus Ordner: {0}</value>
+  </data>
+  <data name="LOG.LangPack.Module">
+    <value xml:space="preserve">Modul</value>
+  </data>
+  <data name="LOG.LangPack.Provider">
+    <value xml:space="preserve">Provider</value>
+  </data>
+  <data name="LOG.LangPack.SavedFile">
+    <value xml:space="preserve">Die Sprachdatei {0} wurde im Sprachpaket gespeichert.</value>
+  </data>
+  <data name="LOG.LangPack.SerializeManifest">
+    <value xml:space="preserve">Die Steuerdatei wurde erfolgreich erstellt.</value>
+  </data>
+  <data name="LOG.LangPackReader.CreateLocale">
+    <value xml:space="preserve">Füge Sprache hinzu: {0}</value>
+  </data>
+  <data name="LOG.LangPackReader.LoadFiles">
+    <value xml:space="preserve">entpacke Sprachdatei: {0}</value>
+  </data>
+  <data name="LOG.LangPackReader.ModuleWarning">
+    <value xml:space="preserve">Die Sprachdatei {0} wurde im Sprachpaket nicht gespeichert, weil das Modul {1} nicht installiert ist.</value>
+  </data>
+  <data name="LOG.LangPackReader.UnzipFiles">
+    <value xml:space="preserve">Datei {0} importieren</value>
+  </data>
+  <data name="LOG.PALogger.EndJob">
+    <value xml:space="preserve">Job beendet</value>
+  </data>
+  <data name="LOG.PALogger.Failure">
+    <value xml:space="preserve">Fehler</value>
+  </data>
+  <data name="LOG.PALogger.Info">
+    <value xml:space="preserve">Info</value>
+  </data>
+  <data name="LOG.PALogger.StartJob">
+    <value xml:space="preserve">Job gestartet</value>
+  </data>
+  <data name="LOG.PALogger.Warning">
+    <value xml:space="preserve">Warnung</value>
+  </data>
+  <data name="LOG.PAWriter.CreateArchive">
+    <value xml:space="preserve">Füge Dateien zum Modulpaket hinzu: {0}</value>
+  </data>
+  <data name="LOG.PAWriter.CreateManifest">
+    <value xml:space="preserve">Steuerdatei erstellen. {0}</value>
+  </data>
+  <data name="LOG.PAWriter.CreateZipFile">
+    <value xml:space="preserve">Erstelle Modulpaket {0}</value>
+  </data>
+  <data name="LOG.PAWriter.ERROR.SavingFile">
+    <value xml:space="preserve">Beim Schreiben einer Datei in das Modulpaket ist ein Fehler aufgetreten: {0}</value>
+  </data>
+  <data name="LOG.PAWriter.SavedFile">
+    <value xml:space="preserve">Die Datei {0} wurde im Modulpaket gespeichert.</value>
+  </data>
+  <data name="Maximize.Text">
+    <value xml:space="preserve">maximieren</value>
+  </data>
+  <data name="Maximized.Text">
+    <value xml:space="preserve">maximiert</value>
+  </data>
+  <data name="MembersOnly.Text">
+    <value xml:space="preserve">nur für Mitglieder</value>
+  </data>
+  <data name="Minimize.Text">
+    <value xml:space="preserve">minimieren</value>
+  </data>
+  <data name="Minimized.Text">
+    <value xml:space="preserve">minimiert</value>
+  </data>
+  <data name="Minute.Text">
+    <value xml:space="preserve">Minute</value>
+  </data>
+  <data name="MinuteAgo.Text">
+    <value xml:space="preserve">vor {0} Minute</value>
+  </data>
+  <data name="Minutes.Text">
+    <value xml:space="preserve">Minuten</value>
+  </data>
+  <data name="MinutesAgo.Text">
+    <value xml:space="preserve">vor {0} Minuten</value>
+  </data>
+  <data name="MODULE_ControlKeyMissing.Text">
+    <value xml:space="preserve">Der Schlüssel des Modul-Steuerelements fehlt</value>
+  </data>
+  <data name="MODULE_ControlTypeMissing.Text">
+    <value xml:space="preserve">DerTyp des Modul-Steuerelements fehlt</value>
+  </data>
+  <data name="MODULE_FriendlyNameMissing.Text">
+    <value xml:space="preserve">Der Anzeigename des Moduls fehlt</value>
+  </data>
+  <data name="MODULE_InvalidVersion.Text">
+    <value xml:space="preserve">Version {0} ist ungültig - sie wurde zur Liste der Upgrade-Versionen nicht hinzugefügt.</value>
+  </data>
+  <data name="MODULE_ReadSuccess.Text">
+    <value xml:space="preserve">Die Steuerdatei für das Modul wurde erfolgreich gelesen</value>
+  </data>
+  <data name="MODULE_Registered.Text">
+    <value xml:space="preserve">Das Modul wurde erfolgreich registriert: {0}</value>
+  </data>
+  <data name="MODULE_UnRegistered.Text">
+    <value xml:space="preserve">Das Modul wurde erfolgreich de-registriert: {0}</value>
+  </data>
+  <data name="ModuleAccess.Error">
+    <value xml:space="preserve">Sie haben keinen Zugriff, um dieses Modul innerhalb der Website zu sehen.</value>
+  </data>
+  <data name="ModuleAdd.Error">
+    <value xml:space="preserve">Beim Hinzufügen des Moduls zu {0} ist ein unbehandelter Fehler aufgetreten.</value>
+  </data>
+  <data name="ModuleEffective.Text">
+    <value xml:space="preserve">Modul gültig ab - {0}</value>
+  </data>
+  <data name="ModuleExpired.Text">
+    <value xml:space="preserve">Modul abgelaufen - {0}</value>
+  </data>
+  <data name="ModuleHelp.Text">
+    <value xml:space="preserve">Modulhilfe</value>
+  </data>
+  <data name="ModuleLoad.Error">
+    <value xml:space="preserve">Beim Laden des Moduls trat ein unbehandelter Fehler auf.</value>
+  </data>
+  <data name="ModuleLoadWarning.Error">
+    <value xml:space="preserve">Ladefehler eines Moduls</value>
+  </data>
+  <data name="ModuleLoadWarning.Text">
+    <value xml:space="preserve">Ein oder mehrere Module auf dieser Seite konnten nicht geladen werden. Dies kann vorübergehend sein. Bitte aktualisieren Sie die Seite (drücken Sie F5 in den meisten Browsern). Wenn der Fehler weiterhin besteht, wenden Sie sich bitte an den &lt;a href="mailto:{0}"&gt;Website-Verwalter&lt;/a&gt;.</value>
+  </data>
+  <data name="ModuleNotIntended.Text">
+    <value xml:space="preserve">Diese Modul ist nur für die Verwendung auf einer Seite vorgesehen, die als Benutzerprofil eingestellt ist.</value>
+  </data>
+  <data name="ModuleUnavailable.Text">
+    <value xml:space="preserve">Fehler: {0} ist zur Zeit nicht verfügbar.</value>
+  </data>
+  <data name="ModuleVisibleAdministrator.Text">
+    <value xml:space="preserve">Nur für Website-Verwalter sichtbar.</value>
+  </data>
+  <data name="Month.Text">
+    <value xml:space="preserve">Monat</value>
+  </data>
+  <data name="MonthAgo.Text">
+    <value xml:space="preserve">vor {0} Monat</value>
+  </data>
+  <data name="Monthly.Text">
+    <value xml:space="preserve">monatlich</value>
+  </data>
+  <data name="Months.Text">
+    <value xml:space="preserve">Monate</value>
+  </data>
+  <data name="MonthsAgo.Text">
+    <value xml:space="preserve">vor {0} Monate</value>
+  </data>
+  <data name="MyFolderName.Text">
+    <value xml:space="preserve">Eigener Ordner</value>
+  </data>
+  <data name="New.Text">
+    <value xml:space="preserve">neu</value>
+  </data>
+  <data name="Next.Text">
+    <value xml:space="preserve">weiter</value>
+  </data>
+  <data name="No.Text">
+    <value xml:space="preserve">nein</value>
+  </data>
+  <data name="None.Text">
+    <value xml:space="preserve">kein</value>
+  </data>
+  <data name="None_Specified.Text">
+    <value xml:space="preserve">keine Angabe</value>
+  </data>
+  <data name="Not_Specified.Text">
+    <value xml:space="preserve">nicht angegeben</value>
+  </data>
+  <data name="OAuthConfigBase_APIKey.Help">
+    <value xml:space="preserve">Geben Sie die Werte für App-ID/API-Key/Consumer-Key ein, die Sie für diesen Authentisierungsdienst konfiguriert haben.</value>
+  </data>
+  <data name="OAuthConfigBase_APIKey.Text">
+    <value xml:space="preserve">App-ID:</value>
+  </data>
+  <data name="OAuthConfigBase_APISecret.Help">
+    <value xml:space="preserve">Geben Sie die Werte für "App Secret"/"Consumer Secret" ein, die Sie für diesen Authentisierungsdienst konfiguriert haben.</value>
+  </data>
+  <data name="OAuthConfigBase_APISecret.Text">
+    <value xml:space="preserve">App-Secret</value>
+  </data>
+  <data name="OAuthConfigBase_Enabled.Help">
+    <value xml:space="preserve">Aktivieren Sie mit dieser Einstellung die Nutzung dieses Authentisierungsdienstes auf dieser Website.</value>
+  </data>
+  <data name="OAuthConfigBase_Enabled.Text">
+    <value xml:space="preserve">aktiviert:</value>
+  </data>
+  <data name="OAuthConfigBase_LoginURL.Help">
+    <value xml:space="preserve">Geben Sie hier die URL der Anmeldeseite Ihrer Website an.</value>
+  </data>
+  <data name="OAuthConfigBase_LoginURL.Text">
+    <value xml:space="preserve">Login-URL:</value>
+  </data>
+  <data name="OAuthConfigBase_RegisterURL.Help">
+    <value xml:space="preserve">Geben Sie hier die URL der Registrierungsseite Ihrer Website an.</value>
+  </data>
+  <data name="OAuthConfigBase_RegisterURL.Text">
+    <value xml:space="preserve">Registrierungs-URL:</value>
+  </data>
+  <data name="ObjectNotFound.Text">
+    <value xml:space="preserve">Das eingebettete Objekt wurde nicht gefunden.</value>
+  </data>
+  <data name="Ok.Text">
+    <value xml:space="preserve">ok</value>
+  </data>
+  <data name="OnLine.Text">
+    <value xml:space="preserve">online</value>
+  </data>
+  <data name="PACKAGE_NoLicense.Text">
+    <value xml:space="preserve">Die Lizenz für dieses Paket ist derzeit nicht enthalten, bitte wenden Sie sich an den Hersteller für die Lizenzdetails.</value>
+  </data>
+  <data name="PACKAGE_NoReleaseNotes.Text">
+    <value xml:space="preserve">Das Paket verfügt über keine Versionsinformationen.</value>
+  </data>
+  <data name="PACKAGE_UnRecognizable.Text">
+    <value xml:space="preserve">Die Beschreibungsdatei ist nicht lesbar.</value>
+  </data>
+  <data name="PackageLoad.Error">
+    <value xml:space="preserve">Fehler beim Laden der Steuerdatei auf Paketebene:  ({0})</value>
+  </data>
+  <data name="PackageLoad.Text">
+    <value xml:space="preserve">Die Beschreibungsdatei des Pakets wurde geladen.</value>
+  </data>
+  <data name="Page.Text">
+    <value xml:space="preserve">Seite:</value>
+  </data>
+  <data name="PageDisabled.Header">
+    <value xml:space="preserve">Seite deaktiviert</value>
+  </data>
+  <data name="PageDisabled.Text">
+    <value xml:space="preserve">Die Seite ist deaktiviert und wird nur Benutzern mit der Berechtigung zum Bearbeiten dieser Seite angezeigt.</value>
+  </data>
+  <data name="Pages.Text">
+    <value xml:space="preserve">Seite {0} von {1}</value>
+  </data>
+  <data name="PaneNotFound.Error">
+    <value xml:space="preserve">Der Bereich ContentPane kann im Seitenlayout nicht gefunden werden.</value>
+  </data>
+  <data name="PaneObject.Text">
+    <value xml:space="preserve">Das eingebettete Objekt ist ein Modulbereich.</value>
+  </data>
+  <data name="PaneToken.Text">
+    <value xml:space="preserve">Platzhalter für Modulbereich</value>
+  </data>
+  <data name="Password.Text">
+    <value xml:space="preserve">Kennwort:</value>
+  </data>
+  <data name="PasswordChanged.Text">
+    <value xml:space="preserve">Das Kennwort wurde geändert.</value>
+  </data>
+  <data name="PasswordInvalid.Text">
+    <value xml:space="preserve">Sie müssen ein gültiges Kennwort eingeben. Bitte wenden Sie sich an den Website-Betreuer, wenn Sie nicht mit den Anforderungen an das Kennwort vertraut sind.</value>
+  </data>
+  <data name="PasswordMailError.Text">
+    <value xml:space="preserve">Das Kennwort wurde zurückgesetzt, aber beim Zusenden per Email ist ein Fehler aufgetreten.</value>
+  </data>
+  <data name="PasswordMismatch.Text">
+    <value xml:space="preserve">Kennwort und Bestätigung stimmen nicht überein.</value>
+  </data>
+  <data name="PasswordMissing.Text">
+    <value xml:space="preserve">Aus Sicherheitsgründen müssen Sie Ihr aktuelles Kennwort angeben, um es ändern zu können.</value>
+  </data>
+  <data name="PasswordNotDifferent.Text">
+    <value xml:space="preserve">Das neue Kennwort unterscheidet sich nicht vom bisherigen. Bitte geben Sie ein neues Kennwort ein.</value>
+  </data>
+  <data name="PasswordResetFailed.Text">
+    <value xml:space="preserve">Ihr neues Kennworts wurde nicht geändert, da es den Anforderungen entspricht (Klein-Großbuchstaben, Ziffern und Sonderzeichen), die Mindestlänge erfüllt und nicht mit einem Ihrer vorangegangenen Kennworte übereinstimmt.</value>
+  </data>
+  <data name="PermissionActionsHeader.Text">
+    <value xml:space="preserve">Aktionen</value>
+  </data>
+  <data name="PermissionRoleHeader.Text">
+    <value xml:space="preserve">Benutzergruppe</value>
+  </data>
+  <data name="PermissionTypeDeny.Text">
+    <value xml:space="preserve">Berechtigung verweigert</value>
+  </data>
+  <data name="PermissionTypeGrant.Text">
+    <value xml:space="preserve">Berechtigung erteilt</value>
+  </data>
+  <data name="PermissionTypeNull.Text">
+    <value xml:space="preserve">nicht angegeben</value>
+  </data>
+  <data name="PermissionUserHeader.Text">
+    <value xml:space="preserve">Benutzer</value>
+  </data>
+  <data name="PortalRoot.Text">
+    <value xml:space="preserve">Website-Basisverzeichnis</value>
+  </data>
+  <data name="PortalTemplate.Error">
+    <value xml:space="preserve">Fehler beim Parsen der Website-Vorlage</value>
+  </data>
+  <data name="Previous.Text">
+    <value xml:space="preserve">zurück</value>
+  </data>
+  <data name="PrivateConfirmationMessage.Text">
+    <value xml:space="preserve">&lt;strong&gt;Eine E-Mail mit Ihren Anmeldedaten wurde zur Überprüfung an den Verwalter der Website geschickt. Sobald dieser Ihre Anmeldung freigeschaltet hat, erhalten Sie eine Benachrichtigung per E-Mail. Bis dahin können Sie unsere Website weiter durchstöbern.&lt;/strong&gt;</value>
+  </data>
+  <data name="PrivateMembership.Text">
+    <value xml:space="preserve">&lt;strong&gt;* Hinweis: &lt;/strong&gt;Die Mitgliedschaft in dieser Website ist privat. Nachdem Sie Ihre Anmeldedaten eingetragen haben, wird der Administrator benachrichtigt und Ihre Anfrage prüfen. Wenn Ihr Zugriff autorisiert ist, erhalten Sie eine Benachrichtigung  mit weiteren Hinweisen. </value>
+  </data>
+  <data name="ProcessObject.Text">
+    <value xml:space="preserve">verarbeite eingebettetes Objekt</value>
+  </data>
+  <data name="ProcessToken.Text">
+    <value xml:space="preserve">verarbeite Schlüssel</value>
+  </data>
+  <data name="ProfileUrlCleaned.Text">
+    <value xml:space="preserve">Die übermittelte URL enthielt unzulässige Zeichen, die entfernt wurden. Klicken Sie erneut auf aktualisieren, um die modifizierte URL zu akzeptieren.</value>
+  </data>
+  <data name="ProfileUrlNotUnique.Text">
+    <value xml:space="preserve">Die gewünschte URL ist nicht verfügbar.  Klicken Sie auf aktualisieren, wenn Sie die vorgeschlagene Alternative akzeptieren möchten.</value>
+  </data>
+  <data name="Public.Text">
+    <value xml:space="preserve">öffentlich</value>
+  </data>
+  <data name="PublicMembership.Text">
+    <value xml:space="preserve">&lt;strong&gt;* Hinweis:&lt;/strong&gt; Die Mitgliedschaft in dieser Website ist öffentlich. Sobald Sie Ihre Anmeldedaten eingetragen haben, erhalten Sie sofortigen Zugriff auf den Inhalt der Website. </value>
+  </data>
+  <data name="PURGE.Log">
+    <value xml:space="preserve">Das Zugriffsprotokoll wurde erfolgreich abgeschnitten.</value>
+  </data>
+  <data name="PURGEDSCHEDULE.Log">
+    <value xml:space="preserve">Die Historie des Zeitplaners wurde erfolgreich abgeschnitten.</value>
+  </data>
+  <data name="PURGEUSERS.Log">
+    <value xml:space="preserve">"Aktive Benutzer" wurden erfolgreich entfernt</value>
+  </data>
+  <data name="ReadError.Text">
+    <value xml:space="preserve">Die Datei konnte nicht vollständig gelesen werden: {0}/{1}</value>
+  </data>
+  <data name="Recordsperpage.Help">
+    <value xml:space="preserve">Wählen Sie die maximale Anzahl anzuzeigender Datensätze auf einer Seite.</value>
+  </data>
+  <data name="Recordsperpage.Text">
+    <value xml:space="preserve">Einträge je Seite</value>
+  </data>
+  <data name="RedError.Text">
+    <value xml:space="preserve">Fehler</value>
+  </data>
+  <data name="RegError.Text">
+    <value xml:space="preserve">Bei der Registrierung ist ein unerwarteter Fehler aufgetreten. Bitte wenden Sie sich an den Verwalter der Website, um weitere Informationen zu erhalten.</value>
+  </data>
+  <data name="Register.Text">
+    <value xml:space="preserve">Benutzerregistrierung</value>
+  </data>
+  <data name="REGISTER_Controls.Text">
+    <value xml:space="preserve">Steuerelemente registrieren</value>
+  </data>
+  <data name="REGISTER_Definition.Text">
+    <value xml:space="preserve">Definitionen registrieren</value>
+  </data>
+  <data name="REGISTER_End.Text">
+    <value xml:space="preserve">Die Registrierung ist abgeschlossen.</value>
+  </data>
+  <data name="REGISTER_Module.Text">
+    <value xml:space="preserve">DesktopModule registrieren</value>
+  </data>
+  <data name="RejectUser.Text">
+    <value xml:space="preserve">ablehnen</value>
+  </data>
+  <data name="RejectUserDescription.Text">
+    <value xml:space="preserve">Lehnen Sie die Anmeldung des Benutzers ab, wodurch dessen Daten entfernt werden.</value>
+  </data>
+  <data name="RemoveItem.Text">
+    <value xml:space="preserve">Sind Sie sicher, dass Sie diesen Eintrag löschen wollen?</value>
+  </data>
+  <data name="RemoveItems.Confirm">
+    <value xml:space="preserve">Sind Sie sicher, dass Sie diese Einträge löschen wollen?</value>
+  </data>
+  <data name="Required.Text">
+    <value xml:space="preserve">Alle mit Sternchen gekennzeichneten Felder müssen ausgefüllt werden.</value>
+  </data>
+  <data name="RequiredFields.Text">
+    <value xml:space="preserve">kennzeichnet Pflichtfelder</value>
+  </data>
+  <data name="ResourceNotFound.Text">
+    <value xml:space="preserve">Die Ressource wurde nicht gefunden.</value>
+  </data>
+  <data name="RestrictedFileType.Text">
+    <value xml:space="preserve">Die Datei {0} hat einen nicht zugelassenen Dateityp. Zugelassene Dateitypen sind {1}. Bitte wenden Sie sich an den Systembetreuer, wenn Sie eine Datei eines anderen Typs hochzuladen.</value>
+  </data>
+  <data name="Review.Text">
+    <value xml:space="preserve">Überprüfen</value>
+  </data>
+  <data name="Right.Text">
+    <value xml:space="preserve">rechts</value>
+  </data>
+  <data name="RoleGroupFilter.Text">
+    <value xml:space="preserve">Nach Obergruppe filtern:</value>
+  </data>
+  <data name="RoleNotFound.Text">
+    <value xml:space="preserve">Die ausgewählte Benutzergruppe wurde nicht gefunden. Bitte aktualisieren Sie die Seite und versuchen Sie es erneut.</value>
+  </data>
+  <data name="RoleSelect.Text">
+    <value xml:space="preserve">Benutzergruppe:</value>
+  </data>
+  <data name="RootFolder.Name">
+    <value xml:space="preserve">Basisverzeichnis</value>
+  </data>
+  <data name="Save.Text">
+    <value xml:space="preserve">speichern</value>
+  </data>
+  <data name="SaveFileError.Text">
+    <value xml:space="preserve">Beim Speichern der Datei {0} ist ein Fehler aufgetreten. Bitte wenden Sie sich an Ihren Systembetreuer, um sicherzustellen, dass die Zugriffsrechte im Dateisystem korrekt eingestellt sind.</value>
+  </data>
+  <data name="ScriptCollision.Text">
+    <value xml:space="preserve">Für diese Seite wurden zwei oder mehr Versionen derselben JavaScript-Bibliothek angefordert. Sie finden die Details im Ereignisprotokoll der Website.</value>
+  </data>
+  <data name="SEARCH_NoLink.Text">
+    <value xml:space="preserve">[Kein Link verfügbar]</value>
+  </data>
+  <data name="Second.Text">
+    <value xml:space="preserve">Sekunde</value>
+  </data>
+  <data name="Seconds.Text">
+    <value xml:space="preserve">Sekunden</value>
+  </data>
+  <data name="SecondsAgo.Text">
+    <value xml:space="preserve">vor {0} Sekunden</value>
+  </data>
+  <data name="SECURITY_Installer.Text">
+    <value xml:space="preserve">Sie haben keinen Zugriff, diese Komponente zu erstellen</value>
+  </data>
+  <data name="SECURITY_NotRegistered.Text">
+    <value xml:space="preserve">Der Pakettyp ist nicht registriert</value>
+  </data>
+  <data name="Select.Text">
+    <value xml:space="preserve">wählen</value>
+  </data>
+  <data name="SelectedRole.Text">
+    <value xml:space="preserve">Ausgewählte Benutzergruppe</value>
+  </data>
+  <data name="SendMail.Error">
+    <value xml:space="preserve">Beim Senden der Bestätigungsnachricht ist ein Fehler aufgetreten - {0}.  Das Benutzerkonto wurde dennoch erfolgreich erstellt.</value>
+  </data>
+  <data name="SizeB.Text">
+    <value xml:space="preserve">B</value>
+  </data>
+  <data name="SizeGb.Text">
+    <value xml:space="preserve">GB</value>
+  </data>
+  <data name="SizeKb.Text">
+    <value xml:space="preserve">KB</value>
+  </data>
+  <data name="SizeMb.Text">
+    <value xml:space="preserve">MB</value>
+  </data>
+  <data name="SKIN_BeginProcessing.Text">
+    <value xml:space="preserve">Verarbeitung der Layout-Datei begonnen</value>
+  </data>
+  <data name="SKIN_EndProcessing.Text">
+    <value xml:space="preserve">Verarbeitung der Layout-Dateien beendet.</value>
+  </data>
+  <data name="SKIN_Installed.Text">
+    <value xml:space="preserve">Das Seitenlayout ist bereits als Teile eines anderen Pakets installiert.</value>
+  </data>
+  <data name="SKIN_Registered.Text">
+    <value xml:space="preserve">Das Seitenlayout-Paket wurde erfolgreich registriert - {0}</value>
+  </data>
+  <data name="SKIN_UnRegistered.Text">
+    <value xml:space="preserve">Das Seitenlayout-Paket wurde erfolgreich deregistriert - {0}</value>
+  </data>
+  <data name="SkinFileLoad.Error">
+    <value xml:space="preserve">Fehler beim Laden der Attributsdatei.</value>
+  </data>
+  <data name="SkinFileLoad.Text">
+    <value xml:space="preserve">Lade die Attributsdatei</value>
+  </data>
+  <data name="SkinObject.Text">
+    <value xml:space="preserve">Das eingebettete Objekt ein Layout-Objekt.</value>
+  </data>
+  <data name="SkinObjects.Text">
+    <value xml:space="preserve">[Layoutobjekte]</value>
+  </data>
+  <data name="SkinObjectsDescription.Text">
+    <value xml:space="preserve">Layout-Objekte sind Steuerelemente, die in Seitenlayouts und Modulrahmen als aktive Komponenten mit erweiterten Funktionen eingesetzt werden können.</value>
+  </data>
+  <data name="Skins.Text">
+    <value xml:space="preserve">Seitenlayouts</value>
+  </data>
+  <data name="SkinToken.Text">
+    <value xml:space="preserve">Platzhalter ist ein Layout-Objekt</value>
+  </data>
+  <data name="SMTPConfigurationProblem.Text">
+    <value xml:space="preserve">Es gibt ein Problem mit der Konfiguration des SMTP-Servers. Die E-Mail wurde nicht verschickt.</value>
+  </data>
+  <data name="SQL_Begin.Text">
+    <value xml:space="preserve">SQL-Ausführung begonnen</value>
+  </data>
+  <data name="SQL_BeginFile.Text">
+    <value xml:space="preserve">Ausführung der SQL-Datei {0} gestartet.</value>
+  </data>
+  <data name="SQL_BeginUnInstall.Text">
+    <value xml:space="preserve">"Uninstall"-SQL wird ausgeführt...</value>
+  </data>
+  <data name="SQL_Committed.Text">
+    <value xml:space="preserve">Die Änderungen des SQL-Skripts sind abgeschlossen.</value>
+  </data>
+  <data name="SQL_End.Text">
+    <value xml:space="preserve">SQL-Ausführung abgeschlossen.</value>
+  </data>
+  <data name="SQL_EndFile.Text">
+    <value xml:space="preserve">Ausführung der SQL-Datei {0} abgeschlossen.</value>
+  </data>
+  <data name="SQL_EndUnInstall.Text">
+    <value xml:space="preserve">Die Ausführung der SQL-Deinstallationsdatei wurde beendet.</value>
+  </data>
+  <data name="SQL_Exceptions.Text">
+    <value xml:space="preserve">Die Ausführung des SQL-Codes hat folgenden Fehler verursacht: {0}{1}</value>
+  </data>
+  <data name="SQL_Executing.Text">
+    <value xml:space="preserve">ausführen</value>
+  </data>
+  <data name="SQL_RolledBack.Text">
+    <value xml:space="preserve">Die Änderungen des SQL-Skripts wurden zurückgenommen.</value>
+  </data>
+  <data name="SQL_UnknownFile.Text">
+    <value xml:space="preserve">Unbekannte Kodierung der Datei {0} - Abbruch.</value>
+  </data>
+  <data name="StartProcessor.Text">
+    <value xml:space="preserve">Die Verarbeitung für Seitenlayouts und Module wird initialisiert.</value>
+  </data>
+  <data name="StateCompleted.Action">
+    <value xml:space="preserve">Status abgeschlossen</value>
+  </data>
+  <data name="StateCompleted.Comment">
+    <value xml:space="preserve">Der Status '[STATE]' wurde bestätigt.</value>
+  </data>
+  <data name="StateDiscarded.Action">
+    <value xml:space="preserve">Status abgelehnt</value>
+  </data>
+  <data name="StateDiscarded.Comment">
+    <value xml:space="preserve">Der Status '[STATE]' wurde abgelehnt.</value>
+  </data>
+  <data name="StateInitiated.Action">
+    <value xml:space="preserve">Status eingeleitet</value>
+  </data>
+  <data name="StateInitiated.Comment">
+    <value xml:space="preserve">Der Workflow befindet sich im Status '[STATE]' </value>
+  </data>
+  <data name="Substituting.Detail">
+    <value xml:space="preserve">{0}: &lt;br/&gt;mit: {1}</value>
+  </data>
+  <data name="Substituting.Text">
+    <value xml:space="preserve">ersetzen</value>
+  </data>
+  <data name="Superuser.Text">
+    <value xml:space="preserve">Systemverwalter</value>
+  </data>
+  <data name="System_Default.Text">
+    <value xml:space="preserve">Systemstandard</value>
+  </data>
+  <data name="TabAccess.Error">
+    <value xml:space="preserve">Sie haben keinen Zugriff, um diese Seite innerhalb der Website zu sehen.</value>
+  </data>
+  <data name="TESTCOMPLETE.Log">
+    <value xml:space="preserve">Test ausgeführt, Wartezeit: {0} Millisekunden.</value>
+  </data>
+  <data name="Today.Text">
+    <value xml:space="preserve">heute</value>
+  </data>
+  <data name="TokenFormat.Text">
+    <value xml:space="preserve">Attribut der Formateigenschaft</value>
+  </data>
+  <data name="TokenFound.Text">
+    <value xml:space="preserve">Platzhalter in der Attributsdatei identifiziert</value>
+  </data>
+  <data name="TokenNotFound.Text">
+    <value xml:space="preserve">Platzhalter nicht gefunden</value>
+  </data>
+  <data name="TokenNotFoundInFile.Text">
+    <value xml:space="preserve">Platzhalter in der Attributsdatei NICHT gefunden.</value>
+  </data>
+  <data name="TokenReplaceUnknownObject.Text">
+    <value xml:space="preserve">Fehler beim Zugriff auf {0}:{1}]: {0} ist eine unbekannte Datenquelle.</value>
+  </data>
+  <data name="TokenReplaceUnknownProperty.Text">
+    <value xml:space="preserve">Unbekannte Eigenschaft</value>
+  </data>
+  <data name="TranslateModule.Confirm">
+    <value xml:space="preserve">Sind Sie sicher, dass Sie dieses Modul als Übersetzt markieren wollen?</value>
+  </data>
+  <data name="True.Text">
+    <value xml:space="preserve">wahr</value>
+  </data>
+  <data name="UnauthenticatedUsers.Text">
+    <value xml:space="preserve">nicht angemeldete Benutzer</value>
+  </data>
+  <data name="Unauthorized.Text">
+    <value xml:space="preserve">nicht autorisiert</value>
+  </data>
+  <data name="UNINSTALL_Failure.Text">
+    <value xml:space="preserve">Fehler bei der Deinstallation der Komponente</value>
+  </data>
+  <data name="UNINSTALL_Start.Text">
+    <value xml:space="preserve">Die Deinstallation des Pakets wurde gestartet.</value>
+  </data>
+  <data name="UNINSTALL_StartComp.Text">
+    <value xml:space="preserve">Die Deinstallation der Komponente wurde gestartet.</value>
+  </data>
+  <data name="UNINSTALL_Success.Text">
+    <value xml:space="preserve">Das Paket wurde erfolgreich deinstalliert.</value>
+  </data>
+  <data name="UNINSTALL_SuccessComp.Text">
+    <value xml:space="preserve">Die Komponente wurde erfolgreich deinstalliert.</value>
+  </data>
+  <data name="UNINSTALL_Warnings.Text">
+    <value xml:space="preserve">Deinstalliert mit Warnungen</value>
+  </data>
+  <data name="UNINSTALL_WarningsComp.Text">
+    <value xml:space="preserve">Die Komponente wurde mit Warnungen deinstalliert.</value>
+  </data>
+  <data name="Unknown.Text">
+    <value xml:space="preserve">unbekannt</value>
+  </data>
+  <data name="UnregisterUser.Text">
+    <value xml:space="preserve">Sind Sie sicher, dass Sie sich von der Website abmelden möchten? Dadurch wird Ihr Benutzerkonto gelöscht.</value>
+  </data>
+  <data name="UnTranslateModule.Confirm">
+    <value xml:space="preserve">Sind Sie sicher, dass Sie dieses Modul als nicht übersetzt kennzeichnen wollen?</value>
+  </data>
+  <data name="UnverifiedUser.Text">
+    <value xml:space="preserve">Sie verwenden ein Benutzerkonto, dass noch nicht bestätigt wurde. Bitte aktivieren Sie den Link in der Bestätigungs-E-Mail, die Sie von uns erhalten haben.</value>
+  </data>
+  <data name="Upload.Text">
+    <value xml:space="preserve">hochladen</value>
+  </data>
+  <data name="URL.Text">
+    <value xml:space="preserve">URL:</value>
+  </data>
+  <data name="URLPROVIDER_NameMissing.Text">
+    <value xml:space="preserve">Der Name des URL-Providers fehlt</value>
+  </data>
+  <data name="URLPROVIDER_ReadSuccess.Text">
+    <value xml:space="preserve">Die Steuerdatei des URL-Providers wurde erfolgreich gelesen.</value>
+  </data>
+  <data name="URLPROVIDER_Registered.Text">
+    <value xml:space="preserve">Der URL-Provider wurde registriert.</value>
+  </data>
+  <data name="URLPROVIDER_TypeMissing.Text">
+    <value xml:space="preserve">Der Typ des URL-Providers fehlt.</value>
+  </data>
+  <data name="URLPROVIDER_UnRegistered.Text">
+    <value xml:space="preserve">Der URL-Provider wurde de-registriert.</value>
+  </data>
+  <data name="User.Text">
+    <value xml:space="preserve">Benutzername:</value>
+  </data>
+  <data name="UserDeleteError.Text">
+    <value xml:space="preserve">Fehler beim Löschen des Benutzers</value>
+  </data>
+  <data name="UserEmailExists.Text">
+    <value xml:space="preserve">Es gibt bereits einen Benutzer mit der angegebenen E-Mail-Adresse. Bitte melden Sie sich mit dessen Anmeldedaten an.</value>
+  </data>
+  <data name="UserFolderTitle.Text">
+    <value xml:space="preserve">Eigene Dateien</value>
+  </data>
+  <data name="Username.Text">
+    <value xml:space="preserve">Benutzername:</value>
+  </data>
+  <data name="UserNameExists.Text">
+    <value xml:space="preserve">Es gibt bereits einen Benutzer mit dem angegebenen Namen. Bitte registrieren Sie sich unter einem anderen Benutzernamen.</value>
+  </data>
+  <data name="UserRejected.Text">
+    <value xml:space="preserve">Ihre Registrierung wurde abgelehnt, bitte wenden Sie Sich an den Website-Verwalter für weitere Informationen.</value>
+  </data>
+  <data name="VerificationSuccess.Text">
+    <value xml:space="preserve">Ihr Konto wurde erfolgreich verifiziert.</value>
+  </data>
+  <data name="VerifiedMembership.Text">
+    <value xml:space="preserve">&lt;strong&gt; * Hinweis: &lt;/strong&gt;Die Mitgliedschaft in dieser Website ist verifiziert. Sobald Sie Ihre Anmeldedaten eingetragen haben, erhalten Sie an Ihre angegebene Adresse eine E-Mail mit einem Bestätigungslink, den Sie anklicken müssen, um den Zugriff auf den Inhalt der Website zu aktivieren. </value>
+  </data>
+  <data name="ViewJournal.Text">
+    <value xml:space="preserve">anzeigen</value>
+  </data>
+  <data name="Visibility.Text">
+    <value xml:space="preserve">Sichtbarkeit:</value>
+  </data>
+  <data name="Week.Text">
+    <value xml:space="preserve">Woche</value>
+  </data>
+  <data name="WeekAgo.Text">
+    <value xml:space="preserve">vor {0} Woche</value>
+  </data>
+  <data name="Weekly.Text">
+    <value xml:space="preserve">wöchentlich</value>
+  </data>
+  <data name="Weeks.Text">
+    <value xml:space="preserve">Wochen</value>
+  </data>
+  <data name="WeeksAgo.Text">
+    <value xml:space="preserve">vor {0} Wochen</value>
+  </data>
+  <data name="Wizard.Success.FailureDetail">
+    <value xml:space="preserve">&lt;p&gt;Bei der Ausführung des Assistenten ist ein Fehler aufgetreten. Weitere Details finden Sie in der folgenden Fehlermeldung.&lt;br/&gt;Bei Fragen wenden Sie sich an Ihren Hosting-Partner.&lt;/p&gt;</value>
+  </data>
+  <data name="Wizard.Success.FailureTitle">
+    <value xml:space="preserve">Fehler im Assistent:</value>
+  </data>
+  <data name="Wizard.Success.SuccessDetail">
+    <value xml:space="preserve">&lt;p&gt;Herzlichen Glückwunsch, der Assistent wurde erfolgreich ausgeführt.&lt;/p&gt;</value>
+  </data>
+  <data name="Wizard.Success.SuccessTitle">
+    <value xml:space="preserve">Herzlichen Glückwunsch:</value>
+  </data>
+  <data name="WordCleanButton.Text">
+    <value xml:space="preserve">HTML aus Microsoft Word bereinigen</value>
+  </data>
+  <data name="WorkflowApproved.Action">
+    <value xml:space="preserve">Workflow abgeschlossen</value>
+  </data>
+  <data name="WorkflowApproved.Comment">
+    <value xml:space="preserve">Der Workflow '[WORKFLOW]' wurde abgeschlossen. Der Inhalt ist freigegeben.</value>
+  </data>
+  <data name="WorkflowDiscarded.Action">
+    <value xml:space="preserve">Workflow abgebrochen</value>
+  </data>
+  <data name="WorkflowDiscarded.Comment">
+    <value xml:space="preserve">Der Workflow '[WORKFLOW]' wurde im Status '[STATE]' abgebrochen.</value>
+  </data>
+  <data name="WorkflowError.Action">
+    <value xml:space="preserve">Workflow-Fehler</value>
+  </data>
+  <data name="WorkflowError.Comment">
+    <value xml:space="preserve">Im Workflow '[WORKFLOW]' ist ein Fehler aufgetreten.</value>
+  </data>
+  <data name="WorkflowStarted.Action">
+    <value xml:space="preserve">Workflow gestartet</value>
+  </data>
+  <data name="WorkflowStarted.Comment">
+    <value xml:space="preserve">Der Workflow '[WORKFLOW]' wurde gestartet.</value>
+  </data>
+  <data name="WriteFile.Text">
+    <value xml:space="preserve">Datei wird geschrieben</value>
+  </data>
+  <data name="WRITER_AddFileToManifest.Text">
+    <value xml:space="preserve">Datei {0} in Beschreibungsdatei aufgenommen</value>
+  </data>
+  <data name="WRITER_CreateArchive.Text">
+    <value xml:space="preserve">Erstelle Zip-Archiv - {0}</value>
+  </data>
+  <data name="WRITER_CreatedManifest.Text">
+    <value xml:space="preserve">Steuerdatei erstellt</value>
+  </data>
+  <data name="WRITER_CreatedPackage.Text">
+    <value xml:space="preserve">Paket erstellt</value>
+  </data>
+  <data name="WRITER_CreatingManifest.Text">
+    <value xml:space="preserve">Erstelle Steuerdatei</value>
+  </data>
+  <data name="WRITER_CreatingPackage.Text">
+    <value xml:space="preserve">Erstelle Paket</value>
+  </data>
+  <data name="WRITER_SavedFile.Text">
+    <value xml:space="preserve">Datei im Archiv gespeichert - {0}</value>
+  </data>
+  <data name="WRITER_SaveFileError.Text">
+    <value xml:space="preserve">Fehler beim Speichern der Datei ins Archiv - {0}</value>
+  </data>
+  <data name="XML_Loaded.Text">
+    <value xml:space="preserve">XML geladen.</value>
+  </data>
+  <data name="XMLMERGE_Upgrade.Text">
+    <value xml:space="preserve">Aktualisiert durch {1} Version {2} - Datum: {3}</value>
+  </data>
+  <data name="Year.Text">
+    <value xml:space="preserve">Jahr</value>
+  </data>
+  <data name="Years.Text">
+    <value xml:space="preserve">Jahre</value>
+  </data>
+  <data name="YellowWarning.Text">
+    <value xml:space="preserve">Warnung</value>
+  </data>
+  <data name="Yes.Text">
+    <value xml:space="preserve">ja</value>
+  </data>
+  <data name="ASSEMBLY_AddedBindingRedirect.Text">
+    <value>Bindungsweiterleitung für die Anwendung hinzugefügt</value>
+  </data>
+  <data name="ASSEMBLY_RemovedBindingRedirect.Text">
+    <value>Bindungsweiterleitung für die Anwendung gelöscht</value>
+  </data>
+  <data name="DefaultWorkflowState1.OnDiscardMessageBody">
+    <value />
+  </data>
+  <data name="DefaultWorkflowState1.OnDiscardMessageSubject">
+    <value />
+  </data>
+  <data name="DefaultWorkflowState3.OnCompleteMessageBody">
+    <value />
+  </data>
+  <data name="DefaultWorkflowState3.OnCompleteMessageSubject">
+    <value />
+  </data>
+  <data name="DefaultWorkflowState3.OnDiscardMessageBody">
+    <value />
+  </data>
+  <data name="DefaultWorkflowState3.OnDiscardMessageSubject">
+    <value />
+  </data>
+  <data name="File.Text">
+    <value />
+  </data>
+  <data name="PasswordResetFailed_PasswordInHistory.Text">
+    <value>Ihr Kennwort wurde aus Sicherheitsgründen nicht akzeptiert. Bitte wählen Sie ein Kennwort, dass nicht mit einem zuvor verwendeten Kennwort übereinstimmt.</value>
+  </data>
+  <data name="PasswordResetFailed_ResetLinkExpired.Text">
+    <value>Ihr Kennwort wurde aus Sicherheitsgründen nicht akzeptiert, da der Link zum Zurücksetzen abgelaufen und nicht mehr gültig ist.</value>
+  </data>
+  <data name="PasswordResetFailed_UserUndefined.Text">
+    <value>Ihr Kennwort wurde aus Sicherheitsgründen nicht akzeptiert. Bitte wählen Sie ein Kennwort, dass nicht mit einem zuvor verwendeten Kennwort übereinstimmt und geben Sie den korrekten Benutzernamen an.</value>
+  </data>
+  <data name="PasswordResetFailed_WrongAnswer.Text">
+    <value>Ihr Kennwort wurde aus Sicherheitsgründen nicht akzeptiert. Bitte geben Sie den korrekten Benutzernamen und die richtige Antwort an.</value>
+  </data>
+  <data name="ContentType.Text">
+    <value>Inhaltstyp</value>
+  </data>
+  <data name="DataType.Text">
+    <value>Datentyp</value>
+  </data>
+  <data name="MODULE_AdminPageAdded.Text">
+    <value>Admin-Seite {0} zur Website {1} hinzugefügt.</value>
+  </data>
+  <data name="MODULE_AdminPagemoduleAdded.Text">
+    <value>Modul zur Admin-Seite {0} der Website {1} hinzugefügt.</value>
+  </data>
+  <data name="MODULE_AdminPagemoduleRemoved.Text">
+    <value>Modul von der Admin-Seite {0} der Website {1} entfernt.</value>
+  </data>
+  <data name="MODULE_AdminPageRemoved.Text">
+    <value>Admin-Seite {0} aus der Website {1} entfernt.</value>
+  </data>
+  <data name="MODULE_HostAdded.Text">
+    <value>Modul hat System-Seite {0} hinzugefügt.</value>
+  </data>
+  <data name="MODULE_HostPageAdded.Text">
+    <value>System-Seite {0} hinzugefügt.</value>
+  </data>
+  <data name="MODULE_HostPagemoduleAdded.Text">
+    <value>Modul zur System-Seite {0} hinzugefügt.</value>
+  </data>
+  <data name="MODULE_HostPagemoduleRemoved.Text">
+    <value>Modul von System-Seite {0} entfernt.</value>
+  </data>
+  <data name="MODULE_HostPageRemoved.Text">
+    <value>System-Seite {0} entfernt.</value>
+  </data>
+  <data name="NoRecords.Text">
+    <value>Keine Einträge verfügbar</value>
+  </data>
+  <data name="PasswordBanned.Text">
+    <value>Ihr neues Kennwort wurde nicht akzeptiert, da es unflätig ist oder mit Ihrem Benutzernamen übereinstimmt.</value>
+  </data>
+  <data name="PasswordInadequate.Text">
+    <value>Ihr neues Kennwort wurde aus Sicherheitsgründen nicht akzeptiert; Bitte geben Sie ein Kennwort ein, das lang und komplex genug ist, um die Anforderungen zu erfüllen.</value>
+  </data>
+  <data name="QuickSettings.Text">
+    <value>Schnelleinstellungen</value>
+  </data>
+  <data name="Search.Text">
+    <value>Suche</value>
+  </data>
+  <data name="ModuleShared.Text">
+    <value>Geteiltes Modul</value>
+  </data>
+  <data name="PotentialDangerousFile.Text">
+    <value>Eine möglicherweise gefährliche Datei wurde Ihrer Website hinzugefügt.</value>
+  </data>
+  <data name="RestrictFileMail_Body.Text">
+    <value>&lt;p&gt;Sehr geehrter Systemverwalter,&lt;/p&gt;&lt;p&gt;Das Sicherheitsmodul hat festgestellt, dass eine oder mehrere &lt;b&gt;potentiell gefährliche Dateien&lt;/b&gt; Ihrer Website hinzugefügt wurden. Um die Liste dieser Dateien zu erhalten, rufen Sie bitte das Ereignisprotokoll auf.
+Falls das Hinzufügen dieser Dateien von Ihnen beabsichtigt war, können Sie diese E-Mail ignorieren; andernfalls sollten Sie sie umgehend löschen und prüfen, wie die Dateien hinzugefügt werden konnten.&lt;/p&gt;
+&lt;p&gt;Hinzugefügte Dateien:&lt;br/&gt;&lt;b&gt;[Path]&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Vielen Dank,&lt;/p&gt;
+&lt;p&gt;[AppName] [AppVersion]&lt;/p&gt;</value>
+  </data>
+  <data name="RestrictFileMail_Subject.Text">
+    <value>Potentiell gefährliche Datei auf Ihrer Website gefunden</value>
+  </data>
+  <data name="SmtpInvalidPort.Text">
+    <value>Der angegebene Port ist ungültig. Der Port muss zwischen 0 und 65536 liegen. Die E-Mail konnte nicht verschickt werden.</value>
+  </data>
+</root>

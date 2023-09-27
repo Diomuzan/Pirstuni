@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AllowFiles.Help">
+    <value xml:space="preserve">Bitte legen Sie fest, ob Benutzer Dateianhänge an ihre Nachrichten anfügen können sollen..</value>
+  </data>
+  <data name="AllowFiles.Text">
+    <value xml:space="preserve">Dateianhänge erlauben</value>
+  </data>
+  <data name="AllowPhotos.Help">
+    <value xml:space="preserve">Bitte legen Sie fest, ob Benutzer Photos an ihre Nachrichten anfügen können sollen..</value>
+  </data>
+  <data name="AllowPhotos.Text">
+    <value xml:space="preserve">Bildanhänge erlauben</value>
+  </data>
+  <data name="AllowResize.Help">
+    <value xml:space="preserve">Legen Sie hier fest, ob hochgeladene Bilder verkleinert werden soll. Dies betrifft alle Bilder, deren längere Seite größer als 400 Px ist.</value>
+  </data>
+  <data name="AllowResize.Text">
+    <value xml:space="preserve">Bilder verkleinern</value>
+  </data>
+  <data name="ControlTitle_settings.Text">
+    <value xml:space="preserve">Journal-Einstellungen</value>
+  </data>
+  <data name="DefaultPageSize.Help">
+    <value xml:space="preserve">Legen Sie die Anzahl der Journaleinträge je Seite fest.</value>
+  </data>
+  <data name="DefaultPageSize.Text">
+    <value xml:space="preserve">Standard-Seitenlänge</value>
+  </data>
+  <data name="EnableEditor.Help">
+    <value xml:space="preserve">Aktivieren Sie diese Option, um direkte Eingaben im Journal mithilfe des Editors zu erlauben.</value>
+  </data>
+  <data name="EnableEditor.Text">
+    <value xml:space="preserve">Editor im Journal</value>
+  </data>
+  <data name="JournalFilters.Help">
+    <value xml:space="preserve">Wählen Sie den anzuzeigenden Journaltyp.</value>
+  </data>
+  <data name="JournalFilters.Text">
+    <value xml:space="preserve">Journal-Typen</value>
+  </data>
+  <data name="MaxMessageLength.Help">
+    <value xml:space="preserve">Legen Sie fest, wie viele Zeichen eine Nachricht maximal umfassen darf.</value>
+  </data>
+  <data name="MaxMessageLength.Text">
+    <value xml:space="preserve">Höchstzahl von Zeichen je Nachricht</value>
+  </data>
+  <data name="MessageLength_Unlimited.Text">
+    <value xml:space="preserve">unbegrenzt</value>
+  </data>
+</root>

@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AssociateHelp.Text">
+    <value xml:space="preserve">Sie können Ihre Anmeldung mit einem bestehenden Benutzerkonto verbinden, indem Sie Ihren Benutzernamen und das Kennwort eingeben.</value>
+  </data>
+  <data name="AssociateTitle.Text">
+    <value xml:space="preserve">Einem bestehenden Konto zugeordnet</value>
+  </data>
+  <data name="AssociationFailed.Text">
+    <value xml:space="preserve">Fehler beim Zuordnen der Identität zum Benutzerkonto. Beachten Sie die Schreibweise bei Kennworten.</value>
+  </data>
+  <data name="AuthenticatedHelp.Text">
+    <value xml:space="preserve">Sie haben sich erfolgreich authentifiziert. Allerdings ist diese authentifizierte Identität kein Mitglied dieser Website. Sie können entweder die Identität einem bestehenden Benutzer zuordnen (indem Sie den Benutzernamen und das Kennwort angeben) oder Sie registrieren Sie sich als eine neues Mitglied der Website.</value>
+  </data>
+  <data name="AuthenticatedTitle.Text">
+    <value xml:space="preserve">authentifiziert</value>
+  </data>
+  <data name="cmdAssociate.Text">
+    <value xml:space="preserve">Einem Benutzerkonto zugeordnet</value>
+  </data>
+  <data name="cmdCreate.Text">
+    <value xml:space="preserve">Benutzerkonto erstellen</value>
+  </data>
+  <data name="cmdForgotPassword.Text">
+    <value xml:space="preserve">Kennwort vergessen?</value>
+  </data>
+  <data name="cmdPassword.Text">
+    <value xml:space="preserve">Kennwort erfragen</value>
+  </data>
+  <data name="cmdProceed.Text">
+    <value xml:space="preserve">trotzdem weiter (Kennwort später ändern)</value>
+  </data>
+  <data name="cmdRegister.Text">
+    <value xml:space="preserve">registrieren</value>
+  </data>
+  <data name="ControlTitle_.Text">
+    <value xml:space="preserve">Benutzeranmeldung</value>
+  </data>
+  <data name="ControlTitle_login.Text">
+    <value xml:space="preserve">Benutzeranmeldung</value>
+  </data>
+  <data name="ControlTitle_signin.Text">
+    <value xml:space="preserve">Benutzeranmeldung</value>
+  </data>
+  <data name="CreateTitle.Text">
+    <value xml:space="preserve">Benutzerkonto erstellen</value>
+  </data>
+  <data name="EnterCode.Text">
+    <value xml:space="preserve">Geben Sie Ihren Bestätigungscode ein.</value>
+  </data>
+  <data name="InvalidCode.Text">
+    <value xml:space="preserve">Der Bestätigungscode ist ungültig</value>
+  </data>
+  <data name="IPAddressBanned.Text">
+    <value xml:space="preserve">Die Anmeldung an diese Website ist von Ihrer aktuellen IP-Adresse nicht möglich.</value>
+  </data>
+  <data name="LoginFailed.Text">
+    <value xml:space="preserve">Die Anmeldung ist fehlgeschlagen. Bitte denken Sie daran, bei Kennworten Groß- und Kleinschreibung zu beachten</value>
+  </data>
+  <data name="PasswordExpired.Text">
+    <value xml:space="preserve">Ihr Kennwort ist am {0} abgelaufen. Sie müssen Ihr Kennwort ändern, um fortfahren.</value>
+  </data>
+  <data name="PasswordExpiring.Text">
+    <value xml:space="preserve">Ihr Kennwort läuft am {0} ab. Bitte ändern Sie Ihr Kennwort, bevor Sie fortfahren.</value>
+  </data>
+  <data name="PasswordInvalid.Text">
+    <value xml:space="preserve">Sie müssen ein gültiges Kennwort eingeben. Bitte wenden Sie sich an den Website-Betreuer, wenn Sie nicht mit den Anforderungen an das Kennwort vertraut sind.</value>
+  </data>
+  <data name="PasswordMismatch.Text">
+    <value xml:space="preserve">Kennwort und Bestätigung stimmen nicht überein</value>
+  </data>
+  <data name="PasswordMissing.Text">
+    <value xml:space="preserve">Aus Sicherheitsgründen müssen Sie Ihr aktuelles Kennwort angeben, um es ändern zu können.</value>
+  </data>
+  <data name="PasswordNotDifferent.Text">
+    <value xml:space="preserve">Das neue Kennwort unterscheidet sich nicht vom bisherigen. Bitte geben Sie ein neues Kennwort ein</value>
+  </data>
+  <data name="PasswordSent.Text">
+    <value xml:space="preserve">Das Kennwort wurde an Ihre&lt;br/&gt;E-Mail-Adresse gesendet.</value>
+  </data>
+  <data name="PasswordUpdate.Text">
+    <value xml:space="preserve">Bitte aktualisieren Sie Ihr Kennwort, bevor Sie fortfahren.</value>
+  </data>
+  <data name="plToken.Help">
+    <value xml:space="preserve">Der eindeutige Token, der den Benutzer identifiziert.</value>
+  </data>
+  <data name="plToken.Text">
+    <value xml:space="preserve">Benutzer-Platzhalter:</value>
+  </data>
+  <data name="plType.Help">
+    <value xml:space="preserve">Der Authentifizierungstyp</value>
+  </data>
+  <data name="plType.Text">
+    <value xml:space="preserve">Typ:</value>
+  </data>
+  <data name="ProfileUpdate.Text">
+    <value xml:space="preserve">Bitte vervollständigen Sie Ihr Profil, bevor Sie fortfahren.</value>
+  </data>
+  <data name="RegisterTitle.Text">
+    <value xml:space="preserve">Einen neuen Benutzer registrieren</value>
+  </data>
+  <data name="Remember.Text">
+    <value xml:space="preserve">Anmeldung merken</value>
+  </data>
+  <data name="UserLockedOut.Text">
+    <value xml:space="preserve">Dieses Benutzerkonto wurde wegen mehrerer Fehlversuche vorübergehend gesperrt. Bitte warten Sie {0} Minuten, bevor sie es erneut versuchen. Falls Sie ihr Kennwort vergessen haben, verwenden Sie die Erinnerungsfunktion oder wenden Sie sich an den Website-Verwalter.</value>
+  </data>
+  <data name="UserLockedOut_ContactAdmin.Text">
+    <value xml:space="preserve">Dieses Benutzerkonto wurde nach zu vielen fehlerhaften Anmeldeversuchen gesperrt. Bitte wenden Sie sich an den Website-Betreuer.</value>
+  </data>
+  <data name="UsernameError.Text">
+    <value xml:space="preserve">Der Benutzername existiert nicht</value>
+  </data>
+  <data name="UserNotAuthorized.Text">
+    <value xml:space="preserve">Sie sind nicht derzeit berechtigt, sich bei dieser Website anzumelden.</value>
+  </data>
+</root>

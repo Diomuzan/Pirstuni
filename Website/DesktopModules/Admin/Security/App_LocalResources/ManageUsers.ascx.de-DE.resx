@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AccountSettings.Text">
+    <value xml:space="preserve">Kontoeinstellungen</value>
+  </data>
+  <data name="AddContent.Action">
+    <value xml:space="preserve">Benutzer hinzufügen</value>
+  </data>
+  <data name="AddUser.Text">
+    <value xml:space="preserve">Benutzer hinzufügen</value>
+  </data>
+  <data name="AddUser.Title">
+    <value xml:space="preserve">Benutzer hinzufügen</value>
+  </data>
+  <data name="CannotAddUser.Text">
+    <value xml:space="preserve">Ihre Konfiguration erfordert vom Benutzer die Eingabe von Frage und Antwort um das Kennwort zu erhalten. Dies ist nicht kompatibel mit der Erfassung von Benutzern durch den Administrator, daher wurde diese Option in dieser Website deaktiviert.</value>
+  </data>
+  <data name="cmdLogin.Text">
+    <value xml:space="preserve">Weiter zur Anmeldung</value>
+  </data>
+  <data name="cmdPassword.Text">
+    <value xml:space="preserve">Kennwort verwalten</value>
+  </data>
+  <data name="cmdProfile.Text">
+    <value xml:space="preserve">Profil verwalten</value>
+  </data>
+  <data name="cmdRegister.Text">
+    <value xml:space="preserve">registrieren</value>
+  </data>
+  <data name="cmdRoles.Text">
+    <value xml:space="preserve">Gruppen dieses Benutzers verwalten</value>
+  </data>
+  <data name="cmdServices.Text">
+    <value xml:space="preserve">Dienste verwalten</value>
+  </data>
+  <data name="cmdUpdatePassword.Text">
+    <value xml:space="preserve">Kennwort speichern</value>
+  </data>
+  <data name="cmdUser.Text">
+    <value xml:space="preserve">Benutzerdaten bearbeiten</value>
+  </data>
+  <data name="ControlTitle_edit.Text">
+    <value xml:space="preserve">Benutzerkonten bearbeiten</value>
+  </data>
+  <data name="ControlTitle_profile.Text">
+    <value xml:space="preserve">Profil verwalten</value>
+  </data>
+  <data name="ControlTitle_register.Text">
+    <value xml:space="preserve">registrieren</value>
+  </data>
+  <data name="EmailError.Text">
+    <value xml:space="preserve">Diese Website verlangt eine eindeutige E-Mail-Adresse. Die von Ihnen eingegebene E-Mail wird aber schon von einem anderen Konto verwendet.</value>
+  </data>
+  <data name="ExceededRegisterQuota.Text">
+    <value xml:space="preserve">Sie können sich zur Zeit nicht auf dieser Website registrieren. Bitte wenden Sie sich an den Website-Betreuer um zu erfahren, wann die Registrierung wieder ermöglicht wird.</value>
+  </data>
+  <data name="ExceededUserQuota.Text">
+    <value xml:space="preserve">Durch Erstellen dieses Benutzerkontos würde die vorgegebene Beschränkung der Website überschritten. Bitte wenden Sie sich an Ihren Systemverwalter, um die Beschränkung anzupassen.</value>
+  </data>
+  <data name="InvalidUser.Text">
+    <value xml:space="preserve">Das Konto ist derzeit kein Benutzer der aktuelle Website.</value>
+  </data>
+  <data name="ManageProfile.Action">
+    <value xml:space="preserve">Profileigenschaften verwalten</value>
+  </data>
+  <data name="MembershipDetails.Text">
+    <value xml:space="preserve">Kontoinformationen</value>
+  </data>
+  <data name="MembershipTitle.Text">
+    <value xml:space="preserve">Informationen zur Mitgliedschaft</value>
+  </data>
+  <data name="ModuleHelp.Text">
+    <value xml:space="preserve">&lt;h1&gt;Benutzerverwaltung&lt;/h&gt;
+&lt;p&gt;Verwalter können hier die Benutzerkonten ihrer Website verwalten. Das Modul erlaubt es Ihnen, neue Benutzer anzulegen oder zu löschen, Details und Kennworte zu ändern und die Mitgliedschaft in Benutzergruppen zu verwalten.&lt;/p&gt;</value>
+  </data>
+  <data name="NewPassword.Text">
+    <value xml:space="preserve">Sie müssen ein neues Kennwort eingeben.</value>
+  </data>
+  <data name="NotAuthorized.Text">
+    <value xml:space="preserve">Sie sind nicht berechtigt, diesen Benutzer zu bearbeiten.</value>
+  </data>
+  <data name="NoUser.Text">
+    <value xml:space="preserve">Das Konto existiert nicht</value>
+  </data>
+  <data name="Password.Action">
+    <value xml:space="preserve">Kennwort des Benutzers verwalten</value>
+  </data>
+  <data name="PasswordQAChanged.Text">
+    <value xml:space="preserve">Kennwortfrage und Antwort wurde erfolgreich aktualisiert.</value>
+  </data>
+  <data name="plCaptcha.Help">
+    <value xml:space="preserve">Geben Sie den Sicherheitscode an</value>
+  </data>
+  <data name="plCaptcha.Text">
+    <value xml:space="preserve">Sicherheitscode:</value>
+  </data>
+  <data name="plNewConfirm.Help">
+    <value xml:space="preserve">Geben Sie Ihr Kennwort zur Bestätigung erneut ein</value>
+  </data>
+  <data name="plNewConfirm.Text">
+    <value xml:space="preserve">Neues Kennwort bestätigen:</value>
+  </data>
+  <data name="plNewPassword.Help">
+    <value xml:space="preserve">Geben Sie ein neues Kennwort ein</value>
+  </data>
+  <data name="plNewPassword.Text">
+    <value xml:space="preserve">Neues Kennwort:</value>
+  </data>
+  <data name="Profile.Action">
+    <value xml:space="preserve">Profil des Benutzers verwalten</value>
+  </data>
+  <data name="Register.Text">
+    <value xml:space="preserve">Benutzerregistrierung</value>
+  </data>
+  <data name="Register.Title">
+    <value xml:space="preserve">Benutzerregistrierung</value>
+  </data>
+  <data name="RegisterWarning.Text">
+    <value xml:space="preserve">- &lt;em&gt;(&lt;strong&gt;Hinweis:&lt;/strong&gt; - Die Registrierung kann einige Sekunden dauern. Nachdem Sie "registrieren" angeklickt haben, warten Sie bitte, bis das System antwortet.)&lt;/em&gt;</value>
+  </data>
+  <data name="ResetPassword.Text">
+    <value xml:space="preserve">Kennwort zurücksetzen</value>
+  </data>
+  <data name="Roles.Action">
+    <value xml:space="preserve">Gruppen dieses Benutzers verwalten</value>
+  </data>
+  <data name="SuperUser.Text">
+    <value xml:space="preserve">Dieses Konto ist ein Systemverwalter-Konto. Sie haben nicht die Berechtigung, Systemverwalter-Konten zu bearbeiten-</value>
+  </data>
+  <data name="UserAuthorized.Text">
+    <value xml:space="preserve">Der Benutzer wurde erfolgreich autorisiert</value>
+  </data>
+  <data name="UserDemotedFromSuperuser.Text">
+    <value xml:space="preserve">Der Benutzer wurde in einen regulären Benutzer geändert.</value>
+  </data>
+  <data name="UserLockedOut.Text">
+    <value xml:space="preserve">Das Konto ist zur Zeit wegen zu vieler falscher Anmeldeversuche gesperrt.</value>
+  </data>
+  <data name="UserPasswordUpdateChanged.Text">
+    <value xml:space="preserve">Der Benutzer muss sein Kennwort bei der nächsten Anmeldung ändern</value>
+  </data>
+  <data name="UserPromotedToSuperuser.Text">
+    <value xml:space="preserve">Der Benutzer wurde in einen Systemverwalter geändert.</value>
+  </data>
+  <data name="UserSubscribed.Text">
+    <value xml:space="preserve">Sie haben erfolgreich die Gruppe {0} abonniert.</value>
+  </data>
+  <data name="UserTitle.Text">
+    <value xml:space="preserve">Benutzer bearbeiten - {0} (Id: {1})</value>
+  </data>
+  <data name="UserUnAuthorized.Text">
+    <value xml:space="preserve">Die Autorisierung des Benutzers wurde erfolgreich widerrufen</value>
+  </data>
+  <data name="UserUnSubscribed.Text">
+    <value xml:space="preserve">Sie haben sich erfolgreich aus der Gruppe {0} ausgetragen.</value>
+  </data>
+</root>

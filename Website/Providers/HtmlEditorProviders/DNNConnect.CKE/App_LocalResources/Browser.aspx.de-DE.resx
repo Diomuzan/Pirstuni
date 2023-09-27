@@ -1,0 +1,317 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System" name="System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="$this.DefaultModifiers" type="System.CodeDom.MemberAttributes, System">
+    <value>Privat</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="$this.TrayLargeIcon" type="System.Boolean, mscorlib">
+    <value>falsch</value>
+  </data>
+  <data name="$this.TrayAutoArrange" type="System.Boolean, mscorlib">
+    <value>wahr</value>
+  </data>
+  <data name="cmdCancel.Text">
+    <value>Fenster Schliessen</value>
+  </data>
+  <data name="cmdClose.Text">
+    <value>ok</value>
+  </data>
+  <data name="lblConFiles.Text">
+    <value>Enthaltene Dateien:</value>
+  </data>
+  <data name="lblCurrent.Text">
+    <value>Aktueller Ordner:</value>
+  </data>
+  <data name="lblSubDirs.Text">
+    <value>Ordner:</value>
+  </data>
+  <data name="cmdDownload.Help">
+    <value>ausgewählte Datei herunterladen</value>
+  </data>
+  <data name="cmdDownload.Text">
+    <value>Datei herunterladen</value>
+  </data>
+  <data name="cmdUpload.Help">
+    <value>Neue Datei hochladen</value>
+  </data>
+  <data name="cmdUpload.Text">
+    <value>Datei hochladen</value>
+  </data>
+  <data name="Error1.Text">
+    <value>Sie verfügen nicht über die für diese Aktion notwendige Berechtigung</value>
+  </data>
+  <data name="Error2.Text">
+    <value>Dieser Dateityp ist nicht zugelassen.</value>
+  </data>
+  <data name="Error3.Text">
+    <value>Dieser Dateityp ist nicht zugelassen.</value>
+  </data>
+  <data name="Error4.Text">
+    <value>Sie haben für diesen Ordner keine Berechtigung.</value>
+  </data>
+  <data name="Error5.Text">
+    <value>Keine Datei ausgewählt.</value>
+  </data>
+  <data name="cmdUploadCancel.Text">
+    <value>Hochladen abbrechen</value>
+  </data>
+  <data name="cmdUploadNow.Text">
+    <value>hochladen</value>
+  </data>
+  <data name="lblChoosetab.Text">
+    <value>Seite wählen:</value>
+  </data>
+  <data name="cmdCreate.Help">
+    <value>Neuen Unterordner erstellen</value>
+  </data>
+  <data name="cmdCreate.Text">
+    <value>Neuen Ordner erstellen</value>
+  </data>
+  <data name="cmdDelete.Help">
+    <value>ausgewählte Datei löschen</value>
+  </data>
+  <data name="cmdDelete.Text">
+    <value>Datei löschen</value>
+  </data>
+  <data name="cmdCreateFolder.Text">
+    <value>erstellen</value>
+  </data>
+  <data name="chkAspect.Text">
+    <value>Aspektverhältnis beibehalten</value>
+  </data>
+  <data name="chkHumanFriendy.Text">
+    <value>Menschenfreundliche URL</value>
+  </data>
+  <data name="cmdResizeCancel.Text">
+    <value>abbrechen</value>
+  </data>
+  <data name="cmdResizeNow.Text">
+    <value>Größe ändern</value>
+  </data>
+  <data name="cmdResizer.Help">
+    <value>ausgewähltes Bild bearbeiten</value>
+  </data>
+  <data name="cmdResizer.Text">
+    <value>Bild-Editor</value>
+  </data>
+  <data name="lblHeight.Text">
+    <value>Neue Höhe:</value>
+  </data>
+  <data name="lblThumbName.Text">
+    <value>Neuer Dateiname:</value>
+  </data>
+  <data name="lblWidth.Text">
+    <value>Neue Breite:</value>
+  </data>
+  <data name="AreYouSure.Text">
+    <value>Sind Sie sicher das Sie diese Datei löschen möchten?</value>
+  </data>
+  <data name="lblImgQuality.Text">
+    <value>Bildqualität (Komprimierung):</value>
+  </data>
+  <data name="cmdCrop.Text">
+    <value>zuschneiden</value>
+  </data>
+  <data name="cmdCropCancel.Text">
+    <value>Bearbeiten abbrechen</value>
+  </data>
+  <data name="cmdCropNow.Text">
+    <value>Neues Bild erstellen</value>
+  </data>
+  <data name="cmdResize2.Text">
+    <value>Größe ändern</value>
+  </data>
+  <data name="cmdRotate.Text">
+    <value>drehen</value>
+  </data>
+  <data name="cmdZoom.Text">
+    <value>Zoomen</value>
+  </data>
+  <data name="imgOriginal.Text">
+    <value>Originalbild (Größe an das Fenster angepasst)</value>
+  </data>
+  <data name="imgResized.Text">
+    <value>Vorschau des neuen Bildes (Größe an das Fenster angepasst)</value>
+  </data>
+  <data name="lblClearPreview.Text">
+    <value>Vorschau löschen</value>
+  </data>
+  <data name="lblCropInfo.Text">
+    <value>Hier sehen Sie eine Vorschau des Bearbeiteten Bildes</value>
+  </data>
+  <data name="lblOriginal.Text">
+    <value>Original:</value>
+  </data>
+  <data name="lblOtherTools.Text">
+    <value>Andere Tools:</value>
+  </data>
+  <data name="lblPreview.Text">
+    <value>Vorschau:</value>
+  </data>
+  <data name="lblResizeHeader.Text">
+    <value>Bild-Editor: Größe ändern</value>
+  </data>
+  <data name="lblResizeHeader2.Text">
+    <value>Bild-Editor : Zuschneiden, Zoomen &amp; Drehen</value>
+  </data>
+  <data name="lblShowPreview.Text">
+    <value>Vorschau anzeigen</value>
+  </data>
+  <data name="cmdCreateCancel.Text">
+    <value>abbrechen</value>
+  </data>
+  <data name="lblNewFoldName.Text">
+    <value>Neuer Ordner Name:</value>
+  </data>
+  <data name="LabelAnchor.Text">
+    <value>Wählen Sie einen Seitenanker.</value>
+  </data>
+  <data name="TrackClicks.Text">
+    <value>Anzahl wie oft auf diesen Link geklickt wurde speichern?</value>
+  </data>
+  <data name="absLnk.Text">
+    <value>Absolute URL  - &lt;em&gt;'http://www.MyWebsite.com/Images/MyImage.jpg'&lt;/em&gt;</value>
+  </data>
+  <data name="lblUrlType.Text">
+    <value>URL-Typ wählen:</value>
+  </data>
+  <data name="lnkClick.Text">
+    <value>Gesicherte URL  - &lt;em&gt;'/LinkClick.aspx?fileticket=xyz'&lt;/em&gt;</value>
+  </data>
+  <data name="relLnk.Text">
+    <value>Relative URL  - &lt;em&gt;'/Images/MyImage.jpg'&lt;/em&gt;</value>
+  </data>
+  <data name="Wait.Text">
+    <value>Bitte warten...</value>
+  </data>
+  <data name="WaitMessage.Text">
+    <value>Lade Seite und parse Seitenanker.</value>
+  </data>
+  <data name="ExtraTabOptions.Text">
+    <value>Seiten-Optionen:</value>
+  </data>
+  <data name="LabelTabLanguage.Text">
+    <value>Zusätzlicher Sprachparameter:</value>
+  </data>
+  <data name="None.Text">
+    <value>Keine</value>
+  </data>
+  <data name="FileLink.Text">
+    <value>Datei-Link</value>
+  </data>
+  <data name="PageLink.Text">
+    <value>Seiten-Link</value>
+  </data>
+  <data name="DetailView.Text">
+    <value>Detailansicht</value>
+  </data>
+  <data name="DetailViewTitle.Text">
+    <value>Zeigt alle Dateien mit Bildvorschau, Dateinamen und Datei-Informationen</value>
+  </data>
+  <data name="IconsView.Text">
+    <value>Symbolansicht</value>
+  </data>
+  <data name="IconsViewTitle.Text">
+    <value>Alle Dateien mit Vorschaubild gekachelt anzeigen.</value>
+  </data>
+  <data name="ListView.Text">
+    <value>Listenansicht</value>
+  </data>
+  <data name="ListViewTitle.Text">
+    <value>Zeigt alle Dateien, mit einer kleineren Bildvorschau, Dateinamen und Datei Informationen</value>
+  </data>
+  <data name="FirstPage.Text">
+    <value>Erste Seite</value>
+  </data>
+  <data name="GoTo.Text">
+    <value>Gehe zu </value>
+  </data>
+  <data name="LastPage.Text">
+    <value>Letzte Seite</value>
+  </data>
+  <data name="NextPage.Text">
+    <value>Nächste Seite</value>
+  </data>
+  <data name="PreviousPage.Text">
+    <value>Vorherige Seite</value>
+  </data>
+  <data name="SortAscending.Help">
+    <value>Dateiliste von aufsteigend sortieren</value>
+  </data>
+  <data name="SortAscending.Text">
+    <value>Aufsteigend sortieren</value>
+  </data>
+  <data name="SortDescending.Help">
+    <value>Dateiliste absteigend sortieren</value>
+  </data>
+  <data name="SortDescending.Text">
+    <value>Absteigend sortieren</value>
+  </data>
+  <data name="lnkAbsClick.Text">
+    <value>Absolute Gesicherte URL  - &lt;em&gt;'http://www.MyWebsite.com/LinkClick.aspx?fileticket=xyz'&lt;/em&gt;</value>
+  </data>
+  <data name="SpaceUsed.Text">
+    <value>Benuzt: {0} von {1}</value>
+  </data>
+  <data name="UnlimitedSpace.Text">
+    <value>[unbegrenzt]</value>
+  </data>
+  <data name="Syncronize.Help">
+    <value>Ordner mit Datenbank synchronisieren </value>
+  </data>
+  <data name="Syncronize.Text">
+    <value>Ordnerabgleich</value>
+  </data>
+  <data name="FileSizeRestriction.Text">
+    <value>Die max. Dateigröße beträgt {0} MB. &lt;br /&gt; Die erlaubten Dateitypen sind: "{1}"</value>
+  </data>
+  <data name="FileToBig.Text">
+    <value>Die Datei ist zu groß.</value>
+  </data>
+  <data name="OverrideFile.Text">
+    <value>Ggf. bestehende Datei überschreiben, andernfalls wird eine Datei mit neuem Namen erzeugt?</value>
+  </data>
+  <data name="FileToBigMessage.Text">
+    <value>Die hochgeladenen Datei ist größer als die max. Dateigröße.</value>
+  </data>
+  <data name="AddFiles.Text">
+    <value>Datei hinzufügen</value>
+  </data>
+  <data name="DropHere.Text">
+    <value>Dateien hier ablegen</value>
+  </data>
+  <data name="StartUploads.Text">
+    <value>Hochladen starten</value>
+  </data>
+  <data name="RootFolder.Text">
+    <value>Basisordner</value>
+  </data>
+  <data name="BrowserModus.Image.Text">
+    <value>Bild</value>
+  </data>
+  <data name="BrowserModus.Link.Text">
+    <value>Link</value>
+  </data>
+  <data name="Created.Text">
+    <value>erstellt</value>
+  </data>
+  <data name="lblBrowserModus.Text">
+    <value>Browser-Modus: {0}</value>
+  </data>
+  <data name="Size.Text">
+    <value>Größe</value>
+  </data>
+</root>

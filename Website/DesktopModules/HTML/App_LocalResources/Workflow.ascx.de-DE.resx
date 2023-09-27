@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="WorkflowExists.Text">
+    <value>Es gibt bereits einen Workflow mit dem angegebenen Namen in dieser Website</value>
+  </data>
+  <data name="Active.Header">
+    <value>aktiv</value>
+  </data>
+  <data name="plActive.Text">
+    <value>aktiv</value>
+  </data>
+  <data name="cmdAddWorkflow.Text">
+    <value>Workflow hinzufügen</value>
+  </data>
+  <data name="cmdAddState.Text">
+    <value>Status hinzufügen</value>
+  </data>
+  <data name="plDescription.Text">
+    <value>Beschreibung</value>
+  </data>
+  <data name="plDeleted.Text">
+    <value>gelöscht</value>
+  </data>
+  <data name="plDescription.Help">
+    <value>Geben Sie hier eine Beschreibung des Workflows ein</value>
+  </data>
+  <data name="plWorkflow1.Text">
+    <value>Workflow</value>
+  </data>
+  <data name="plWorkflow2.Text">
+    <value>Workflow</value>
+  </data>
+  <data name="dshVersions.Text">
+    <value>Versionshistorie</value>
+  </data>
+  <data name="dshStates.Text">
+    <value>Stati</value>
+  </data>
+  <data name="State.Header">
+    <value>Status</value>
+  </data>
+  <data name="dshPermissions.Text">
+    <value>Statuskonfiguration</value>
+  </data>
+  <data name="plState.Text">
+    <value>Status</value>
+  </data>
+  <data name="plPermissions.Text">
+    <value>Redakteure</value>
+  </data>
+  <data name="plPermissions.Help">
+    <value>Geben Sie an, wer den Inhalt in diesem Status redigieren kann</value>
+  </data>
+  <data name="plWorkflow2.Help">
+    <value>Geben Sie einen Namen für den Workflow an</value>
+  </data>
+  <data name="plHistory.Text">
+    <value>Historie</value>
+  </data>
+  <data name="plState.Help">
+    <value>Geben Sie einen Namen für den Status an</value>
+  </data>
+  <data name="plMaximumVersionHistory.Text">
+    <value>Historie</value>
+  </data>
+  <data name="ControlTitle_workflow.Text">
+    <value>Workflows verwalten</value>
+  </data>
+  <data name="WorkFlowStateHelp.Text">
+    <value>In diesem Abschnitt können Sie die Stati der einzelnen Workflow-Schritte  verwalten. Bitte beachten Sie, dass Sie die Schritte nur löschen können, solange der Workflow nicht verwendet wird. Ebenso können Start- und Zielpunkt eines Workflows nicht gelöscht werden.</value>
+  </data>
+  <data name="plWorkflow1.Help">
+    <value>Wählen Sie einen zu bearbeitenden Workflow</value>
+  </data>
+  <data name="plNotify.Help">
+    <value>Geben Sie an, ob der Autor und der Redakteur eine Benachrichtigung per E-Mail erhalten sollen, sobald sich der Status eines Inhalts ändert.</value>
+  </data>
+  <data name="plActive.Help">
+    <value>Geben Sie an, ob der Status aktiv ist</value>
+  </data>
+  <data name="plHistory.Help">
+    <value>Geben Sie die maximale Zahl der zu speichernden Versionen an</value>
+  </data>
+  <data name="plDeleted.Help">
+    <value>Geben Sie an, ob dieser Workflow-Status aktiv ist.</value>
+  </data>
+  <data name="plMaximumVersionHistory.Help">
+    <value>Geben Sie an, wieviele Versionen des Inhalts maximal aufbewahrt werden sollen (oder verwenden Sie 0, um alle Versionen aufzuheben.</value>
+  </data>
+  <data name="plNotify.Text">
+    <value>benachrichtigen</value>
+  </data>
+  <data name="ModuleHelp.Text">
+    <value>&lt;h1&gt;HTML-Modul&lt;/h&gt;
+&lt;p&gt;Mit dem HTML-Modul können Sie formatierten HTML-Text mit Bildern, Links und andren Medienelementen auf Ihren Seiten bereitstellen. Das Modul unterstützt Workflows mit direkter Veröffentlichung oder Freigabe und Versionierung.&lt;/p&gt;</value>
+  </data>
+</root>

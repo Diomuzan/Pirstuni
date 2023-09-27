@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Attach.Text">
+    <value xml:space="preserve">anhängen</value>
+  </data>
+  <data name="BrowseFromSite.Text">
+    <value xml:space="preserve">durchsuchen</value>
+  </data>
+  <data name="Cancel.Text">
+    <value xml:space="preserve">abbrechen</value>
+  </data>
+  <data name="Community.Text">
+    <value xml:space="preserve">Mitglieder</value>
+  </data>
+  <data name="DeleteItem.Text">
+    <value xml:space="preserve">Sind Sie sicher, dass Sie diesen Eintrag löschen wollen?</value>
+  </data>
+  <data name="EditModule.Text">
+    <value xml:space="preserve">Modul bearbeiten</value>
+  </data>
+  <data name="Everyone.Text">
+    <value xml:space="preserve">jeder</value>
+  </data>
+  <data name="FileSize.Header">
+    <value xml:space="preserve">Dateigröße:</value>
+  </data>
+  <data name="Friends.Text">
+    <value xml:space="preserve">Freunde</value>
+  </data>
+  <data name="GetMore.Text">
+    <value xml:space="preserve">mehr ergattern</value>
+  </data>
+  <data name="LastModified.Header">
+    <value xml:space="preserve">zuletzt geändert</value>
+  </data>
+  <data name="Name.Header">
+    <value xml:space="preserve">Name</value>
+  </data>
+  <data name="Of.Text">
+    <value xml:space="preserve">von</value>
+  </data>
+  <data name="Private.Text">
+    <value xml:space="preserve">privat</value>
+  </data>
+  <data name="SelectFile.Text">
+    <value xml:space="preserve">zu teilende Dateien auswählen:</value>
+  </data>
+  <data name="SelectPhoto.Text">
+    <value xml:space="preserve">zu teilende Fotos auswählen:</value>
+  </data>
+  <data name="ServerError.Text">
+    <value xml:space="preserve">Unerwarteter Fehler, Dieser tritt immer auf, wenn die Datei zu groß ist.</value>
+  </data>
+  <data name="Share.Text">
+    <value xml:space="preserve">teilen</value>
+  </data>
+  <data name="SharePlaceHolder.Text">
+    <value xml:space="preserve">Sag der Welt irgendwas...</value>
+  </data>
+  <data name="Title.Text">
+    <value xml:space="preserve">zu verwendende Datei suchen</value>
+  </data>
+  <data name="Type.Header">
+    <value xml:space="preserve">Typ</value>
+  </data>
+  <data name="UploadFromLocal.Text">
+    <value xml:space="preserve">vom lokalen PC hochladen</value>
+  </data>
+  <data name="WhoWillSee.Text">
+    <value xml:space="preserve">Wer will dies sehen?</value>
+  </data>
+  <data name="GroupMembers.Text">
+    <value>Gruppenmitglieder</value>
+  </data>
+</root>

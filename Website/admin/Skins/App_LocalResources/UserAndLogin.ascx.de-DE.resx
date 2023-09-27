@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Account.Text">
+    <value xml:space="preserve">Benutzerkonto bearbeiten</value>
+  </data>
+  <data name="EditProfile.Text">
+    <value xml:space="preserve">Profil bearbeiten</value>
+  </data>
+  <data name="Login.Text">
+    <value xml:space="preserve">anmelden</value>
+  </data>
+  <data name="Logout.Text">
+    <value xml:space="preserve">abmelden</value>
+  </data>
+  <data name="MessageCount.Text">
+    <value xml:space="preserve">{0} Mitteilungen</value>
+  </data>
+  <data name="Messages.Text">
+    <value xml:space="preserve">Mitteilungen</value>
+  </data>
+  <data name="Notifications.Text">
+    <value xml:space="preserve">Benachrichtigungen</value>
+  </data>
+  <data name="OneMessage.Text">
+    <value xml:space="preserve">1 Mitteilung</value>
+  </data>
+  <data name="Profile.Text">
+    <value xml:space="preserve">Eigenes Profil</value>
+  </data>
+  <data name="ProfilePicture.Text">
+    <value xml:space="preserve">Eigenes Profilbild</value>
+  </data>
+  <data name="Register.Text">
+    <value xml:space="preserve">registrieren</value>
+  </data>
+</root>

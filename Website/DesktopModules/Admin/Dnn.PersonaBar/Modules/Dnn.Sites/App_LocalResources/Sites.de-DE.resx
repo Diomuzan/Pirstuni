@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="BasicSettings.Text">
+    <value>Grundeinstellungen</value>
+  </data>
+  <data name="cmdCancel.Text">
+    <value>abbrechen</value>
+  </data>
+  <data name="cmdExport.Text">
+    <value>Vorlage erstellen</value>
+  </data>
+  <data name="ControlTitle_template.Text">
+    <value>Website-Vorlage erstellen</value>
+  </data>
+  <data name="DefaultLanguage.Text">
+    <value>{0} ist die Standardsprache der ausgewählten Website</value>
+  </data>
+  <data name="ErrorPages.Text">
+    <value>Sie müssen mindestens eine Seite für den Export auswählen.</value>
+  </data>
+  <data name="ExportedMessage.Text">
+    <value>Die neue Website-Vorlage wurde in folgendem Ordner gespeichert:&amp;lt;br/&amp;gt;&amp;lt;b&amp;gt;{0}&amp;lt;/b&amp;gt;</value>
+  </data>
+  <data name="ErrorAncestorPages.Text">
+    <value>Sie müssen alle übergeordneten Ebenen angeben, wenn Sie eine Unterwebsite erstellen wollen</value>
+  </data>
+  <data name="ChildExists.Text">
+    <value>Der von Ihnen angegebene Name für die Unterwebsite wird bereits verwendet. Bitte geben Sie einen anderen Namen ein.</value>
+  </data>
+  <data name="DuplicatePortalAlias.Text">
+    <value>Der von Ihnen angegebene Alias für die Website wird bereits verwendet. Bitte geben Sie einen anderen Alias an.</value>
+  </data>
+  <data name="DuplicateWithTab.Text">
+    <value>Es gibt bereits eine Seite mit dem Namen, den Sie als Website-Alias verwenden wollen. Bitte verwenden Sie einen anderen Alias.</value>
+  </data>
+  <data name="InvalidHomeFolder.Text">
+    <value>Das angegebene Basisverzeichnis ist nicht zulässig.</value>
+  </data>
+  <data name="InvalidName.Text">
+    <value>Der Website-Alias darf keine Leerzeichen oder Sonderzeichen enthalten (außer Punkten).</value>
+  </data>
+  <data name="InvalidPassword.Text">
+    <value>Die eingegebenen Kennworte stimmen nicht überein.</value>
+  </data>
+  <data name="SendMail.Error">
+    <value>Beim Versenden der Bestätigungs-Mails ist ein Fehler aufgetreten - {0}  Die Website wurde erstellt,. &amp;lt;a href='{1}' {2}&amp;gt;klicken Sie hier, um sie aufzurufen&amp;lt;/a&amp;gt;.</value>
+  </data>
+  <data name="UnknownEmailAddress.Error">
+    <value>Es gibt keine E-Mail-Adresse auf Website- oder Systemebene.</value>
+  </data>
+  <data name="UnknownSendMail.Error">
+    <value>Beim Versenden der Bestätigungs-Mails ist ein Fehler aufgetreten. Die Website wurde erstellt,. &amp;lt;a href='{0}' {1}&amp;gt;klicken Sie hier, um sie aufzurufen&amp;lt;/a&amp;gt;.</value>
+  </data>
+  <data name="lblAdminOnly.Text">
+    <value>Nur für Website-Verwalter sichtbar</value>
+  </data>
+  <data name="lblDisabled.Text">
+    <value>Seite ist deaktiviert</value>
+  </data>
+  <data name="lblEveryone.Text">
+    <value>Die Seite wird jedem angezeigt</value>
+  </data>
+  <data name="lblFiles.Help">
+    <value>Aktivieren Sie diese Option, um alle Dateien und Ordner mit zu exportieren.</value>
+  </data>
+  <data name="lblFiles.Text">
+    <value>Dateien einschließen</value>
+  </data>
+  <data name="lblHidden.Text">
+    <value>Die Seite wird nicht im Menü angezeigt</value>
+  </data>
+  <data name="lblHome.Text">
+    <value>Startseite der Website</value>
+  </data>
+  <data name="lblLanguages.Help">
+    <value>Wählen Sie alle zusätzlichen Sprachen, die in einer mehrsprachigen Vorlage enthalten sein soll oder wählen Sie die Sprache einer einsprachigen Website.</value>
+  </data>
+  <data name="lblLanguages.Text">
+    <value>Sprachen exportieren</value>
+  </data>
+  <data name="lblModules.Help">
+    <value>Aktivieren Sie diese Option, um die Berechtigung zur Platzierung von Modules in die exportierte Vorlage mit aufzunehmen. Wenn diese Option aktiviert ist, müssen auch die entsprechenden Gruppen mit exportiert werden.</value>
+  </data>
+  <data name="lblModules.Text">
+    <value>Platzierungsberechtigung für Module einschließen</value>
+  </data>
+  <data name="lblMultilanguage.Help">
+    <value>Aktivieren Sie diese Option, um eine mehrsprachige Website-Vorlage zu erstellen, dabei können Sie die (zusätzlich zur Standardsprache der Website) einzuschließenden Sprachen auswählen.</value>
+  </data>
+  <data name="lblMultilanguage.Text">
+    <value>Als mehrsprachige Vorlage exportieren</value>
+  </data>
+  <data name="lblNote.Text">
+    <value>Die Standardsprache ({0}) der Website ist immer enthalten.</value>
+  </data>
+  <data name="lblNoteSingleLanguage.Text">
+    <value>Hinweis: die Standardsprache ist &amp;lt;b&amp;gt;{0}&amp;lt;/b&amp;gt;</value>
+  </data>
+  <data name="lblPages.Help">
+    <value>Wählen Sie hier die zu exportierenden Seiten.&amp;lt;br /&amp;gt;Wenn Sie die Vorlage zur Erstellung einer neuen Website verwenden wollen, stellen Sie sicher, dass sie entweder alle Seiten exportieren oder die Admin-Seiten mit einschließen. Andernfalls ist die neue Seite nicht ohne Änderungen administrierbar.</value>
+  </data>
+  <data name="lblPages.Text">
+    <value>zu exportierende Seiten</value>
+  </data>
+  <data name="lblProfile.Help">
+    <value>Aktivieren Sie diese Option, um die individuellen Eigenschaften der Benutzerprofile mit zu exportieren.</value>
+  </data>
+  <data name="lblProfile.Text">
+    <value>Benutzerprofil einschließen</value>
+  </data>
+  <data name="lblRedirect.Text">
+    <value>Seitenweiterleitung</value>
+  </data>
+  <data name="lblRegistered.Text">
+    <value>Sichtbar für registrierte Benutzer</value>
+  </data>
+  <data name="lblRoles.Help">
+    <value>Aktivieren Sie diese Option, um alle Benutzergruppen in die Vorlage mit aufzunehmen</value>
+  </data>
+  <data name="lblRoles.Text">
+    <value>Benutzergruppen einschließen</value>
+  </data>
+  <data name="lblSecure.Text">
+    <value>Sichtbar nur für bestimmte Gruppen</value>
+  </data>
+  <data name="lblSelectLanguages.Text">
+    <value>-- Sprachen wählen  --</value>
+  </data>
+  <data name="ModuleHelp.Text">
+    <value>&amp;lt;h1&amp;gt;Website-Vorlagen&amp;lt;/h1&amp;gt;&amp;lt;p&amp;gt;Sie können hier eine Vorlage aus der aktuellen Website erstellen, um daraus neue Websites zu generieren.&amp;lt;/p&amp;gt;</value>
+  </data>
+  <data name="nav_Sites.Text">
+    <value>Websites</value>
+  </data>
+  <data name="plContent.Help">
+    <value>Aktivieren Sie diese Option, um den Inhalt der Module einzuschließen (soweit von den verwendeten Modulen unterstützt)</value>
+  </data>
+  <data name="plContent.Text">
+    <value>Inhalt einschließen</value>
+  </data>
+  <data name="plDescription.Help">
+    <value>Geben Sie eine Beschreibung für die Website-Vorlage an.</value>
+  </data>
+  <data name="plDescription.Text">
+    <value>Beschreibung</value>
+  </data>
+  <data name="plPortals.Help">
+    <value>Wählen Sie die zu exportierende Website.</value>
+  </data>
+  <data name="plPortals.Text">
+    <value>Website</value>
+  </data>
+  <data name="plTemplateName.Help">
+    <value>Geben Sie einen Namen für die Exportdatei an</value>
+  </data>
+  <data name="plTemplateName.Text">
+    <value>Name der Vorlagendatei</value>
+  </data>
+  <data name="PortalSetup.Text">
+    <value>Website einrichten</value>
+  </data>
+  <data name="Settings.Text">
+    <value>Erweiterte Einstellungen</value>
+  </data>
+  <data name="titleTemplateInfo.Text">
+    <value>Daten der Vorlage:</value>
+  </data>
+  <data name="valDescription.ErrorMessage">
+    <value>Sie müssen eine Beschreibung angeben</value>
+  </data>
+  <data name="valFileName.ErrorMessage">
+    <value>Sie müssen den Namen der Vorlage angeben.</value>
+  </data>
+  <data name="SiteDetails_Pages.Text">
+    <value>Seiten</value>
+  </data>
+  <data name="SiteDetails_SiteID.Text">
+    <value>Website-ID</value>
+  </data>
+  <data name="SiteDetails_Updated.Text">
+    <value>aktualisiert</value>
+  </data>
+  <data name="SiteDetails_Users.Text">
+    <value>Benutzer</value>
+  </data>
+  <data name="CancelPortalDelete.Text">
+    <value>nein</value>
+  </data>
+  <data name="ConfirmPortalDelete.Text">
+    <value>ja</value>
+  </data>
+  <data name="deletePortal.Text">
+    <value>Sind Sie sicher, dass Sie {0} löschen wollen?</value>
+  </data>
+  <data name="AddNewSite.Header">
+    <value>Website erstellen</value>
+  </data>
+  <data name="AssignCurrentUserAsAdmin.Label">
+    <value>Aktuellen Benutzer als Website-Verwalter zuordnen.</value>
+  </data>
+  <data name="cmdCreateSite.Text">
+    <value>Website erstellen</value>
+  </data>
+  <data name="Description.Label">
+    <value>Beschreibung</value>
+  </data>
+  <data name="Directory.Text">
+    <value>Verzeichnis</value>
+  </data>
+  <data name="Domain.Text">
+    <value>Domäne</value>
+  </data>
+  <data name="HomeDirectory.Label">
+    <value>Basisverzeichnis</value>
+  </data>
+  <data name="SiteTemplate.Label">
+    <value>Website-Vorlage</value>
+  </data>
+  <data name="SiteType.Label">
+    <value>Typ der Website:</value>
+  </data>
+  <data name="SiteUrl.Label">
+    <value>URL der Website</value>
+  </data>
+  <data name="Title.Label">
+    <value>Name</value>
+  </data>
+  <data name="CreateSite_AdminEmail.Label">
+    <value>E-Mail</value>
+  </data>
+  <data name="CreateSite_AdminFirstName.Label">
+    <value>Vorname</value>
+  </data>
+  <data name="CreateSite_AdminLastName.Label">
+    <value>Nachname</value>
+  </data>
+  <data name="CreateSite_AdminPassword.Label">
+    <value>Kennwort</value>
+  </data>
+  <data name="CreateSite_AdminPasswordConfirm.Label">
+    <value>Kennwort bestätigen</value>
+  </data>
+  <data name="CreateSite_AdminUserName.Label">
+    <value>Anmeldename des Verwalters</value>
+  </data>
+  <data name="CreateSite_SelectTemplate.Overlay">
+    <value>Wählen Sie hier die Vorlage</value>
+  </data>
+  <data name="EmailRequired.Error">
+    <value>Sie müssen die E-Mail-Adresse angeben.</value>
+  </data>
+  <data name="FirstNameRequired.Error">
+    <value>Sie müssen den Vornamen angeben.</value>
+  </data>
+  <data name="LastNameRequired.Error">
+    <value>Sie müssen den Nachnamen angeben.</value>
+  </data>
+  <data name="PasswordConfirmRequired.Error">
+    <value>Sie müssen das Kennwort zweimal eingeben</value>
+  </data>
+  <data name="PasswordRequired.Error">
+    <value>Sie müssen das Kennwort angeben. Es muss mindestens 7 Zeichen lang sein.</value>
+  </data>
+  <data name="SiteAliasRequired.Error">
+    <value>Sie müssen einen Website-Alias angeben. &amp;lt;ul style="
+    word-break: normal;
+    margin: 10px auto;
+    list-style: none;
+"&amp;gt;&amp;lt;li style="margin-bottom:10px"&amp;gt;Domänen-Anforderungen: keine Leerzeichen, keine Sonderzeichen (nur : , .). &amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Verzeichnisanforderungen: keine Leerzeichen, keine Sonderzeichen (nur_ , -). &amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;</value>
+  </data>
+  <data name="SiteTitleRequired.Error">
+    <value>Sie müssen den Namen der Website angeben.</value>
+  </data>
+  <data name="UsernameRequired.Error">
+    <value>Sie müssen einen Anmeldenamen angeben.</value>
+  </data>
+  <data name="PortalDeletionDenied.Text">
+    <value>Die Website kann nicht gelöscht werden..</value>
+  </data>
+  <data name="PortalNotFound.Text">
+    <value>Website nicht gefunden.</value>
+  </data>
+  <data name="LoadMore.Button">
+    <value>weitere laden</value>
+  </data>
+  <data name="BackToSites.Text">
+    <value>&amp;lt; Zurück zu Websites</value>
+  </data>
+  <data name="DeleteSite.Text">
+    <value>Website löschen</value>
+  </data>
+  <data name="ExportTemplate.Text">
+    <value>Vorlage exportieren</value>
+  </data>
+  <data name="SiteSettings.Text">
+    <value>Website-Einstellungen</value>
+  </data>
+  <data name="ViewSite.Text">
+    <value>Website aufrufen</value>
+  </data>
+  <data name="AddNewSite.Text">
+    <value>Website hinzufügen</value>
+  </data>
+  <data name="Description.Text">
+    <value>Beschreibung</value>
+  </data>
+  <data name="SiteExport.Text">
+    <value>Website exportieren</value>
+  </data>
+  <data name="SiteImport.Text">
+    <value>Website importieren</value>
+  </data>
+  <data name="Sites.Text">
+    <value>Websites</value>
+  </data>
+</root>

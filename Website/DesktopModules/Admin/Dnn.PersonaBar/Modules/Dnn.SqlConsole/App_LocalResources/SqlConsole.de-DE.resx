@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Connection.Text">
+    <value>Verbindung:</value>
+  </data>
+  <data name="nav_SqlConsole.Text">
+    <value>SQL-Konsole</value>
+  </data>
+  <data name="Query.Text">
+    <value>Abfrage:</value>
+  </data>
+  <data name="RunScript.Text">
+    <value>Skript ausführen</value>
+  </data>
+  <data name="SaveQuery.Text">
+    <value>Abfrage speichern</value>
+  </data>
+  <data name="Title.Text">
+    <value>SQL-Konsole</value>
+  </data>
+  <data name="UploadFile.Text">
+    <value>Datei hochladen</value>
+  </data>
+  <data name="AllEntries.Text">
+    <value>Alle Einträge</value>
+  </data>
+  <data name="Export.Text">
+    <value>exportieren</value>
+  </data>
+  <data name="NewQuery.Text">
+    <value>&lt;neue Abfrage&gt;</value>
+  </data>
+  <data name="PageInfo.Text">
+    <value>Zeige {0} - {1} von {2} Einträgen</value>
+  </data>
+  <data name="QueryTabTitle.Text">
+    <value>Abfrage {0}</value>
+  </data>
+  <data name="SaveQueryInfo.Text">
+    <value>geben Sie einen Namen für die Abfrage an:</value>
+  </data>
+  <data name="Search.Text">
+    <value>suche</value>
+  </data>
+  <data name="PageSize.Text">
+    <value>{0} Datensätze</value>
+  </data>
+  <data name="ExportClipboard.Text">
+    <value>in Zwischenablage kopieren</value>
+  </data>
+  <data name="ExportClipboardFailed.Text">
+    <value>Nicht in Zwischenablage kopiert</value>
+  </data>
+  <data name="ExportClipboardSuccessful.Text">
+    <value>in Zwischenablage übernommen</value>
+  </data>
+  <data name="ExportCSV.Text">
+    <value>als CSV-Datei exportieren</value>
+  </data>
+  <data name="ExportExcel.Text">
+    <value>als Excel-Datei exportieren</value>
+  </data>
+  <data name="ExportPDF.Text">
+    <value>als PDF-Datei exportieren</value>
+  </data>
+  <data name="NoData.Text">
+    <value>Die Abfrage hat keine Daten zurückgegeben.</value>
+  </data>
+  <data name="QueryFailed.Text">
+    <value>Die Abfrage ist fehlgeschlagen!</value>
+  </data>
+  <data name="QuerySuccessful.Text">
+    <value>Die Abfrage wurde ausgeführt.</value>
+  </data>
+  <data name="EmptyName.Text">
+    <value>Sie müssen einen Namen für die Abfrage angeben</value>
+  </data>
+  <data name="DeleteConfirm.Text">
+    <value>Sind Sie sicher, dass Sie diese Abfrage löschen wollen?</value>
+  </data>
+  <data name="Cancel.Text">
+    <value>abbrechen</value>
+  </data>
+  <data name="Delete.Text">
+    <value>löschen</value>
+  </data>
+</root>

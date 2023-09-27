@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Add.Text">
+    <value xml:space="preserve">hinzufügen</value>
+  </data>
+  <data name="AddControlError.Text">
+    <value xml:space="preserve">Sie müssen eine Vorlage auswählen und einen Namen für das Steuerelement angeben.</value>
+  </data>
+  <data name="AddFile.Text">
+    <value xml:space="preserve">Datei erstellen</value>
+  </data>
+  <data name="C#.Text">
+    <value xml:space="preserve">C#</value>
+  </data>
+  <data name="cmdConfigure.Text">
+    <value xml:space="preserve">konfigurieren</value>
+  </data>
+  <data name="cmdCreate.Text">
+    <value xml:space="preserve">erstellen</value>
+  </data>
+  <data name="cmdPackage.Text">
+    <value xml:space="preserve">Paket erstellen</value>
+  </data>
+  <data name="cmdSave.Text">
+    <value xml:space="preserve">speichern</value>
+  </data>
+  <data name="cmdSaveAs.Text">
+    <value xml:space="preserve">speichern unter</value>
+  </data>
+  <data name="cmdUpdate.Text">
+    <value xml:space="preserve">aktualisieren</value>
+  </data>
+  <data name="ControlCreated.Text">
+    <value xml:space="preserve">Die Datei wurde erfolgreich erstellt</value>
+  </data>
+  <data name="ControlTitle_viewsource.Text">
+    <value xml:space="preserve">Quellcode anzeigen</value>
+  </data>
+  <data name="ControlUpdated.Text">
+    <value xml:space="preserve">Die Datei wurde erfolgreich aktualisiert.</value>
+  </data>
+  <data name="DeleteSnippet.Text">
+    <value xml:space="preserve">Code-Fragment löschen?</value>
+  </data>
+  <data name="Edit.Text">
+    <value xml:space="preserve">bearbeiten</value>
+  </data>
+  <data name="EditFile.Text">
+    <value xml:space="preserve">Datei bearbeiten</value>
+  </data>
+  <data name="FolderNameInvalid.Text">
+    <value xml:space="preserve">Der angegebene Ordnername für dieses Modul existiert nicht. Bitte prüfen Sie die Einstellungen für dieses Modul in System &gt; Erweiterungen.</value>
+  </data>
+  <data name="NoFileTypeSelected.Text">
+    <value xml:space="preserve">Sie müssen einen zu bearbeitenden Dateityp angeben, bevor Sie aktualisieren anklicken.</value>
+  </data>
+  <data name="plControl.Help">
+    <value xml:space="preserve">Geben Sie einen eindeutigen Namen für Ihr Modul-Steuerelement an.</value>
+  </data>
+  <data name="plControl.Text">
+    <value xml:space="preserve">Steuerelement-Name:</value>
+  </data>
+  <data name="plFile.Help">
+    <value xml:space="preserve">Wählen Sie die Datei, deren Quellcode Sie anzeigen möchten.</value>
+  </data>
+  <data name="plFile.Text">
+    <value xml:space="preserve">Datei:</value>
+  </data>
+  <data name="plLanguage.Help">
+    <value xml:space="preserve">Wählen Sie Ihre bevorzugte Programmiersprache zum Entwickeln des Moduls</value>
+  </data>
+  <data name="plLanguage.Text">
+    <value xml:space="preserve">Sprache:</value>
+  </data>
+  <data name="plSource.Help">
+    <value xml:space="preserve">Sie sehen den Quellcode der Datei im folgenden Textfeld. Wenn Sie die Website im lokalen Browser auf dem Webserver betrachten, können Sie den Quellcode auch editieren und bearbeiten.</value>
+  </data>
+  <data name="plSource.Text">
+    <value xml:space="preserve">Dateipfad:</value>
+  </data>
+  <data name="plTemplate.Help">
+    <value xml:space="preserve">Wählen Sie die von Ihnen bevorzugte Vorlage zur Modulentwicklung. Die Modulvorlagen werden im Unterordner Templates des Modulentwickler-Verzeichnisses gespeichert.</value>
+  </data>
+  <data name="plTemplate.Text">
+    <value xml:space="preserve">Vorlage:</value>
+  </data>
+  <data name="plType.Help">
+    <value xml:space="preserve">Wählen Sie hier den Typ des Steuerelements.</value>
+  </data>
+  <data name="plType.Text">
+    <value xml:space="preserve">Steuerelement-Typ:</value>
+  </data>
+  <data name="Snippet.Text">
+    <value xml:space="preserve">Code-Fragmente</value>
+  </data>
+  <data name="SourceFile.Text">
+    <value xml:space="preserve">Quelldatei - {0}</value>
+  </data>
+  <data name="VB.Text">
+    <value xml:space="preserve">Visual Basic</value>
+  </data>
+  <data name="View.Text">
+    <value xml:space="preserve">anzeigen</value>
+  </data>
+</root>

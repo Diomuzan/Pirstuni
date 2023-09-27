@@ -1,0 +1,522 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="DbInfo_ProductEdition.Help">
+    <value>Die von Ihnen verwendete Ausgabe des Microsoft SQL-Servers</value>
+  </data>
+  <data name="DbInfo_ProductEdition.Text">
+    <value>Produkt-Ausgabe:</value>
+  </data>
+  <data name="DbInfo_ProductVersion.Help">
+    <value>Die Version des Microsoft SQL-Servers</value>
+  </data>
+  <data name="DbInfo_ProductVersion.Text">
+    <value>Datenbank-Version:</value>
+  </data>
+  <data name="DbInfo_ServicePack.Help">
+    <value>Installierte Service-Packs</value>
+  </data>
+  <data name="DbInfo_ServicePack.Text">
+    <value>Service-Pack:</value>
+  </data>
+  <data name="DbInfo_SoftwarePlatform.Help">
+    <value>Ausführliche Beschreibung der installierten SQL-Server Plattform.</value>
+  </data>
+  <data name="DbInfo_SoftwarePlatform.Text">
+    <value>Software-Plattform:</value>
+  </data>
+  <data name="NoBackups.Text">
+    <value>Die Datenbank wurde noch nicht gesichert.</value>
+  </data>
+  <data name="plBackups.Text">
+    <value>Datenbank-Sicherungshistorie:</value>
+  </data>
+  <data name="plFiles.Text">
+    <value>Datenbank-Dateien</value>
+  </data>
+  <data name="HostInfo_CachingProvider.Help">
+    <value>Der Standard-Caching-Provider dieser Website.</value>
+  </data>
+  <data name="HostInfo_CachingProvider.Text">
+    <value>Zwischenspeicher-Dienst:</value>
+  </data>
+  <data name="HostInfo_FriendlyUrlEnabled.Help">
+    <value>Zeigt an, ob lesefreundliche URLs für diese Website aktiviert sind.</value>
+  </data>
+  <data name="HostInfo_FriendlyUrlEnabled.Text">
+    <value> lesefreundliche URLs aktiv:</value>
+  </data>
+  <data name="HostInfo_FriendlyUrlProvider.Help">
+    <value>Der Standard-Provider dieser Website für lesefreundliche URLs.</value>
+  </data>
+  <data name="HostInfo_FriendlyUrlProvider.Text">
+    <value>Provider für lesefreundliche URLs:</value>
+  </data>
+  <data name="HostInfo_FriendlyUrlType.Help">
+    <value>Zeigt den Typ der lesefreundlichen URLs, die für diese Website verwendet werden-</value>
+  </data>
+  <data name="HostInfo_FriendlyUrlType.Text">
+    <value>Typ der lesefreundlichen URLs:</value>
+  </data>
+  <data name="HostInfo_HtmlEditorProvider.Help">
+    <value>Der Standard-HTML-Provider dieser Website.</value>
+  </data>
+  <data name="HostInfo_HtmlEditorProvider.Text">
+    <value>HTML-Editor:</value>
+  </data>
+  <data name="HostInfo_LoggingProvider.Help">
+    <value>Der Standard-Protokoll-Provider dieser Website.</value>
+  </data>
+  <data name="HostInfo_LoggingProvider.Text">
+    <value>Protokoll-Provider:</value>
+  </data>
+  <data name="HostInfo_Permissions.Help">
+    <value>Die Code Access Berechtigungen, die für diese Website verfügbare sind-</value>
+  </data>
+  <data name="HostInfo_Permissions.Text">
+    <value>CAS-Berechtigungen:</value>
+  </data>
+  <data name="HostInfo_SchedulerMode.Help">
+    <value>Stellen Sie hier den Modus des Zeitplandienstes ein:&lt;ul&gt; 
+&lt;li&gt;&lt;strong&gt;Zeitgesteuert&lt;/strong&gt; wird der Dienst automatisch nach der angegebenen Zeit gestartet.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bei Seitenabruf&lt;/strong&gt; startet den Dienst bei jedem Seitenaufruf.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Deaktiviert&lt;/strong&gt; verhindert, dass der Zeitplandienst ausgeführt wird.&lt;/li&gt;&lt;/ul&gt;</value>
+  </data>
+  <data name="HostInfo_SchedulerMode.Text">
+    <value>Zeitplaner-Modus:</value>
+  </data>
+  <data name="HostInfo_WebFarmEnabled.Help">
+    <value>Diese Einstellung legt fest, ob die Seite innerhalb einer Webfarm eingesetzt wird.</value>
+  </data>
+  <data name="HostInfo_WebFarmEnabled.Text">
+    <value>Webfarm aktiviert:</value>
+  </data>
+  <data name="ServerInfo_Framework.Help">
+    <value>Die Version des .Net Framework</value>
+  </data>
+  <data name="ServerInfo_Framework.Text">
+    <value>Version des .NET-Frameworks:</value>
+  </data>
+  <data name="ServerInfo_HostName.Help">
+    <value>Der Name des Host-Rechners</value>
+  </data>
+  <data name="ServerInfo_HostName.Text">
+    <value>System-Name:</value>
+  </data>
+  <data name="ServerInfo_Identity.Help">
+    <value>Das Windows Benutzerkonto, unter dem die Anwendung ausgeführt wird. Dies ist das Konto, das alle Bearbeiten-Rechte für den DNN Installationsordner und alle Unterordner und Dateien benötigt.</value>
+  </data>
+  <data name="ServerInfo_Identity.Text">
+    <value>ASP.Net-Identität:</value>
+  </data>
+  <data name="ServerInfo_IISVersion.Help">
+    <value>Die Version des Internet Information Server (IIS)</value>
+  </data>
+  <data name="ServerInfo_IISVersion.Text">
+    <value>Webserver-Version:</value>
+  </data>
+  <data name="ServerInfo_OSVersion.Help">
+    <value>Die Version des Betriebssystems auf dem Server.</value>
+  </data>
+  <data name="ServerInfo_OSVersion.Text">
+    <value>Betriebssystemversion</value>
+  </data>
+  <data name="ServerInfo_PhysicalPath.Help">
+    <value>Der physikalische Pfad der Website auf dem Server.</value>
+  </data>
+  <data name="ServerInfo_PhysicalPath.Text">
+    <value>Physischer Pfad:</value>
+  </data>
+  <data name="ServerInfo_RelativePath.Help">
+    <value>Der relative Pfad der Anwendung bezüglich der Basis der IIS Website.</value>
+  </data>
+  <data name="ServerInfo_RelativePath.Text">
+    <value>Relativer Pfad:</value>
+  </data>
+  <data name="ServerInfo_ServerTime.Help">
+    <value>Aktuelles Datum und Uhrzeit des Webservers.</value>
+  </data>
+  <data name="ServerInfo_ServerTime.Text">
+    <value>Server-Zeit:</value>
+  </data>
+  <data name="ServerInfo_Url.Help">
+    <value>Bevorzugte Adresse der Website.</value>
+  </data>
+  <data name="ServerInfo_Url.Text">
+    <value>Website-URL:</value>
+  </data>
+  <data name="EmailSentMessage.Text">
+    <value>Die E-Mail wurde erfolgreich verschickt</value>
+  </data>
+  <data name="EmailTest.Text">
+    <value>SMTP-Server-Zugriff testen</value>
+  </data>
+  <data name="plBatch.Help">
+    <value>Anzahl der Nachrichten aus der Warteschlange, die während eines Laufs des Zeitplanjobs verschickt werden.</value>
+  </data>
+  <data name="plBatch.Text">
+    <value>Nachrichten je Lauf:</value>
+  </data>
+  <data name="plConnectionLimit.Help">
+    <value>Maximalzahl der Verbindungen, die zu diesem ServicePoint-Objekt erlaubt sind. Höchstwert ist 2147483647, Standardwert ist 2. </value>
+  </data>
+  <data name="plConnectionLimit.Text">
+    <value>Max. Anzahl Verbindungen:</value>
+  </data>
+  <data name="plDataProvider.Help">
+    <value>Der Name des Daten-Providers, der als 'Default Data Provider' in der Datei 'web.config' angegeben wird.</value>
+  </data>
+  <data name="plDataProvider.Text">
+    <value>Daten-Provider:</value>
+  </data>
+  <data name="plGUID.Help">
+    <value>Der global eindeutige Identifier, der diese Installation identifiziert.</value>
+  </data>
+  <data name="plGUID.Text">
+    <value>GUID:</value>
+  </data>
+  <data name="plMaxIdleTime.Help">
+    <value>Zeitdauer (in Millisekunden), die eine Verbindung mit dem ServicePoint-Objekt unbenutzt sein darf, bevor sie geschlossen und für eine andere Verbindung verwendet werden kann. Höchstwert ist 2147483647, Standardwert ist 100.000 (100 Sekunden).</value>
+  </data>
+  <data name="plMaxIdleTime.Text">
+    <value>Max. Freizeit</value>
+  </data>
+  <data name="plProduct.Help">
+    <value>Sie sehen hier die von Ihnen verwendete Version der Plattform</value>
+  </data>
+  <data name="plProduct.Text">
+    <value>Produkt:</value>
+  </data>
+  <data name="plSMTPAuthentication.Help">
+    <value>Geben Sie die Authentifizierungsmethode des SMTP-Servers an (Standard: anonym).</value>
+  </data>
+  <data name="plSMTPAuthentication.Text">
+    <value>Anmeldung am SMTP-Server:</value>
+  </data>
+  <data name="plSMTPEnableSSL.Help">
+    <value>Verwendet SSL-Verschlüsselung für SMTP-Dienste, die eine sichere Verbindung erfordern.</value>
+  </data>
+  <data name="plSMTPEnableSSL.Text">
+    <value>Anmeldung per SSL:</value>
+  </data>
+  <data name="plSMTPPassword.Help">
+    <value>Geben Sie das Kennwort für den SMTP-Server an.</value>
+  </data>
+  <data name="plSMTPPassword.Text">
+    <value>Kennwort:</value>
+  </data>
+  <data name="plSMTPServer.Help">
+    <value>Geben Sie Adresse des SMTP-Servers an. Sie können auch einen alternativen Port angeben, indem Sie die Port-Nummer durch einen Doppelpunkt getrennt anhängen (e.g. smtp.googlemail.com:587). Ohne Angabe eines Ports wird der Standardport 25 verwendet.</value>
+  </data>
+  <data name="plSMTPServer.Text">
+    <value>Server-Name und Port:</value>
+  </data>
+  <data name="plSMTPUsername.Help">
+    <value>Geben Sie den Benutzernamen für den SMTP-Server an.</value>
+  </data>
+  <data name="plSMTPUsername.Text">
+    <value>Anmeldename:</value>
+  </data>
+  <data name="plVersion.Help">
+    <value>Die von Ihnen verwendete Version der Plattform.</value>
+  </data>
+  <data name="plVersion.Text">
+    <value>Version:</value>
+  </data>
+  <data name="SMTPAnonymous.Text">
+    <value>anonym</value>
+  </data>
+  <data name="SMTPBasic.Text">
+    <value>unverschlüsselt</value>
+  </data>
+  <data name="SMTPNTLM.Text">
+    <value>NTLM</value>
+  </data>
+  <data name="UserRestart.Text">
+    <value>Der Benutzer hat die Anwendung neu gestartet.</value>
+  </data>
+  <data name="BackupFinished.Text">
+    <value>abgeschlossen</value>
+  </data>
+  <data name="BackupName.Text">
+    <value> Backup-Name</value>
+  </data>
+  <data name="BackupSize.Text">
+    <value>Größe (KB)</value>
+  </data>
+  <data name="BackupStarted.Text">
+    <value>gestartet</value>
+  </data>
+  <data name="BackupType.Text">
+    <value>Backup-Typ</value>
+  </data>
+  <data name="clearCacheButtonLabel.Text">
+    <value>Cache leeren</value>
+  </data>
+  <data name="errorMessageClearingCache.Text">
+    <value>Fehler beim Leeren des Caches</value>
+  </data>
+  <data name="errorMessageIncrementingVersion.Text">
+    <value>Fehler beim Hochsetzen der Versionsnummer.</value>
+  </data>
+  <data name="errorMessageLoadingApplicationTab.Text">
+    <value>Fehler beim Laden des Reiters Anwendung</value>
+  </data>
+  <data name="errorMessageLoadingDatabaseTab.Text">
+    <value>Fehler beim Laden des Reiters Datenbank</value>
+  </data>
+  <data name="errorMessageLoadingLog.Text">
+    <value>Fehler beim Laden des protokolls</value>
+  </data>
+  <data name="errorMessageLoadingLogsTab.Text">
+    <value>Fehler beim Laden des Reiters Protokolle</value>
+  </data>
+  <data name="errorMessageLoadingPerformanceTab.Text">
+    <value>Fehler beim Laden des Reiters Performance</value>
+  </data>
+  <data name="errorMessageLoadingSmtpServerTab.Text">
+    <value>Fehler beim Laden des Reiters SMTP-Server</value>
+  </data>
+  <data name="errorMessageLoadingWebTab.Text">
+    <value>Fehler beim Laden des Reiters Web-Server</value>
+  </data>
+  <data name="errorMessageRestartingApplication.Text">
+    <value>Fehler beim Neustart der Anwendung</value>
+  </data>
+  <data name="errorMessageSavingPerformanceSettingsTab.Text">
+    <value>Fehler beim Speichern der Performance-Einstellungen</value>
+  </data>
+  <data name="errorMessageSendingTestEmail.Text">
+    <value>Die Test-E-Mail konnte wegen eines Fehlers nicht verschickt werden</value>
+  </data>
+  <data name="errorMessageUpdatingSmtpServerTab.Text">
+    <value>Fehler beim Speichern der Einstellungen des SMTP-Servers</value>
+  </data>
+  <data name="FileName.Text">
+    <value>Dateiname</value>
+  </data>
+  <data name="FileType.Text">
+    <value>Dateityp</value>
+  </data>
+  <data name="GlobalSettings.Text">
+    <value>Dies sind globale Einstellungen, Änderungen betreffen alle Websites der Installation</value>
+  </data>
+  <data name="GlobalSmtpHostSetting.Text">
+    <value>System</value>
+  </data>
+  <data name="infoMessageClearingCache.Text">
+    <value>Cache wird gelöscht</value>
+  </data>
+  <data name="infoMessageRestartingApplication.Text">
+    <value>Anwendung wird neu gestartet</value>
+  </data>
+  <data name="Logs_LogFiles.Text">
+    <value>Protokolldateien:</value>
+  </data>
+  <data name="Logs_LogFilesDefaultOption.Text">
+    <value>Bitte wählen Sie die anzuzeigende Protokolldatei.</value>
+  </data>
+  <data name="Logs_LogFilesTooltip.Text">
+    <value>Liste der verfügbaren Protokolldateien.</value>
+  </data>
+  <data name="Name.Text">
+    <value>Name</value>
+  </data>
+  <data name="nav_Servers.Text">
+    <value>Server</value>
+  </data>
+  <data name="NoIntegerValueError.Text">
+    <value>Bitte geben Sie eine positive ganze Zahl ein.</value>
+  </data>
+  <data name="PerformanceTab_AjaxWarning.Text">
+    <value>Warnung: Wenn Sie den Seitenzustand im Hauptspeicher vorhalten, kann dies zu AJAX-Fehlern führen.</value>
+  </data>
+  <data name="PerformanceTab_AuthCacheability.Help">
+    <value>Legen Sie hier den Wert für Cache-Control im HTTP-Header für angemeldete Benutzer fest.</value>
+  </data>
+  <data name="PerformanceTab_AuthCacheability.Text">
+    <value>Zwischenspeicher für angemeldete Benutzer</value>
+  </data>
+  <data name="PerformanceTab_CacheSetting.Help">
+    <value>Legen Sie hier fest, wie die Performance eingestellt werden soll.</value>
+  </data>
+  <data name="PerformanceTab_CacheSetting.Text">
+    <value>Cache-Einstellung</value>
+  </data>
+  <data name="PerformanceTab_CachingProvider.Help">
+    <value>Cache-Provider</value>
+  </data>
+  <data name="PerformanceTab_CachingProvider.Text">
+    <value>Cache-Provider</value>
+  </data>
+  <data name="PerformanceTab_ClientResourceManagementInfo.Text">
+    <value>Auf Systemebene wird die Standardeinstellung für die Client-Ressourcenverwaltung festgelegt, sie können diese aber hier für die aktuelle Website übersteuern.  Systemweit sind die Einstellungen wie folgt:</value>
+  </data>
+  <data name="PerformanceTab_ClientResourceManagementTitle.Text">
+    <value>Client-Ressourcenverwaltung</value>
+  </data>
+  <data name="PerformanceTab_ClientResourcesManagementMode.Help">
+    <value>Im System-Modus werden die Einstellungen für die Client-Ressourcenverwaltung von den Vorgaben des Systembetreuers übernommen, die Sie im Website-Modus für die aktuelle Website individuell übersteuern können.</value>
+  </data>
+  <data name="PerformanceTab_ClientResourcesManagementMode.Text">
+    <value>Modus der Client-Ressourcenverwaltung</value>
+  </data>
+  <data name="PerformanceTab_CurrentHostVersion.Text">
+    <value>Aktuelle CRM-Version (System):</value>
+  </data>
+  <data name="PerformanceTab_CurrentPortalVersion.Text">
+    <value>Aktuelle CRM-Version (Website):</value>
+  </data>
+  <data name="PerformanceTab_EnableCompositeFiles.Help">
+    <value>kombinierte Dateien sind Zusammenstellungen von Ressourcen (JavaScript bzw. CSS) in jeweils einer Datei, um die Zahl der an den Browser zu übertragenden Dateien und damit die Ladezeit der Seite zu reduzieren.</value>
+  </data>
+  <data name="PerformanceTab_EnableCompositeFiles.Text">
+    <value>Dateien kombinieren</value>
+  </data>
+  <data name="PerformanceTab_GlobalClientResourcesManagementMode.Text">
+    <value>System</value>
+  </data>
+  <data name="PerformanceTab_Heavy.Text">
+    <value>Stark</value>
+  </data>
+  <data name="PerformanceTab_IncrementVersion.Text">
+    <value>Version heraufsetzen</value>
+  </data>
+  <data name="PerformanceTab_Light.Text">
+    <value>gering</value>
+  </data>
+  <data name="PerformanceTab_Memory.Text">
+    <value>Hauptspeicher</value>
+  </data>
+  <data name="PerformanceTab_MinifactionWarning.Text">
+    <value>Wichtiger Hinweis zur Dateiminimierung.&lt;br/&gt;
+Wenn Sie die Minimierungs-Einstellungen ändern, während kombinierte Dateien aktiv sind, müssen Sie zuerst die Minimierungseinstellungen speichern und dann die Versionsnummer heraufsetzen, so dass neue kombinierte Dateien verwendet werden.</value>
+  </data>
+  <data name="PerformanceTab_MinifyCss.Help">
+    <value>CSS-Minimierung reduziert die Größe des CSS-Codes durch Verwenden regulärer Ausdrücke zum entfernen von Kommentaren, Leerzeichen und "totem css". Dies ist nur verfügbar, wenn kombinierte Dateien aktiv sind.</value>
+  </data>
+  <data name="PerformanceTab_MinifyCss.Text">
+    <value>CSS minimieren</value>
+  </data>
+  <data name="PerformanceTab_MinifyJs.Help">
+    <value>JS-Minimierung reduziert die Größe des JavaScript-Codes durch Verwenden von JSMin. Dies ist nur verfügbar, wenn kombinierte Dateien aktiv sind.</value>
+  </data>
+  <data name="PerformanceTab_MinifyJs.Text">
+    <value>JS minimieren</value>
+  </data>
+  <data name="PerformanceTab_Moderate.Text">
+    <value>mittelmäßig</value>
+  </data>
+  <data name="PerformanceTab_ModuleCacheProviders.Help">
+    <value>Wählen Sie den Standard-Provider für das Caching von Modulinhalten. Diese Vorgabe kann in den Einstellungen jedes Moduls übersteuert werden.</value>
+  </data>
+  <data name="PerformanceTab_ModuleCacheProviders.Text">
+    <value>Cache-Provider für Module</value>
+  </data>
+  <data name="PerformanceTab_None.Text">
+    <value>keine</value>
+  </data>
+  <data name="PerformanceTab_Page.Text">
+    <value>Seite</value>
+  </data>
+  <data name="PerformanceTab_PageCacheProviders.Help">
+    <value>Legen Sie den Standardprovider für das Caching ganzer Seiteninhalte fest. Das Caching wird in den Einstellungen jeder Seite durch Angabe der Cache-Dauer aktiviert und gesteuert.</value>
+  </data>
+  <data name="PerformanceTab_PageCacheProviders.Text">
+    <value>Seitenausgabe-Cache</value>
+  </data>
+  <data name="PerformanceTab_PageStatePersistenceMode.Help">
+    <value>Wählen Sie das Verfahren zum Speichern des Seitenstatus. Dies kann entweder in einem versteckten Feld auf der Seite selbst sein (Standardwert) oder auf dem Server zwischengespeichert werden.</value>
+  </data>
+  <data name="PerformanceTab_PageStatePersistenceMode.Text">
+    <value>Vorhalten des Seitenstatus:</value>
+  </data>
+  <data name="PerformanceTab_PortalVersionConfirmMessage.Text">
+    <value>Diese Aktion zwingt alle Besucher, neue Versionen der kombinierten CSS- und JavaScript-Dateien herunterzuladen. Sie sollten dies nur vornehmen, wenn sich eine der Dateien geändert hat und diese Änderung von den Browsern der Besucher übernommen werden soll.
+
+Sind Sie sicher, dass Sie die Versionsnummer für Ihre Website erhöhen wollen?</value>
+  </data>
+  <data name="PerformanceTab_PortalVersionConfirmNo.Text">
+    <value>nein</value>
+  </data>
+  <data name="PerformanceTab_PortalVersionConfirmYes.Text">
+    <value>ja</value>
+  </data>
+  <data name="PerformanceTab_SiteClientResourcesManagementMode.Text">
+    <value>Diese Website {0}</value>
+  </data>
+  <data name="PerformanceTab_SslForCacheSyncrhonization.Help">
+    <value>Standardmäßig erfolgt die Cache-Synchronisierung über HTTP. Aktivieren Sie diese Option, um stattdessen HTTPS (SSL) zu verwenden.</value>
+  </data>
+  <data name="PerformanceTab_SslForCacheSyncrhonization.Text">
+    <value>Cache-Synchronisierung über SSL</value>
+  </data>
+  <data name="PerformanceTab_UnauthCacheability.Help">
+    <value>Legen Sie hier den Wert für "Cache-Control" im HTTP-Header für nicht angemeldete Besucher fest.</value>
+  </data>
+  <data name="PerformanceTab_UnauthCacheability.Text">
+    <value>Cache für nicht angemeldete Benutzer</value>
+  </data>
+  <data name="plSMTPMode.Help">
+    <value>Der System-Modus verwendet die systemweiten SMTP-Einstellungen, alternativ können Sie für die aktuelle Website individuelle Einstellungen verwenden.</value>
+  </data>
+  <data name="plSMTPMode.Text">
+    <value>SMTP-Server-Einstellungen:</value>
+  </data>
+  <data name="restartApplicationButtonLabel.Text">
+    <value>Anwendung neu starten</value>
+  </data>
+  <data name="SaveButtonText.Text">
+    <value>speichern</value>
+  </data>
+  <data name="SaveConfirmationMessage.Text">
+    <value>erfolgreich gespeichert</value>
+  </data>
+  <data name="Servers.Text">
+    <value>Server</value>
+  </data>
+  <data name="SiteSmtpHostSetting.Text">
+    <value>{0}</value>
+  </data>
+  <data name="Size.Text">
+    <value>Größe</value>
+  </data>
+  <data name="tabApplicationTitle.Text">
+    <value>Anwendung</value>
+  </data>
+  <data name="tabDatabaseTitle.Text">
+    <value>Datenbank</value>
+  </data>
+  <data name="tabLogsTitle.Text">
+    <value>Protokolle</value>
+  </data>
+  <data name="tabPerformanceTitle.Text">
+    <value>Performance</value>
+  </data>
+  <data name="tabServerSettingsTitle.Text">
+    <value>Server-Einstellungen</value>
+  </data>
+  <data name="tabSmtpServerTitle.Text">
+    <value>SMTP-Server</value>
+  </data>
+  <data name="tabSystemInfoTitle.Text">
+    <value>System-Info</value>
+  </data>
+  <data name="tabWebTitle.Text">
+    <value>Web-Server</value>
+  </data>
+  <data name="VersionIncrementedConfirmation.Text">
+    <value>Die Version wurde erfolgreich heraufgesetzt.</value>
+  </data>
+</root>

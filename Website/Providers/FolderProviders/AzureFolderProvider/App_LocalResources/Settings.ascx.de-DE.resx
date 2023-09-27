@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AccessDenied.ErrorMessage">
+    <value xml:space="preserve">Zugriff verweigert</value>
+  </data>
+  <data name="AccountNotFound.ErrorMessage">
+    <value xml:space="preserve">Das angegebene Konto existiert nicht.</value>
+  </data>
+  <data name="AuthenticationFailure.ErrorMessage">
+    <value xml:space="preserve">Bei der Anmeldung ist ein Fehler aufgetreten.</value>
+  </data>
+  <data name="CredentialsRequired.ErrorMessage">
+    <value xml:space="preserve">Bitte geben Sie Ihre Anmeldedaten an, bevor Sie die Behälterliste aktualisieren.</value>
+  </data>
+  <data name="ListContainers.ErrorMessage">
+    <value xml:space="preserve">Beim Abruf der Liste der Modulrahmen ist ein Fehler aufgetreten.</value>
+  </data>
+  <data name="MultipleFolderMappingsWithSameSettings.ErrorMessage">
+    <value xml:space="preserve">Es gibt eine andere Verzeichnisabbildung, die dasselbe Konto und denselben Container verwendet. Bitte ändern Sie das Konto oder den Container.</value>
+  </data>
+  <data name="NewContainer.ErrorMessage">
+    <value xml:space="preserve">Beim Erstellen des Modulrahmens ist eine Fehler aufgetreten.</value>
+  </data>
+  <data name="NewContainer.Text">
+    <value xml:space="preserve">neuer Modulrahmen</value>
+  </data>
+  <data name="plAccountKey.Help">
+    <value xml:space="preserve">Geben Sie den Zugriffsschlüssels (Account Key) an. Sie können entweder den primären oder sekundären Azure Account Key verwenden.</value>
+  </data>
+  <data name="plAccountKey.Text">
+    <value xml:space="preserve">Kontoschlüssel</value>
+  </data>
+  <data name="plAccountName.Help">
+    <value xml:space="preserve">Geben Sie den Benutzernamen an</value>
+  </data>
+  <data name="plAccountName.Text">
+    <value xml:space="preserve">Benutzername</value>
+  </data>
+  <data name="plContainerName.Help">
+    <value xml:space="preserve">Wählen Sie einen Container-Namen oder geben Sie einen neuen ein.</value>
+  </data>
+  <data name="plContainerName.Text">
+    <value xml:space="preserve">Name des Modulrahmens</value>
+  </data>
+  <data name="plDirectLink.Help">
+    <value xml:space="preserve">Aktivieren Sie diese Option, damit der Pfad für Dateien in diesem Ordner auf den realen Pfad zeigt, andernfalls wird LinkClick verwendet.</value>
+  </data>
+  <data name="plDirectLink.Text">
+    <value xml:space="preserve">Direkten Link verwenden</value>
+  </data>
+  <data name="plUseHttps.Help">
+    <value xml:space="preserve">Aktivieren Siediese Option, wenn Sie die Standard HTTPS-Endpunkte verwenden wollen.</value>
+  </data>
+  <data name="plUseHttps.Text">
+    <value xml:space="preserve">HTTPS-Endpunkte verwenden</value>
+  </data>
+  <data name="RefreshContainerList.Text">
+    <value xml:space="preserve">&lt;aktualisieren&gt;</value>
+  </data>
+  <data name="SelectContainer.Text">
+    <value xml:space="preserve">&lt;wählen Sie einen Modulrahmen&gt;</value>
+  </data>
+  <data name="SelectExistingContainer.Text">
+    <value xml:space="preserve">Existierenden Container wählen</value>
+  </data>
+  <data name="valAccountKey.ErrorMessage">
+    <value xml:space="preserve">Sie müssen einen Kontoschlüssel eingeben</value>
+  </data>
+  <data name="valAccountName.ErrorMessage">
+    <value xml:space="preserve">Sie müssen einen Benutzernamen angeben</value>
+  </data>
+  <data name="valContainerName.ErrorMessage">
+    <value xml:space="preserve">Sie müssen den Namen des Modulrahmens angeben</value>
+  </data>
+  <data name="plCustomDomain.Help">
+    <value>Geben Sie hier dieselbe individuelle Domäne an, die Sie zuvor im Azure Storage Konto verwendet haben.</value>
+  </data>
+  <data name="plCustomDomain.Text">
+    <value>Individuelle Domäne</value>
+  </data>
+  <data name="tbCustomDomain.Error">
+    <value>Die individuelle Domäne muss ein gültiger DNS-Name sein.</value>
+  </data>
+  <data name="tbCustomDomain.Help">
+    <value>Geben Sie hier dieselbe individuelle Domäne an, die Sie zuvor im Azure Storage Konto verwendet haben.</value>
+  </data>
+</root>

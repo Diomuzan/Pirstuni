@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="nav_Licensing.Text">
+    <value>Über</value>
+  </data>
+  <data name="NoLicense.Header">
+    <value>Sie verfügen bisher über keine Lizenz.</value>
+  </data>
+  <data name="NoLicense.Text">
+    <value>Wechseln Sie auf EVOQ, um dessen professionelle Features für Ihre Website zu nutzen.</value>
+  </data>
+  <data name="LicenseType.Header">
+    <value>Lizenztyp</value>
+  </data>
+  <data name="InvoiceNumber.Header">
+    <value>Rechnungsnr.</value>
+  </data>
+  <data name="WebServer.Header">
+    <value>Web-Server</value>
+  </data>
+  <data name="Activated.Header">
+    <value>aktiviert</value>
+  </data>
+  <data name="Expires.Header">
+    <value>läuft ab am</value>
+  </data>
+  <data name="CheckOutEvoq.Header">
+    <value>Evoq ausprobieren</value>
+  </data>
+  <data name="CheckOutEvoq">
+    <value>Evoq umfasst einen Satz von Funktionen, das Ihr gesamtes Team mögen und lieben wird. Organisationen rund um den Erdball verlassen sich auf Evoq, um kraftvolle Weberfahrungen auszuliefern.</value>
+  </data>
+  <data name="UpgradeToEvoq.Header">
+    <value>Update</value>
+  </data>
+  <data name="UpgradeToEvoq">
+    <value>Sind Sie bereit, Ihre Web-Präsenz auf den nächsten Level zu heben? Starten Sie eine kostenlose Demo von Evoq oder vereinbaren Sie eine Demo für Ihr Team.</value>
+  </data>
+  <data name="DocumentCenter.Header">
+    <value>Dokumentenzentrum</value>
+  </data>
+  <data name="DocumentCenter">
+    <value>Unabhängig von Ihren Fragen, ist das neue "Dokumentenzentrum" von Evoq der Weg, um Antworten, Kurse und Produkthilfe zu erhalten.</value>
+  </data>
+  <data name="LicenseType.Development">
+    <value>Entwicklung</value>
+  </data>
+  <data name="LicenseType.Production">
+    <value>Produktiv</value>
+  </data>
+  <data name="LicenseType.Failover">
+    <value>Failover</value>
+  </data>
+  <data name="LicenseType.Staging">
+    <value>Staging</value>
+  </data>
+  <data name="LicenseType.Test">
+    <value>Test</value>
+  </data>
+  <data name="Error.Unknown.Activation">
+    <value>Ihre Anfrage konnte nicht ausgeführt werden. Bitte versuchen Sie es später erneut oder aktivieren Sie die manuelle aktivierung.</value>
+  </data>
+  <data name="Error.LicenseAlreadyExists">
+    <value>Die Aktivierung der Lizenz ist fehlgeschlagen, da der Server {0} bereits über eine  {1} Lizenz verfügt.</value>
+  </data>
+  <data name="Error.ContactServer.activate">
+    <value>Die Lizenz konnte nicht aktiviert werden, da keine Verbindung zum Lizenzserver hergestellt werden kann. Connection to license server failed. Bitte versuchen Sie es erneut, verwenden Sie die manuelle Aktivierung oder wenden Sie sich an die technische Unterstützung.</value>
+  </data>
+  <data name="Error.ContactServer.canrenew">
+    <value>Es konnte keine Verbindung zum Lizenzserver hergestellt werden, daher können Sie keine Lizenzen automatisch aktivieren oder verlängern. Sie können Ihre Lizenzen aber manuell aktivieren.&lt;br /&gt;&lt;br /&gt;Um Lizenzen zu erneuern, wenden Sie sich bitte an &lt;a href="mailto:customercare@dnnsoftware.com"&gt;customercare@dnnsoftware.com&lt;/a&gt;.</value>
+  </data>
+  <data name="Error.ContactServer.deactivate">
+    <value>Ihre Lizenz wurde gelöscht.&lt;br /&gt;&lt;br /&gt;
+Die Aktivierung konnte nicht erfolgen, da keine Verbindung zum Lizenzserver möglich war. Bitte wenden Sie sich an den technischen Support, um Ihre Lizenz  zu aktivieren.</value>
+  </data>
+  <data name="Error.ContactServer.renew">
+    <value>Ihre Lizenz konnte nicht erneuert werden, da keine Verbindung zum Lizenzserver möglich war. Bitte wenden Sie sich an &lt;a href="mailto:customercare@dnnsoftware.com"&gt;customercare@dnnsoftware.com&lt;/a&gt;.</value>
+  </data>
+  <data name="Error.ACT1.Text">
+    <value>Die Lizenz konnte nicht aktiviert werden, da die angegebenen Daten zu keiner gültigen Lizenz gehören.&lt;br /&gt;&lt;br /&gt;Bitte prüfen Sie die Lizenzdetails auf &lt;a href="{0}" target="_blank"&gt;Ihrer Lizenzseite auf  dnnsoftware.com&lt;/a&gt; und versuchen Sie es erneut. Falls Sie weitere Schwierigkeiten haben, wenden Sie sich bitte an den technischen Support.</value>
+  </data>
+  <data name="Error.ACT2.Text">
+    <value>Die Aktivierung der Lizenz ist fehlgeschlagen. Es wird die Aktivierung für {0} verwendet.</value>
+  </data>
+  <data name="Error.ACT3.Text">
+    <value>Sie haben die Aktivierungsbegrenzungen von dieser Zugriffsadresse überschritten.</value>
+  </data>
+  <data name="Error.ACT4.Text">
+    <value>Die Aktivierung der Lizenz ist fehlgeschlagen. Es wird die Aktivierung für {0} verwendet.</value>
+  </data>
+  <data name="Error.ACT6.Text">
+    <value>Die Aktivierung der Lizenz ist fehlgeschlagen. Ihr Service-Zeitraum ist am {0:d} abgelaufen. Bitte wenden Sie sich an &lt;a href="mailto:customercare@dnnsoftware.com"&gt;customercare@dnnsoftware.com&lt;/a&gt;.</value>
+  </data>
+  <data name="Error.DEA1.Text">
+    <value>Die Lizenz konnte nicht gelöscht werden, da sie nicht mehr vorhanden ist</value>
+  </data>
+  <data name="WebLicenseList.url">
+    <value>http://www.dnnsoftware.com/Support/Success-Network/License-Management</value>
+  </data>
+  <data name="Error.Unknown">
+    <value>Ihre Anfrage konnte nicht bearbeitet werden, bitte versuchen Sie es später erneut.</value>
+  </data>
+  <data name="Error.ExpiredLicense">
+    <value>Die Aktivierung Ihrer Lizenz ist fehlgeschlagen, da diese am {0:d} abgelaufen ist. Bitte überprüfen Sie Ihre Lizenzen auf  &lt;a href="{1}" target="_blank"&gt;Lizenzseite auf dnnsoftware.com&lt;/a&gt;. Melden Sie sich mit dem Konto an, mit dem Sie das Produkt erworben haben.</value>
+  </data>
+  <data name="Success.DevLicenseActivated">
+    <value>Ihre Entwicklungs-Lizenz wurde aktiviert.</value>
+  </data>
+  <data name="Success.FailoverLicenseActivated">
+    <value>Ihre Failover-Lizenz wurde aktiviert.</value>
+  </data>
+  <data name="Success.LicenseActivated">
+    <value>Ihre Produktiv-Lizenz wurde aktiviert.</value>
+  </data>
+  <data name="Success.LicenseDeactivated">
+    <value>Ihre Lizenz wurde gelöscht.</value>
+  </data>
+  <data name="Success.LicenseDeactivatedContactServerErr">
+    <value>Ihre Lizenz wurde gelöscht.&lt;br /&gt;&lt;br /&gt;Die Lizenz konnte nicht aktiviert werden, da keine Verbindung zum Lizenzserver hergestellt werden konnte. Bitte wenden Sie sich an den technischen Support.</value>
+  </data>
+  <data name="Success.LicenseDeactivatedNoActivationIncrease">
+    <value>Ihre Lizenz wurde gelöscht.&lt;br /&gt;&lt;br /&gt;Die Aktivierung konnte nicht zu Ihrer Rechnung zugeordnet werden. Falls Sie diese als Produktiv-Lizenz verwenden möchten, wenden Sie sich bitte an den technischen Support.</value>
+  </data>
+  <data name="Success.LicenseRenewed">
+    <value>Ihre Lizenz wurde erneuert.</value>
+  </data>
+  <data name="Success.StagingLicenseActivated">
+    <value>Ihre Staging-Lizenz wurde aktiviert.</value>
+  </data>
+  <data name="Success.TestLicenseActivated">
+    <value>Ihre Testlizenz wurde aktiviert.</value>
+  </data>
+  <data name="Success.TrialActivation">
+    <value>Ihre Testlizenz wurde verlängert.</value>
+  </data>
+  <data name="Success.TrialExtensionRequest">
+    <value>Ihre Anfrage zur Verlängerung der Testlizenz wurde übermittelt. Sie sollten im Laufe eines Arbeitstages eine E-Mail erhalten, in der die Anleitung für die Verlängerung enthalten ist. Wenn Sie Fragen zu Ihrer Testlizenz habe, wenden Sie sich bitte an DNN Corp. Sales Dept. (Telefon +1 - 650 - 288-3150.</value>
+  </data>
+</root>

@@ -1,0 +1,1055 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ContainsDuplicateAddresses.Text">
+    <value>Unter den Benutzerkonten dieser Website befinden sich mehrere mit gleicher E-Mail-Adresse. Wenn Sie die E-Mail-Adresse zum Anmelden verwenden möchten, müssen Sie die Duplikate löschen oder mit eindeutigen E-Mail-Adressen versehen.</value>
+  </data>
+  <data name="Custom.Text">
+    <value>individuell</value>
+  </data>
+  <data name="DefaultAuthProvider.Help">
+    <value>Sie können einen Standard-Authentisierungsdienst für die Anmeldung auswählen, dieser muss Formularauthentifizierung unterstützen.</value>
+  </data>
+  <data name="DefaultAuthProvider.Text">
+    <value>Standard-Authentisierungsdienst</value>
+  </data>
+  <data name="HostSettings.Text">
+    <value>System-Einstellungen</value>
+  </data>
+  <data name="MaxInvalidPasswordAttemptsTitle.Help">
+    <value>Sie sehen hier, wie oft das Kennwort falsch eingegeben kann, bis das Konto gesperrt wird. Der Wert wird in der Datei web.config festgelegt und betrifft nicht die Systemverwalter.</value>
+  </data>
+  <data name="MaxInvalidPasswordAttemptsTitle.Text">
+    <value>Maximale Anmeldeversuche:</value>
+  </data>
+  <data name="MinNonAlphanumericCharactersTitle.Help">
+    <value>Sie sehen hier, wie viele nicht-alphanumerische Zeichen im Kennwort enthalten sein müssen. Der Wert kann in der Datei web.config festgelegt werden.</value>
+  </data>
+  <data name="MinNonAlphanumericCharactersTitle.Text">
+    <value>Mindestanzahl Sonderzeichen:</value>
+  </data>
+  <data name="MinPasswordLengthTitle.Help">
+    <value>Sie sehen hier die Mindestanzahl an Zeichen, die ein Kennwort umfassen muss.</value>
+  </data>
+  <data name="MinPasswordLengthTitle.Text">
+    <value>Kennwort-Mindestlänge:</value>
+  </data>
+  <data name="NoDisplayName.Text">
+    <value>Sie haben die Einstellung "Eindeutige Anzeigenamen" verwendet, aber den Anzeigenamen nicht in die Liste der Registrierungsfelder aufgenommen.</value>
+  </data>
+  <data name="NoEmail.Text">
+    <value>Sie müssen mindestens das Feld "E-Mail" auswählen.</value>
+  </data>
+  <data name="None.Text">
+    <value>kein</value>
+  </data>
+  <data name="PasswordAttemptWindowTitle.Help">
+    <value>Sie sehen hier, während welcher Zeitdauer die Fehlangaben gezählt werden. Der Wert kann in der Datei web.config festgelegt werden.</value>
+  </data>
+  <data name="PasswordAttemptWindowTitle.Text">
+    <value>Kennwort-Zeitfenster:</value>
+  </data>
+  <data name="PasswordFormat.Help">
+    <value>Formatvorgabe für das Kennwort</value>
+  </data>
+  <data name="PasswordFormat.Text">
+    <value>Kennwortformat:</value>
+  </data>
+  <data name="PasswordResetEnabledTitle.Help">
+    <value>Sie sehen hier, ob ein Benutzer sein Kennwort zurücksetzen lassen kann.  Der Wert kann in der Datei web.config festgelegt werden.</value>
+  </data>
+  <data name="PasswordResetEnabledTitle.Text">
+    <value>Kennwort rücksetzbar:</value>
+  </data>
+  <data name="PasswordRetrievalEnabled.Help">
+    <value>Kann der Benutzer sein Kennwort erfragen.</value>
+  </data>
+  <data name="PasswordRetrievalEnabled.Text">
+    <value>Kennwort erfragbar:</value>
+  </data>
+  <data name="PasswordStrengthRegularExpressionTitle.Help">
+    <value>Eingegebene Kennwörter werden gegen diesen regulären Ausdruck validiert, um eine zusätzliche Sicherheit zu gewährleisten. Der Wert kann nur direkt in der Datei web.config durch Bearbeiten/Hinzufügen des Eintrags passwordStrengthRegularExpression im Abschnitt AspNetSqlMembershipProvider geändert werden.
+Hinweis: diese Server-seitige Validierung unterscheidet sich von der in Version 7.1.0 hinzugefügten Anzeige der Kennwortsicherheit, da dieser Ausdruck eine sichere Prüfung neuer Kennworte durchführt.</value>
+  </data>
+  <data name="PasswordStrengthRegularExpressionTitle.Text">
+    <value>Prüfung der Kennwortkomplexität:</value>
+  </data>
+  <data name="plAdministrator.Help">
+    <value>Der Verwalter dieser Website.</value>
+  </data>
+  <data name="plAdministrator.Text">
+    <value>Website-Verwalter:</value>
+  </data>
+  <data name="plEnableBannedList.Help">
+    <value>Legt fest, ob Kennworte gegen eine Liste verbotener Wörter geprüft werden sollen.</value>
+  </data>
+  <data name="plEnableBannedList.Text">
+    <value>Auf verbotene Kennworte prüfen:</value>
+  </data>
+  <data name="plEnableIPChecking.Help">
+    <value>Legt fest, ob die IP-Adresse während der Anmeldung geprüft werden soll.</value>
+  </data>
+  <data name="plEnableIPChecking.Text">
+    <value>Anmeldung von IP-Adressen</value>
+  </data>
+  <data name="plEnableRegisterNotification.Help">
+    <value>Aktivieren Sie diese Option, wenn der Administrator eine E-Mail erhalten soll, sobald sich ein neuer Benutzer registriert.</value>
+  </data>
+  <data name="plEnableRegisterNotification.Text">
+    <value>Admin bei Neuanmeldungen benachrichtigen:</value>
+  </data>
+  <data name="plHideLoginControl.Help">
+    <value>Aktivieren Sie diese Option, um den Link zur Anmeldung an der Website zu deaktivieren.</value>
+  </data>
+  <data name="plHideLoginControl.Text">
+    <value>Anmeldelink verstecken?</value>
+  </data>
+  <data name="plSSLEnabled.Help">
+    <value>Geben Sie an, ob ein SSL-Zertifikat  für diese Website installiert ist.</value>
+  </data>
+  <data name="plSSLEnabled.Text">
+    <value>SSL aktiviert:</value>
+  </data>
+  <data name="plSSLEnforced.Help">
+    <value>Wenn diese Option aktiv ist, sind Seiten nicht per HTTPS erreichbar, die nicht als "SSL gesichert" markiert sind.</value>
+  </data>
+  <data name="plSSLEnforced.Text">
+    <value>SSL erforderlich:</value>
+  </data>
+  <data name="plSSLURL.Help">
+    <value>Sie können hier eine URL angegeben, die zum Aufbau sicherer Verbindungen zu dieser Website verwendet werden soll. Dies ist nur notwendig, wenn Sie kein SSL-Zertifikat für den Standard-Alias Ihrer Website installiert haben. Ein Beispiel wäre eine gemeinsam genutzte Website, in dem der Hosting Provider eine gemeinsame SSL-URL bereithält.</value>
+  </data>
+  <data name="plSSLURL.Text">
+    <value>SSL-URL:</value>
+  </data>
+  <data name="plSTDURL.Help">
+    <value>Falls zuvor eine SSL-URL angegeben wurde, müssen Sie auch eine Standard-URL für unsichere Verbindungen angeben.</value>
+  </data>
+  <data name="plSTDURL.Text">
+    <value>Standard-URL:</value>
+  </data>
+  <data name="plUserRegistration.Help">
+    <value>Wählen Sie den Typ der Benutzerregistrierung für diese Website. Private Registrierung erfordert die manuelle Freischaltung durch einen Administrator. Bei öffentlicher Registrierung ist der Benutzer ohne Prüfung sofort freigeschaltet, bei verifizierter Registrierung muss er durch Anklicken eines Links in der Verifizierungs-Email seine E-Mail-Adresse bestätigen.</value>
+  </data>
+  <data name="plUserRegistration.Text">
+    <value>Benutzerregistrierung:</value>
+  </data>
+  <data name="Private.Text">
+    <value>privat</value>
+  </data>
+  <data name="Public.Text">
+    <value>öffentlich</value>
+  </data>
+  <data name="Redirect_AfterLogin.Help">
+    <value>Sie können eine Seite für die Weiterleitung nach erfolgreicher Anmeldung angeben.</value>
+  </data>
+  <data name="Redirect_AfterLogin.Text">
+    <value>Weiterleitung nach Anmeldung:</value>
+  </data>
+  <data name="Redirect_AfterLogout.Help">
+    <value>Sie können eine Seite für die Weiterleitung nach erfolgreicher Abmeldung angeben.</value>
+  </data>
+  <data name="Redirect_AfterLogout.Text">
+    <value>Weiterleitung nach Abmeldung:</value>
+  </data>
+  <data name="Redirect_AfterRegistration.Help">
+    <value>Sie können eine Seite für die Weiterleitung nach erfolgreicher Registrierung angeben.</value>
+  </data>
+  <data name="Redirect_AfterRegistration.Text">
+    <value>Weiterleitung nach Registrierung:</value>
+  </data>
+  <data name="Registration_ExcludeTerms.Help">
+    <value>Sie können eine Komma-getrennte Liste von Begriffen angeben, die ein Benutzer nicht als Anmelde- oder Anzeigename verwenden darf.</value>
+  </data>
+  <data name="Registration_ExcludeTerms.Text">
+    <value>Begriffe ausschließen:</value>
+  </data>
+  <data name="Registration_RandomPassword.Help">
+    <value>Aktivieren Sie diese Option, um bei der Registrierung ein zufälliges Kennwort automatisch zu generieren, anstatt dem Benutzer hierfür ein Eingabefeld anzuzeigen.</value>
+  </data>
+  <data name="Registration_RandomPassword.Text">
+    <value>Zufallskennwort:</value>
+  </data>
+  <data name="Registration_RequireConfirmPassword.Help">
+    <value>Aktivieren Sie diese Option, um im Registrierungsformular ein Feld für die Kennwortbestätigung anzuzeigen.</value>
+  </data>
+  <data name="Registration_RequireConfirmPassword.Text">
+    <value>Kennwortbestätigung:</value>
+  </data>
+  <data name="Registration_RequireUniqueDisplayName.Help">
+    <value>Sie können festlegen, dass der Anzeigename eindeutig sein muss. Wenn ein Benutzer einen bestehenden Namen verwenden wird, wird ihm ein modifizierter Name vorgeschlagen.</value>
+  </data>
+  <data name="Registration_RequireUniqueDisplayName.Text">
+    <value>Eindeutiger Anzeigename:</value>
+  </data>
+  <data name="Registration_UseAuthProviders.Help">
+    <value>Wählen Sie diese Option, um den Authentisierungsprovider während der Registrierung zu verwenden. Hinweis: nicht alle Provider unterstützen diese Option.</value>
+  </data>
+  <data name="Registration_UseAuthProviders.Text">
+    <value>Authentisierungsprovider:</value>
+  </data>
+  <data name="Registration_UseEmailAsUserName.Help">
+    <value>Aktivieren Sie diese Option, um die E-Mail-Adresse als Benutzername zu verwenden. In diesem Fall wird das Feld Benutzername nicht bei der Registrierung angezeigt.</value>
+  </data>
+  <data name="Registration_UseEmailAsUserName.Text">
+    <value>E-Mail-Adresse als Benutzername:</value>
+  </data>
+  <data name="Registration_UseProfanityFilter.Help">
+    <value>Aktivieren Sie diese Option, um den Schimpfwortfilter für Anmelde- und Anzeigename während der Registrierung zu verwenden.</value>
+  </data>
+  <data name="Registration_UseProfanityFilter.Text">
+    <value>Schimpfwortfilter verwenden:</value>
+  </data>
+  <data name="registrationFieldsLabel.Help">
+    <value>Sie können hier eine kommagetrennte Liste von Feldern angeben, die im Registrierungsformular enthalten sein sollen. Diese Liste übersteuert die anderen Feldeinstellungen. Mögliche Felder sind Username, Email, Password, ConfirmPassword, DisplayName und alle Profileigenschaften (engl. Feldnamen).</value>
+  </data>
+  <data name="registrationFieldsLabel.Text">
+    <value>Registrierungsfelder:</value>
+  </data>
+  <data name="registrationFormTypeLabel.Help">
+    <value>Wählen Sie den gewünschten Typ des Registrierungsformulars.</value>
+  </data>
+  <data name="registrationFormTypeLabel.Text">
+    <value>Typ des Registrierungsformulars:</value>
+  </data>
+  <data name="RequiresQuestionAndAnswerTitle.Help">
+    <value>Sie sehen hier, ob eine geheime Frage und Antwort zur Rücksetzung des Kennworts verwendet werden kann.  Der Wert kann in der Datei web.config festgelegt werden.</value>
+  </data>
+  <data name="RequiresQuestionAndAnswerTitle.Text">
+    <value>Frage und Antwort:</value>
+  </data>
+  <data name="RequiresUniqueEmail.Help">
+    <value>Wenn diese Option aktiv ist, muss jeder Benutzer eine eindeutige E-Mail-Adresse angeben, d.h. er kann nicht mehrere Konten mit der gleichen E-Mail-Adresse erstellen.</value>
+  </data>
+  <data name="RequiresUniqueEmail.Text">
+    <value>Eindeutige E-Mail-Adresse:</value>
+  </data>
+  <data name="Security_CaptchaChangePassword.Help">
+    <value>Aktivieren Sie diese Option, um bei der Änderung des Kennworts ein CAPTCHA abzufragen.</value>
+  </data>
+  <data name="Security_CaptchaChangePassword.Text">
+    <value>CAPTCHA zum Ändern des Kennworts</value>
+  </data>
+  <data name="Security_CaptchaLogin.Help">
+    <value>Geben Sie an, ob bei der Verbindung mit einem Benutzerkonto von OpenId, LiveId, Facebook oder Twitter ein CAPTCHA eingegeben werden muss.</value>
+  </data>
+  <data name="Security_CaptchaLogin.Text">
+    <value>CAPTCHA bei Assoziierung von Konten:</value>
+  </data>
+  <data name="Security_CaptchaRegister.Help">
+    <value>Geben Sie an, ob bei der Registrierung ein CAPTCHA eingegeben werden muss.</value>
+  </data>
+  <data name="Security_CaptchaRegister.Text">
+    <value>CAPTCHA bei Registrierung:</value>
+  </data>
+  <data name="Security_CaptchaRetrivePassword.Help">
+    <value>Geben Sie an, ob bei der Anforderung des Kennworts ein CAPTCHA eingegeben werden muss.</value>
+  </data>
+  <data name="Security_CaptchaRetrivePassword.Text">
+    <value>CAPTCHA bei Kennwort-Anforderung:</value>
+  </data>
+  <data name="Security_DisplayNameFormat.Help">
+    <value>Sie können bei Bedarf den Anzeigenamen der Benutzer automatisch generieren, wobei Sie die Platzhalter [FIRSTNAME] und [LASTNAME] verwenden können. Der Anzeigename kann in diesem Fall nicht individuell geändert werden.</value>
+  </data>
+  <data name="Security_DisplayNameFormat.Text">
+    <value>Format des Anzeigenamens:</value>
+  </data>
+  <data name="Security_EmailValidation.Help">
+    <value>Sie können den angegebenen Validierungsausdruck modifizieren, der verwendet wird, um gültige Formate für E-Mail-Adressen in der Website festzulegen.</value>
+  </data>
+  <data name="Security_EmailValidation.Text">
+    <value>Überprüfung der E-Mail-Adresse:</value>
+  </data>
+  <data name="Security_RequireValidProfile.Help">
+    <value>Sie können bei Bedarf einen Benutzer dazu auffordern, sein Profil während der Registrierung zu vervollständigen.</value>
+  </data>
+  <data name="Security_RequireValidProfile.Text">
+    <value>Gültiges Profil bei Registrierung erforderlich:</value>
+  </data>
+  <data name="Security_RequireValidProfileAtLogin.Help">
+    <value>Sie können bei Bedarf einen Benutzer mit unvollständigem Profil dazu auffordern, sein Profil zu vervollständigen, bevor er angemeldet ist</value>
+  </data>
+  <data name="Security_RequireValidProfileAtLogin.Text">
+    <value>Gültiges Profile für Anmeldung erforderlich:</value>
+  </data>
+  <data name="Security_UserNameValidation.Help">
+    <value>Fügen Sie Ihren eigenen Validierungsausdruck hinzu, der zur Gültigkeitsprüfung des Benutzernamens verwendet werden soll. Wenn Sie diesen Wert ändern, sollten Sie auch die Warnmeldung ändern, die Benutzer nach Eingabe eines ungültigen Benutzernamens sehen. Sie finden dies im Übersetzungseditor (Einstellungen &gt; Website-Einstellungen - Sprache - Zahnrad statische Übersetzungen/Website) unter SharedResources.resx - Username.RegExError</value>
+  </data>
+  <data name="Security_UserNameValidation.Text">
+    <value>Validierung des Benutzernamens:</value>
+  </data>
+  <data name="Standard.Text">
+    <value>Standard</value>
+  </data>
+  <data name="Verified.Text">
+    <value>bestätigt</value>
+  </data>
+  <data name="AuditChecks.Text">
+    <value>Audit-Prüfungen</value>
+  </data>
+  <data name="SuperuserActivity.Text">
+    <value>Aktivitäten des Systemverwalters</value>
+  </data>
+  <data name="CheckDebugFailure.Text">
+    <value>debug ist aktiviert - Sie sollten die Einstellung in der Datei web.config auf 'false' ändern.</value>
+  </data>
+  <data name="CheckDebugReason.Text">
+    <value>Wenn die Debug-Option aktiviert ist, kann dies die Performance beeinträchtigen und Hackern Hinweise auf Angriffspunkte liefern.</value>
+  </data>
+  <data name="CheckDebugSuccess.Text">
+    <value>nicht im Debug-Modus</value>
+  </data>
+  <data name="cmdCheck.Text">
+    <value>prüfen</value>
+  </data>
+  <data name="cmdSearch.Text">
+    <value>suchen</value>
+  </data>
+  <data name="plSearchTerm.Text">
+    <value>Suchbegriff</value>
+  </data>
+  <data name="ScannerChecks.Text">
+    <value>Scanner-Prüfungen</value>
+  </data>
+  <data name="AuditExplanation.Text">
+    <value>Sie sehen unten die Ergebnisse der automatischen Überprüfung auf beste Sicherheitspraktiken.</value>
+  </data>
+  <data name="Authorized.Header">
+    <value>autorisiert</value>
+  </data>
+  <data name="CheckTracing.Text">
+    <value>Tracing ist aktiviert, Sie sollten es in der Datei web.config auf "false" setzen.</value>
+  </data>
+  <data name="CheckTracingReason.Text">
+    <value>Wenn Tracing aktiviert ist, können Hacker die Aktivitäten auf der Website verfolgen.</value>
+  </data>
+  <data name="CheckTracingSuccess.Text">
+    <value>Tracing ist nicht aktiv</value>
+  </data>
+  <data name="CreatedDate.Header">
+    <value>Anlagedatum</value>
+  </data>
+  <data name="DisplayName.Header">
+    <value>Anzeigename</value>
+  </data>
+  <data name="Email.Header">
+    <value>E-Mail</value>
+  </data>
+  <data name="FirstName.Header">
+    <value>Vorname</value>
+  </data>
+  <data name="LastActivityDate.Header">
+    <value>Letzte Aktivität am</value>
+  </data>
+  <data name="LastLogin.Header">
+    <value>Letzte Anmeldung</value>
+  </data>
+  <data name="LastName.Header">
+    <value>Nachname</value>
+  </data>
+  <data name="ScannerExplanation.Text">
+    <value>Auf diesem Reiter können Sie Dateisystem und Datenbank nach einem Text durchsuchen. Dies soll helfen, wenn Sie unerwarteten Inhalt auf Ihrer Website vorfinden.</value>
+  </data>
+  <data name="Username.Header">
+    <value>Benutzername</value>
+  </data>
+  <data name="CheckBiographyFailure.Text">
+    <value>Das Feld erlaubt HTML, was von Spammern für Links missbraucht werden kann, falls die Seite ungeprüfte Registrierung zulässt.</value>
+  </data>
+  <data name="CheckBiographyReason.Text">
+    <value>Das Feld Biografie ist ein beliebtes Ziel für Spammer, da sie Links/HTML mit Werbung einfügen können. Ab DNN 7.2.0 wurde dieses Feld auf mehrzeiligen Text umgestellt, wodurch das Risiko minimiert wird.</value>
+  </data>
+  <data name="CheckBiographySuccess.Text">
+    <value>Das Feld ist ein mehrzeiliges Textfeld</value>
+  </data>
+  <data name="CheckRarelyUsedSuperuserFailure.Text">
+    <value>Es gibt mindestens ein Systemverwalter-Konto, das seit einem halben Jahr nicht benutzt wurde. Sie sollten dies deaktivieren oder löschen.</value>
+  </data>
+  <data name="CheckRarelyUsedSuperuserReason.Text">
+    <value>Systemverwalter sind die Benutzer mit den weitestgehenden Rechten. Ihre Nutzung sollte soweit als möglich eingeschränkt werden.</value>
+  </data>
+  <data name="CheckRarelyUsedSuperuserSuccess.Text">
+    <value>Alle Systemverwalter sind aktive Benutzer des Systems.</value>
+  </data>
+  <data name="CheckSiteRegistrationFailure.Text">
+    <value>Eine oder mehrere Websites verwenden öffentliche Registrierung.</value>
+  </data>
+  <data name="CheckSiteRegistrationReason.Text">
+    <value>Websites mit öffentlicher Registrierung sind bevorzugtes Angriffsziel für Spammer.</value>
+  </data>
+  <data name="CheckSiteRegistrationSuccess.Text">
+    <value>Alle Websites verwenden verifizierte oder private Registrierung.</value>
+  </data>
+  <data name="CheckSuperuserOldPasswordFailure.Text">
+    <value>Das Kennwort mindestens eines Systemverwalter-Kontos wurde sein über 6 Monaten nicht geändert.</value>
+  </data>
+  <data name="CheckSuperuserOldPasswordReason.Text">
+    <value>Systemverwalter sind die Benutzer mit den weitestgehenden Rechten. Sie sollten daher Ihr Kennwort regelmäßig ändern.</value>
+  </data>
+  <data name="CheckSuperuserOldPasswordSuccess.Text">
+    <value>Kein Systemverwalter hat ein Kennwort, das älter als 6 Monate ist.</value>
+  </data>
+  <data name="CheckUnexpectedExtensionsFailure.Text">
+    <value>Es wurde eine ASP- oder PHP-Seite gefunden. Dies kann harmlos sein, aber auch darauf hindeuten, dass die Seite über diese Seite angegriffen werden sollte. Bitte überprüfen Sie die Seite sorgfältig.</value>
+  </data>
+  <data name="CheckUnexpectedExtensionsReason.Text">
+    <value>DNN ist eine ASP.net-Web-Anwendung. Unter normalen Umständen sollten andere Server-Anwendungen wie ASP (Classic) oder PHP nicht verwendet werden.</value>
+  </data>
+  <data name="CheckUnexpectedExtensionsSuccess.Text">
+    <value>Es wurden keine unerwarteten Seiten gefunden</value>
+  </data>
+  <data name="CheckViewstatemacFailure.Text">
+    <value>ViewStateMAC-Überprüfung ist nicht aktiviert</value>
+  </data>
+  <data name="CheckViewstatemacReason.Text">
+    <value>Ein ViewState MAC ist eine verschlüsselte Version der versteckten Variable, in der der Zustand der Seite gespeichert ist, wenn die Seite an den Browser geschickt wird. Wenn diese Option aktiviert ist, wird der verschlüsselte ViewState überprüft, um sicherzustellen, dass er auf dem Client nicht verändert wurde. 
+</value>
+  </data>
+  <data name="CheckViewstatemacSuccess.Text">
+    <value>Der ViewState wird per MAC geschützt.</value>
+  </data>
+  <data name="CheckPurpose.Header">
+    <value>Zweck der Prüfung</value>
+  </data>
+  <data name="Result.Header">
+    <value>Ergebnis</value>
+  </data>
+  <data name="Severity.Header">
+    <value>Schweregrad</value>
+  </data>
+  <data name="CheckBiographyName.Text">
+    <value>Prüfung, ob öffentliche Profileigenschaften HTML-Text zulassen.</value>
+  </data>
+  <data name="CheckDebugName.Text">
+    <value>Debug-Einstellung prüfen</value>
+  </data>
+  <data name="CheckRarelyUsedSuperuserName.Text">
+    <value>Auf wenig genutzte Systemverwalter-Konten prüfen</value>
+  </data>
+  <data name="CheckSiteRegistrationName.Text">
+    <value>Auf öffentliche Registrierung prüfen.</value>
+  </data>
+  <data name="CheckSuperuserOldPasswordName.Text">
+    <value>Auf regelmäßigen Wechsel der Systemverwalter-Kennworte prüfen.</value>
+  </data>
+  <data name="CheckTracingName.Text">
+    <value>Prüfen, ob ASP.net-Tracing aktiv ist</value>
+  </data>
+  <data name="CheckUnexpectedExtensionsName.Text">
+    <value>Auf Vorhandensein von ASP/PHP-Seiten prüfen</value>
+  </data>
+  <data name="CheckViewstatemacName.Text">
+    <value>Prüfen, ob der ViewState geschützt ist</value>
+  </data>
+  <data name="NoDatabaseResults.Text">
+    <value>Der Suchbegriff wurde in der Datenbank nicht gefunden.</value>
+  </data>
+  <data name="NoFileResults.Text">
+    <value>Der Suchbegriff wurde in keiner Datei gefunden.</value>
+  </data>
+  <data name="SearchTermRequired.Text">
+    <value>Sie müssen einen Suchbegriff eingeben</value>
+  </data>
+  <data name="CheckTracingFailure.Text">
+    <value>Tracing ist aktiviert, dies erlaubt Hackern Aktivitäten auf der Website zu verfolgen.</value>
+  </data>
+  <data name="Actions.Header">
+    <value>Aktionen</value>
+  </data>
+  <data name="AdminMembershipResetLinkValidity.ErrorMessage">
+    <value>Die Zeitspanne für den Link zum Zurücksetzen des Administrators muss eine ganze Zahl zwischen 0 und 10000 sein.</value>
+  </data>
+  <data name="Alert.Text">
+    <value>Warnung</value>
+  </data>
+  <data name="AllowIP.Text">
+    <value>zulassen</value>
+  </data>
+  <data name="AsyncTimeout.ErrorMessage">
+    <value>Die Zeitspanne für den Link zum Zurücksetzen muss eine ganze Zahl zwischen 0 und 10000 sein.</value>
+  </data>
+  <data name="AutoAccountUnlockDuration.ErrorMessage">
+    <value>Die Entsperrfrist bei fehlgeschlagenen Anmeldeversuchen muss zwischen 0 und 1000 (Minuten) liegen.</value>
+  </data>
+  <data name="BasicLoginSettingsError">
+    <value>Die Anmeldeeinstellungen konnten nicht gespeichert werden, bitte versuchen Sie es später erneut.</value>
+  </data>
+  <data name="BasicLoginSettingsUpdateSuccess">
+    <value>Die Anmeldeeinstellungen wurden gespeichert.</value>
+  </data>
+  <data name="BulletinDescription.Text">
+    <value>Beschreibung</value>
+  </data>
+  <data name="BulletinLink.Text">
+    <value>Link</value>
+  </data>
+  <data name="Bulletins.Text">
+    <value>Hinweise</value>
+  </data>
+  <data name="BulletinsDoNotExist.Text">
+    <value>Es gibt zur Zeit keine Sicherheitsmeldungen für DNN Platform, Version {0}.</value>
+  </data>
+  <data name="BulletinsExist.Text">
+    <value>Es gibt zur Zeit {0} Sicherheitsmeldungen für DNN Platform, Version {0}.</value>
+  </data>
+  <data name="Cancel.Text">
+    <value>abbrechen</value>
+  </data>
+  <data name="CannotDelete.Text">
+    <value>Sie können diese Regel nicht löschen, da Sie sonst ihre aktuelle Anmeldung auch aussperren würden.</value>
+  </data>
+  <data name="CheckAllowableFileExtensionsFailure.Text">
+    <value>Es wurden entweder aspx, asp oder php als zugelassene Erweiterung gefunden, wodurch gefährliche Code-Dateien hochgeladen werden können. Entfernen Sie diese unter Einstellungen &gt; Sicherheit &gt; Weitere &gt; Weitere Einstellungen &gt; Zugelassene Dateitypen.</value>
+  </data>
+  <data name="CheckAllowableFileExtensionsName.Text">
+    <value>Prüft, ob gefährliche Dateien hochgeladen werden dürfen.</value>
+  </data>
+  <data name="CheckAllowableFileExtensionsReason.Text">
+    <value>Es wurden entweder aspx, asp oder php als zugelassene Erweiterung gefunden, wodurch gefährliche Code-Dateien hochgeladen werden können. Entfernen Sie diese unter Einstellungen &gt; Sicherheit &gt; Weitere &gt; Weitere Einstellungen &gt; Zugelassene Dateitypen.</value>
+  </data>
+  <data name="CheckAllowableFileExtensionsSuccess.Text">
+    <value>Es wurden keine Code-Dateien zum Hochladen zugelassen.</value>
+  </data>
+  <data name="CheckDefaultPageFailure.Text">
+    <value>Die Standardseite wurde modifiziert. Sie sollten diese Datei gründlich auf Schad-Code prüfen, z.B. indem Sie sie mit dem Original aus dem Installation- oder Aktualisierungspaket derselben Version vergleichen.</value>
+  </data>
+  <data name="CheckDefaultPageName.Text">
+    <value>Prüft, ob die Datei default.aspx  modifiziert wurde.</value>
+  </data>
+  <data name="CheckDefaultPageReason.Text">
+    <value>DNN verwendet default.aspx als Basis für alle Seiten, eine Modifizierung wirkt sich daher auf die gesamte Website aus.</value>
+  </data>
+  <data name="CheckDefaultPageSuccess.Text">
+    <value>Die Datei default.aspx wurde nicht modifiziert.</value>
+  </data>
+  <data name="CheckDiskAccessFailure.Text">
+    <value>Hackers können auf Dateien außerhalb des Website-Verzeichnisses zugreifen.</value>
+  </data>
+  <data name="CheckDiskAccessName.Text">
+    <value>Prüft, ob auf Dateien außerhalb des Website-Verzeichnisses zugegriffen werden kann.</value>
+  </data>
+  <data name="CheckDiskAccessReason.Text">
+    <value>Das Benutzerkonto, unter dem die Website läuft, hat Zugriff auf Dateien und Ordner außerhalb des Website-Verzeichnisses und könnte hier Dateien sehen, bearbeiten oder löschen.</value>
+  </data>
+  <data name="CheckDiskAccessSuccess.Text">
+    <value>Das Benutzerkonto, unter dem die Website läuft, hat keinen Zugriff auf Dateien und Ordner außerhalb des Website-Verzeichnisses. </value>
+  </data>
+  <data name="CheckFileExists.Error">
+    <value>Das Benutzerkonto am SQL-Server account kann die Prozedur xp_fileexist ausführen und damit auf das Dateisystem zugreifen.</value>
+  </data>
+  <data name="CheckHiddenSystemFilesFailure.Text">
+    <value>Im Website-Verzeichnis befinden sich Dateien, die als "System" oder "versteckt" gekennzeichnet sind.</value>
+  </data>
+  <data name="CheckHiddenSystemFilesName.Text">
+    <value>Versteckte Dateien prüfen</value>
+  </data>
+  <data name="CheckHiddenSystemFilesReason.Text">
+    <value>Hacker laden oft Rootkits auf Websites hoch, die als System oder versteckt gekennzeichnet sind, und so üblicherweise nicht angezeigt werden.</value>
+  </data>
+  <data name="CheckHiddenSystemFilesSuccess.Text">
+    <value>Es gibt keine Dateien, die als "System" oder "versteckt" gekennzeichnet sind.</value>
+  </data>
+  <data name="CheckModuleHeaderAndFooterFailure.Text">
+    <value>In Ihrer Website befinden sich Modulinstanzen, die Texte im Kopf- oder Fußbereich anzeigen. Sie sollten diese prüfen und sicherstellen, dass weder Spamtext noch Phishingcode enthalten ist.</value>
+  </data>
+  <data name="CheckModuleHeaderAndFooterName.Text">
+    <value>Prüft, ob Module Text im Kopf- oder Fußbereich besitzen.</value>
+  </data>
+  <data name="CheckModuleHeaderAndFooterReason.Text">
+    <value>Hackers können Spamtext oder Phishingcode im Kopf- oder Fußbereich der Module einschleusen.</value>
+  </data>
+  <data name="CheckModuleHeaderAndFooterSuccess.Text">
+    <value>In Ihrer Website befinden sich keine Modulinstanzen, die Texte im Kopf- oder Fußbereich anzeigen.</value>
+  </data>
+  <data name="CheckPasswordFormatFailure.Text">
+    <value>Die Einstellung PasswordFormat in der Datei web.config ist nicht auf "Hashed" eingestellt - dadurch können diese direkt gelesen oder wieder entschlüsselt werden - im schlimmsten Fall durch einen Hacker. Weitere Informationen finden Sie &lt;a href="http://www.dnnsoftware.com/wiki/hashed-passwords" target="_blank"&gt;hier&lt;/a&gt;. </value>
+  </data>
+  <data name="CheckPasswordFormatName.Text">
+    <value>Prüft das Kennwortformat</value>
+  </data>
+  <data name="CheckPasswordFormatReason.Text">
+    <value>Wenn der Wert auf "clear" (unverschlüsselt) oder "encrypted" (verschlüsselt) steht, kann das Kennwort ggf. durch einen Hacker ermittelt werden.</value>
+  </data>
+  <data name="CheckPasswordFormatSuccess.Text">
+    <value>Das passwordFormat in der Datei web.config ist auf "hashed" gesetzt.</value>
+  </data>
+  <data name="CheckSqlRiskFailure.Text">
+    <value>Die aktuelle SQL-Verbindung kann gefährliche Befehle auf Ihrem SQL-Server ausführen.</value>
+  </data>
+  <data name="CheckSqlRiskName.Text">
+    <value>Prüft Berechtigungen des  SQL-Server-Kontos</value>
+  </data>
+  <data name="CheckSqlRiskReason.Text">
+    <value>Wenn das Konto am SQL-Server zu viele Berechtigungen besitzt, können ggf. Hacker zusätzlichen Schaden anrichten.</value>
+  </data>
+  <data name="CheckSqlRiskSuccess.Text">
+    <value>Das Konto am SQL-Server ist korrekt konfiguriert.</value>
+  </data>
+  <data name="cmdAdd.Text">
+    <value>Filter hinzufügen</value>
+  </data>
+  <data name="cmdCancel.Text">
+    <value>Bearbeitung abbrechen</value>
+  </data>
+  <data name="cmdModifiedFiles.Text">
+    <value>Kürzlich bearbeitete Dateien finden</value>
+  </data>
+  <data name="CreatedDate.Text">
+    <value>Erstelldatum</value>
+  </data>
+  <data name="DatabaseInstance.Text">
+    <value>Datenbankinstanz</value>
+  </data>
+  <data name="DatabaseValue.Text">
+    <value>Wert</value>
+  </data>
+  <data name="Delete.Text">
+    <value>Filter löschen</value>
+  </data>
+  <data name="DeleteError.Text">
+    <value>Der IP-Filter konnte nicht gelöscht werden, bitte versuchen Sie es später erneut.</value>
+  </data>
+  <data name="DeleteSuccess.Text">
+    <value>Der IP-Filter wurde gelöscht.</value>
+  </data>
+  <data name="DenyIP.Text">
+    <value>ablehnen</value>
+  </data>
+  <data name="Edit.Text">
+    <value>Filter bearbeiten</value>
+  </data>
+  <data name="ExecuteCommand.Error">
+    <value>Das aktuelle Konto am SQL-Server kann die Prozedur xp_cmdshell ausführen, mit dem System-Befehle im SQL-Server ausführen können.</value>
+  </data>
+  <data name="Fail.Text">
+    <value>fehlgeschlagen</value>
+  </data>
+  <data name="Filename.Header">
+    <value>Dateiname</value>
+  </data>
+  <data name="FileName.Text">
+    <value>Dateiname</value>
+  </data>
+  <data name="FilterType.Header">
+    <value>Filtertyp</value>
+  </data>
+  <data name="GetFolderTree.Error">
+    <value>Das aktuelle Konto am SQL-Server kann die Prozedur xp_dirtree ausführen, mit der die Dateistruktur aufgerufen werden kann.</value>
+  </data>
+  <data name="GlobalSetting.Text">
+    <value>Dies ist eine Systemeinstellung, die alle Websites in Ihrer Installation betrifft.</value>
+  </data>
+  <data name="GlobalSettingsTab.Text">
+    <value>Dies ist ein Reiter für Systemeinstellungen, die alle Websites in Ihrer Installation betreffen.</value>
+  </data>
+  <data name="HighRiskFiles.Text">
+    <value>Riskante Dateien</value>
+  </data>
+  <data name="IpAddress.Header">
+    <value>IP-Adresse</value>
+  </data>
+  <data name="IPFilter.Header">
+    <value>IP-Filter</value>
+  </data>
+  <data name="IpFilterDeletedWarning.Text">
+    <value>Sind Sie sicher, dass Sie diesen IP-Filter löschen wollen?</value>
+  </data>
+  <data name="IPFiltersDisabled.Text">
+    <value>Bei der Anmeldung werden derzeit die IP-Adressen nicht geprüft. Aktivieren Sie die IP-Prüfung im Abschnitt "Mitgliederkonten" bei Bedarf.</value>
+  </data>
+  <data name="IpFilterUpdateError.Text">
+    <value>Der IP-Filter konnte nicht gespeichert werden, bitte versuchen Sie es später erneut.</value>
+  </data>
+  <data name="IpFilterUpdateSuccess.Text">
+    <value>Der IP-Filter wurde gespeichert.</value>
+  </data>
+  <data name="IPRange.Text">
+    <value>IP-Bereich</value>
+  </data>
+  <data name="IPValidation.ErrorMessage">
+    <value>Bitte verwenden Sie eine gültige IP-Adresse oder Maske</value>
+  </data>
+  <data name="LastActivityDate.Text">
+    <value>Letzte Aktivität am</value>
+  </data>
+  <data name="LastLogin.Text">
+    <value>Letzte Anmeldung</value>
+  </data>
+  <data name="LastModifiedDate.Header">
+    <value>Letzte Änderung</value>
+  </data>
+  <data name="LastWriteTime.Text">
+    <value>Letzte Änderung</value>
+  </data>
+  <data name="LoginSettingsRestoreWarning.Text">
+    <value>Sind Sie sicher, dass Sie Ihre Änderungen verwerfen wollen?</value>
+  </data>
+  <data name="LowRiskFiles.Text">
+    <value>Wenig riskante Dateien</value>
+  </data>
+  <data name="maxUploadSize.Error">
+    <value>Die max. Dateigröße zum Hochladen muss zwischen 12 und {0} (MB) liegen.</value>
+  </data>
+  <data name="MemberSettingsError.Text">
+    <value>Die Mitgliedschaftseinstellungen konnten nicht gespeichert werden, bitte versuchen Sie es später erneut.</value>
+  </data>
+  <data name="MemberSettingsRestoreWarning.Text">
+    <value>Sind Sie sicher, dass Sie Ihre Änderungen verwerfen wollen?</value>
+  </data>
+  <data name="MemberSettingsUpdateSuccess.Text">
+    <value>Die Mitgliedschaftseinstellungen wurden gespeichert.</value>
+  </data>
+  <data name="MembershipNumberPasswords.ErrorMessage">
+    <value>Die Zahl der zu speichernden Kennworte (je Benutzer) muss eine ganze Zahl zwischen 0 und 10.000 sein.</value>
+  </data>
+  <data name="MembershipResetLinkValidity.ErrorMessage">
+    <value>Die Gültigkeitsdauer des Links zum Zurücksetzen muss eine ganze Zahl zwischen eins und 10.000 (Minuten) sein.</value>
+  </data>
+  <data name="ModifiedFiles.Text">
+    <value>Kürzlich geänderte Dateien</value>
+  </data>
+  <data name="ModifiedFilesExplaination.Text">
+    <value />
+  </data>
+  <data name="ModifiedFilesLoadWarning.Text">
+    <value>Dieses Werkzeug listet Ihnen alle kürzlich geänderten Dateien auf. Bei Websites, die viele Dateien gespeichert haben, kann dies eine Weile dauern</value>
+  </data>
+  <data name="ModifiedSettings.Text">
+    <value>Kürzlich geänderte Einstellungen</value>
+  </data>
+  <data name="ModifiedSettingsExplaination.Text">
+    <value />
+  </data>
+  <data name="ModuleId.Text">
+    <value>Modul-ID</value>
+  </data>
+  <data name="ModuleSettings.Text">
+    <value>Moduleinstellungen</value>
+  </data>
+  <data name="nav_Security.Text">
+    <value>Sicherheit</value>
+  </data>
+  <data name="No.Text">
+    <value>nein</value>
+  </data>
+  <data name="NoneSpecified.Text">
+    <value>nicht angegeben</value>
+  </data>
+  <data name="Notes.Text">
+    <value>Hinweise</value>
+  </data>
+  <data name="OtherSettingsError.Text">
+    <value>Die Einstellungen konnten nicht gespeichert werden. Bitte versuchen Sie es später erneut.</value>
+  </data>
+  <data name="OtherSettingsRestoreWarning.Text">
+    <value>Sind Sie sicher, dass Sie Ihre Änderungen verwerfen wollen?</value>
+  </data>
+  <data name="OtherSettingsUpdateSuccess.Text">
+    <value>Die Einstellungen wurden aktualisiert.</value>
+  </data>
+  <data name="Pass.Text">
+    <value>erfolgreich</value>
+  </data>
+  <data name="PasswordConfig_PasswordExpiry.Help">
+    <value>Geben Sie die Anzahl der Tage ein, nach denen ein Benutzer sein Kennwort ändern soll. Verwenden Sie 0, wenn das Kennwort nicht ablaufen soll (empfohlen).</value>
+  </data>
+  <data name="PasswordConfig_PasswordExpiry.Text">
+    <value>Ablauf der Kennworte (in Tagen)</value>
+  </data>
+  <data name="PasswordConfig_PasswordExpiryReminder.Help">
+    <value>Geben Sie an, wie viele Tage vor Ablauf des Kennworts der Benutzer darauf hingewiesen werden soll.</value>
+  </data>
+  <data name="PasswordConfig_PasswordExpiryReminder.Text">
+    <value>Frist für Erinnerung von Ablauf (in Tagen)</value>
+  </data>
+  <data name="PasswordExpiry.ErrorMessage">
+    <value>Die Ablaufdauer für das Kennwort muss eine ganze Zahl zwischen 0 und 10000 sein.</value>
+  </data>
+  <data name="PasswordExpiryReminder.ErrorMessage">
+    <value>Die Erinnerung vor dem Ablauf des Kennworts muss eine ganze Zahl zwischen 0 und 10000 sein.</value>
+  </data>
+  <data name="plAdminResetLinkValidity.Help">
+    <value>Legen Sie hier fest, wie lange der Link zum zurücksetzen des Kennworts gültig ist, der vom Administrator versandt wird.</value>
+  </data>
+  <data name="plAdminResetLinkValidity.Text">
+    <value>Gültigkeitsdauer des Admin-Links zum Kennwort zurücksetzen (in Minuten)</value>
+  </data>
+  <data name="plAsyncTimeout.Help">
+    <value>Legen Sie hier den die Dauer (in Sekunden) an, bevor asynchrone Postbacks ablaufen, falls keine Antwort eintrifft. Der Wert sollte zwischen 90 und 9999 Sekunden liegen.</value>
+  </data>
+  <data name="plAsyncTimeout.Text">
+    <value>Postback-Ablauf (Sekunden)</value>
+  </data>
+  <data name="plAutoAccountUnlock.Help">
+    <value>Falls ein Benutzerkonto aufgrund zu vieler Fehleingaben gesperrt wurde, kann es nach einer Wartezeit von einigen Minuten wieder entsperrt werden. Geben Sie hier die Wartezeit in Minuten ein oder 0, um die automatische Aufhebung der Sperre zu deaktivieren.</value>
+  </data>
+  <data name="plAutoAccountUnlock.Text">
+    <value>Konten automatisch entsperren nach (Min):</value>
+  </data>
+  <data name="plDebugMode.Help">
+    <value>Sie können diese Option aktivieren, um die erweitere Fehlerprotokollierung zu aktivieren. Dies kann die Performance der Website beeinträchtigen.</value>
+  </data>
+  <data name="plDebugMode.Text">
+    <value>Debug-Modus</value>
+  </data>
+  <data name="plEnablePasswordHistory.Help">
+    <value>Legt fest ob die Liste der zuletzt verwendeten Kennworte gespeichert und ein neues dagegen geprüft werden soll.</value>
+  </data>
+  <data name="plEnablePasswordHistory.Text">
+    <value>Kennwort-Historie</value>
+  </data>
+  <data name="plEnableStrengthMeter.Help">
+    <value>Legt fest, ob bei der Registrierung die Qualität des eingegebenen Kennworts als Balken grafisch angezeigt werden soll.</value>
+  </data>
+  <data name="plEnableStrengthMeter.Text">
+    <value>Kennwortqualität anzeigen</value>
+  </data>
+  <data name="plFileExtensions.Help">
+    <value>Geben Sie hier die zugelassenen Dateitypen (getrennt durch Komma) ein.</value>
+  </data>
+  <data name="plFileExtensions.Text">
+    <value>Zugelassene Dateierweiterungen:</value>
+  </data>
+  <data name="plFirstIP.Help">
+    <value>Geben Sie hier entweder eine einzelne zu filternde IP-Adresse an oder eine IP-Adresse mit Subnetz-Maske, um einen IP-Adressbereich anzugeben.</value>
+  </data>
+  <data name="plFirstIP.Text">
+    <value>Erste IP-Adresse</value>
+  </data>
+  <data name="plMaxUploadSize.Help">
+    <value>Geben Sie hier die Maximalgröße für hochzuladende Dateien (in MB) an, der Mindestwert ist 12 MB.</value>
+  </data>
+  <data name="plMaxUploadSize.Text">
+    <value>Max. Upload-Größe (MB)</value>
+  </data>
+  <data name="plNumberPasswords.Help">
+    <value>Legen Sie hier die Zahl der zu speichernden Kennworte für die Wiederverwendungsprüfung fest.</value>
+  </data>
+  <data name="plNumberPasswords.Text">
+    <value>Anzahl zu gespeichernder Kennworte</value>
+  </data>
+  <data name="plRememberMe.Help">
+    <value>Legt fest, ob die Option "angemeldet bleiben" auf dem Anmelde-Steuerelement angezeigt wird. Es wird ein Cookie gesetzt, der mehrere Besuche überdauern kann.</value>
+  </data>
+  <data name="plRememberMe.Text">
+    <value>"Anmeldung merken" anbieten</value>
+  </data>
+  <data name="plResetLinkValidity.Help">
+    <value>Legt fest, wie viele Minuten der Link in der E-Mail zum Zurücksetzen des Kennworts nach dessen Erstellung gültig ist.</value>
+  </data>
+  <data name="plResetLinkValidity.Text">
+    <value>Gültigkeit des Rücksetzen-Links (Min.)</value>
+  </data>
+  <data name="plRuleSpecifity.Help">
+    <value>Legen Sie fest, ob die Regel auf eine einzelne IP-Adresse oder einen Adressbereich angewendet werden soll.</value>
+  </data>
+  <data name="plRuleSpecifity.Text">
+    <value>Gültigkeit</value>
+  </data>
+  <data name="plRuleType.Help">
+    <value>Legen Sie fest, ob es sich um eine Regel zum Zulassen oder Abweisen der IP-Adressen handelt.</value>
+  </data>
+  <data name="plRuleType.Text">
+    <value>Aktion</value>
+  </data>
+  <data name="plShowCriticalErrors.Help">
+    <value>Sie legen hier fest, ob kritische Fehler, die im QueryString übermittelt wurden, innerhalb der Seite angezeigt oder nur im Protokoll vermerkt werden sollen.</value>
+  </data>
+  <data name="plShowCriticalErrors.Text">
+    <value>Kritische Fehler auf der Seite anzeigen</value>
+  </data>
+  <data name="plSSLOffload.Help">
+    <value>Legen Sie hier den Namen im HTTP-Header fest, der geprüft werden soll, um festzustellen, ob der Network-Balancer SSL-Offloading verwendet.</value>
+  </data>
+  <data name="plSSLOffload.Text">
+    <value>Wert für SSL-Offload-Header </value>
+  </data>
+  <data name="plSubnet.Help">
+    <value>Die Subnetz-Maske wird mit der (ersten) IP-Adresse kombiniert, um einen IP-Adressbereich anzugeben.</value>
+  </data>
+  <data name="plSubnet.Text">
+    <value>Maske</value>
+  </data>
+  <data name="PortalId.Text">
+    <value>Website-ID</value>
+  </data>
+  <data name="PortalSettings.Text">
+    <value>Website-Einstellungen</value>
+  </data>
+  <data name="RegistrationSettingsError.Text">
+    <value>Die Registrierungseinstellungen konnten nicht gespeichert werden, bitte versuchen Sie es später erneut.</value>
+  </data>
+  <data name="RegistrationSettingsRestoreWarning.Text">
+    <value>Sind Sie sicher, dass Sie Ihre Änderungen verwerfen möchten?</value>
+  </data>
+  <data name="RegistrationSettingsUpdateSuccess.Text">
+    <value>Die Registrierungseinstellungen wurden gespeichert.</value>
+  </data>
+  <data name="RegRead.Error">
+    <value>Das aktuelle Benuterkonto am SQL-Server kann auf Registrierungswerte zugreifen. Bitte prüfen Sie die Berechtigungen für xp_regread, xp_regwrite, xp_regenumkeys, xp_regenumvalues, xp_regdeletekey, xp_regdeletekey, xp_regdeletevalue, xp_instance_regread, xp_instance_regwrite, xp_instance_regenumkeys, xp_instance_regenumvalues, xp_instance_regdeletekey, xp_instance_regdeletekey, xp_instance_regdeletevalue stored procedures.</value>
+  </data>
+  <data name="RequestFailed_Admin.Text">
+    <value>Es konnte keine Verbindung zu {0} hergestellt werden. Bitte stellen Sie sicher, dass die Quelladresse gültig ist und dass der Proxy-Server korrekt konfiguriert ist.</value>
+  </data>
+  <data name="RequestFailed_User.Text">
+    <value>Der RSS-Feed ist zur Zeit nicht verfügbar. Die Fehlermeldung lautet:</value>
+  </data>
+  <data name="Result.Text">
+    <value>Ergebnis</value>
+  </data>
+  <data name="Save.Text">
+    <value>speichern</value>
+  </data>
+  <data name="saveRule.Text">
+    <value>Filter aktualisieren</value>
+  </data>
+  <data name="SearchDatabaseResult.Text">
+    <value>Datenbank: {0} Vorkommen gefunden</value>
+  </data>
+  <data name="SearchFileSystemResult.Text">
+    <value>Datenbank: {0} Dateien gefunden</value>
+  </data>
+  <data name="SearchPlaceHolder.Text">
+    <value>suchen</value>
+  </data>
+  <data name="SecurityCheck.Text">
+    <value>Sicherheitsprüfung</value>
+  </data>
+  <data name="SettingName.Text">
+    <value>Einstellungsname</value>
+  </data>
+  <data name="SettingValue.Text">
+    <value>Optionswert</value>
+  </data>
+  <data name="SingleIP.Text">
+    <value>Einzelne IP-Adresse</value>
+  </data>
+  <data name="SslSettingsError.Text">
+    <value>Die SSL-Einstellungen konnten nicht aktualisiert werden, bitte versuchen Sie es später erneut.</value>
+  </data>
+  <data name="SslSettingsRestoreWarning.Text">
+    <value>Sind Sie sicher, dass Sie Ihre Änderungen verwerfen wollen?</value>
+  </data>
+  <data name="SslSettingsUpdateSuccess.Text">
+    <value>Die SSL-Einstellungen wurden aktualisiert.</value>
+  </data>
+  <data name="SuperUserActivityExplaination.Text">
+    <value>Nachfolgend sehen Sie die Aktivitäten der Systemverwalter, die Sie auf verdächtige Aktionen, Erstell- und Anmeldedaten prüfen sollten. </value>
+  </data>
+  <data name="SysAdmin.Error">
+    <value>Aktuell am SQL-Server als 'sysadmin' angemeldet.</value>
+  </data>
+  <data name="TabAuditChecks.Text">
+    <value>Auditierung</value>
+  </data>
+  <data name="TabBasicLoginSettings.Text">
+    <value>Grundeinstellungen</value>
+  </data>
+  <data name="TabId.Text">
+    <value>Seiten-ID</value>
+  </data>
+  <data name="TabIpFilters.Text">
+    <value>IP-Adresse für Anmeldung</value>
+  </data>
+  <data name="TabLoginSettings.Text">
+    <value>Anmeldeeinstellungen</value>
+  </data>
+  <data name="TabMemberAccounts.Text">
+    <value>Mitlgiedskonten</value>
+  </data>
+  <data name="TabMemberSettings.Text">
+    <value>Mitgliederverwaltung</value>
+  </data>
+  <data name="TabMore.Text">
+    <value>mehr</value>
+  </data>
+  <data name="TabMoreSecuritySettings.Text">
+    <value>Weitere Sicherheitseinstellungen</value>
+  </data>
+  <data name="TabRegistrationSettings.Text">
+    <value>Registrierungseinstellungen</value>
+  </data>
+  <data name="TabScannerCheck.Text">
+    <value>Durchsuchen</value>
+  </data>
+  <data name="TabSecurityAnalyzer.Text">
+    <value>Sicherheitsüberprüfung</value>
+  </data>
+  <data name="TabSecurityBulletins.Text">
+    <value>Sicherheitshinweise</value>
+  </data>
+  <data name="TabSettings.Text">
+    <value>Reiter-Einstellungen</value>
+  </data>
+  <data name="TabSslSettings.Text">
+    <value>SSL-Einstellungen</value>
+  </data>
+  <data name="TabSuperuserActivity.Text">
+    <value>Systemverwalter-Aktivitäten</value>
+  </data>
+  <data name="UserId.Text">
+    <value>UserID</value>
+  </data>
+  <data name="Username.Text">
+    <value>Benutzername</value>
+  </data>
+  <data name="Yes.Text">
+    <value>ja</value>
+  </data>
+  <data name="Check.Text">
+    <value>[ Check ]</value>
+  </data>
+  <data name="CheckTelerikVulnerabilityFailure.Text">
+    <value>Die gefährdete Telerik-Komponente wurde noch nicht korrigiert, bitte folgen Sie den Anweisungen auf http://www.dnnsoftware.com/community-blog/cid/155449/critical-security-update--september2017 und installieren Sie den entsprechenden Patch.</value>
+  </data>
+  <data name="CheckTelerikVulnerabilityName.Text">
+    <value>Gefährdung durch Telerik-Komponente.</value>
+  </data>
+  <data name="CheckTelerikVulnerabilityReason.Text">
+    <value>Erweiterungen von Drittherstellern können gefährdet sein und sollten aktualisiert werden.</value>
+  </data>
+  <data name="CheckTelerikVulnerabilitySuccess.Text">
+    <value>Die Telerik-Komponente ist gepatcht..</value>
+  </data>
+  <data name="DeletedTab.Text">
+    <value>Die Seite mit der ID {0} wurde gelöscht.</value>
+  </data>
+  <data name="Disabled.Text">
+    <value>Die Seite mit der ID {0} wurde deaktiviert.</value>
+  </data>
+  <data name="Empty.Text">
+    <value>{0} darf nicht leer sein.</value>
+  </data>
+  <data name="MembershipDaysBeforePasswordReuse.ErrorMessage">
+    <value>Die Anzahl der Tage, bevor ein Kennwort wieder verwendet werden kann, muss eine ganze Zahl zwischen 0 und 10.000 sein.</value>
+  </data>
+  <data name="NotValid.Text">
+    <value>{0} {1} ist ungültig.</value>
+  </data>
+  <data name="plDisplayCopyright.Help">
+    <value>Aktivieren Sie diese Option, um die DNN Copyright-Hinweise im Quellcode der Webseiten einzublenden.</value>
+  </data>
+  <data name="plDisplayCopyright.Text">
+    <value>Copyright-Hinweis anzeigen</value>
+  </data>
+  <data name="plPasswordDays.Help">
+    <value>Geben Sie an, nach wie vielen Tagen ein Kennwort wiederverwendet werden darf.</value>
+  </data>
+  <data name="plPasswordDays.Text">
+    <value>Tage vor Wiederverwendung des Kennworts</value>
+  </data>
+  <data name="UserNotMemberOfRole.Text">
+    <value>Der Benutzer ist nicht in der Gruppe "{0}".</value>
+  </data>
+</root>

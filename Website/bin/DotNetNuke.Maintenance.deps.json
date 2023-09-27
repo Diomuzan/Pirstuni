@@ -63,6 +63,9 @@
         }
       },
       "DotNetNuke.Instrumentation/1.0.0": {
+        "dependencies": {
+          "DotNetNuke.Abstractions": "1.0.0"
+        },
         "runtime": {
           "DotNetNuke.Instrumentation.dll": {}
         }
@@ -93,6 +96,9 @@
         }
       },
       "DotNetNuke.Web.Client/1.0.0": {
+        "dependencies": {
+          "DotNetNuke.Abstractions": "1.0.0"
+        },
         "runtime": {
           "DotNetNuke.Web.Client.dll": {}
         }
@@ -114,7 +120,7 @@
         "runtime": {
           "Newtonsoft.Json.dll": {
             "assemblyVersion": "13.0.0.0",
-            "fileVersion": "13.0.2.27524"
+            "fileVersion": "13.0.3.27908"
           }
         }
       },

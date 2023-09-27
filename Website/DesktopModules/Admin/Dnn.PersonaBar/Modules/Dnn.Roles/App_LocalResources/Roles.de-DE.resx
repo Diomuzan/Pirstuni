@@ -1,0 +1,682 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Create.Text">
+    <value>Neue Gruppe anlegen</value>
+  </data>
+  <data name="DuplicateRole.Text">
+    <value>Es gibt bereits eine Gruppe mit diesem Namen-.</value>
+  </data>
+  <data name="nav_Roles.Text">
+    <value>Gruppen</value>
+  </data>
+  <data name="SearchPlaceHolder.Text">
+    <value>Nach Schlagwort suchen</value>
+  </data>
+  <data name="Actions.Header">
+    <value />
+  </data>
+  <data name="AllGroups.Text">
+    <value>[Alle Gruppen]</value>
+  </data>
+  <data name="Auto.Header">
+    <value>auto</value>
+  </data>
+  <data name="GlobalRolesGroup.Text">
+    <value>[Allgmeine Gruppen]</value>
+  </data>
+  <data name="GroupName.Header">
+    <value>Hauptgruppe</value>
+  </data>
+  <data name="LoadMore.Text">
+    <value>weitere zeigen</value>
+  </data>
+  <data name="RoleName.Header">
+    <value>Name der Gruppe</value>
+  </data>
+  <data name="Users.Header">
+    <value>Benutzer</value>
+  </data>
+  <data name="AutoAssignment.Text">
+    <value>automatische Zuordnung</value>
+  </data>
+  <data name="Cancel.Text">
+    <value>abbrechen</value>
+  </data>
+  <data name="Delete.Text">
+    <value>löschen</value>
+  </data>
+  <data name="Description.Text">
+    <value>Beschreibung</value>
+  </data>
+  <data name="NewGroup.Text">
+    <value>Neue Hauptgruppe</value>
+  </data>
+  <data name="Public.Text">
+    <value>öffentlich</value>
+  </data>
+  <data name="plRoleGroups.Text">
+    <value>Hauptgruppe</value>
+  </data>
+  <data name="Save.Text">
+    <value>speichern</value>
+  </data>
+  <data name="DuplicateRoleGroup.Text">
+    <value>Es gibt bereits eine Hauptgruppe mit diesem Namen-</value>
+  </data>
+  <data name="GroupName.Required">
+    <value>Dies ist ein Pflichtfeld.</value>
+  </data>
+  <data name="GroupName.Text">
+    <value>Name der Gruppe</value>
+  </data>
+  <data name="RoleName.Text">
+    <value>Gruppenname</value>
+  </data>
+  <data name="securityModeListLabel.Text">
+    <value>Typ</value>
+  </data>
+  <data name="statusListLabel.Text">
+    <value>Status</value>
+  </data>
+  <data name="DeleteRole.Confirm">
+    <value>Sind Sie sicher, dass Sie diese Gruppe löschen wollen?</value>
+  </data>
+  <data name="NoData.Text">
+    <value>Es gibt keine Gruppen in dieser Hauptgruppe.</value>
+  </data>
+  <data name="RoleName.Required">
+    <value>Dies ist ein Pflichtfeld</value>
+  </data>
+  <data name="UpdateGroup.Text">
+    <value>Gruppe aktualisieren</value>
+  </data>
+  <data name="Add.Text">
+    <value>zuordnen</value>
+  </data>
+  <data name="AddUserPlaceHolder.Text">
+    <value>Geben Sie den Anfang des Namens ein, um einen Benutzer auszuwählen</value>
+  </data>
+  <data name="Expires.Header">
+    <value>läuft ab am</value>
+  </data>
+  <data name="Members.Header">
+    <value>Mitglieder</value>
+  </data>
+  <data name="PageInfo.Text">
+    <value>Seite {0} von {1}</value>
+  </data>
+  <data name="PageSummary.Text">
+    <value>Zeige {0} - {1} von {2}</value>
+  </data>
+  <data name="Start.Header">
+    <value>Start</value>
+  </data>
+  <data name="Users.Text">
+    <value>Benutzer</value>
+  </data>
+  <data name="NoUsers.Text">
+    <value>Diese Gruppe hat keine Mitglieder.</value>
+  </data>
+  <data name="Search.Text">
+    <value>suchen</value>
+  </data>
+  <data name="DeleteUser.Confirm">
+    <value>Sind Sie sicher, dass Sie diesen Benutzer aus der Gruppe nehmen wollen?</value>
+  </data>
+  <data name="DeleteRoleGroup.Confirm">
+    <value>Sind Sie sicher, dass Sie diese Hauptgruppe löschen wollen?</value>
+  </data>
+  <data name="Approved.Text">
+    <value>bestätigt</value>
+  </data>
+  <data name="Both.Text">
+    <value>beides</value>
+  </data>
+  <data name="Disabled.Text">
+    <value>deaktiviert</value>
+  </data>
+  <data name="Pending.Text">
+    <value>wartet</value>
+  </data>
+  <data name="SecurityRole.Text">
+    <value>Zugriffsgruppe</value>
+  </data>
+  <data name="SocialGroup.Text">
+    <value>Soziale Gruppe</value>
+  </data>
+  <data name="AssignToExistUsers.Text">
+    <value>Bestehende Benutzer zuordnen</value>
+  </data>
+  <data name="ActionCancelled.Message">
+    <value>abgebrochen.</value>
+  </data>
+  <data name="AssignToExistUsers.Help">
+    <value>Tragen Sie alle bestehenden Benutzer in diese Gruppe ein.</value>
+  </data>
+  <data name="DeleteInconsistency.Error">
+    <value>Es wurde eine Dateninkonsistenz festgestellt. Bitte aktualisieren Sie diese Seite und versuchen Sie es erneut.</value>
+  </data>
+  <data name="DeleteRole.Error">
+    <value>Die Gruppe konnte nicht gelöscht werden, bitte versuchen Sie es später erneut.</value>
+  </data>
+  <data name="DeleteRole.Message">
+    <value>Die Gruppe wurde gelöscht.</value>
+  </data>
+  <data name="DeleteRoleGroup.Error">
+    <value>Die Hauptgruppe konnte nicht gelöscht werden, bitte versuchen Sie es später erneut.</value>
+  </data>
+  <data name="DeleteRoleGroup.Message">
+    <value>Die Hauptgruppe wurde gelöscht.</value>
+  </data>
+  <data name="Description.Help">
+    <value>Geben Sie eine Beschreibung der Gruppe ein.</value>
+  </data>
+  <data name="lblNewGroup.Text">
+    <value>[Neue Hauptgruppe]</value>
+  </data>
+  <data name="plRoleGroups.Help">
+    <value>Wählen Sie die Hauptgruppe, zu der diese Gruppe gehört.</value>
+  </data>
+  <data name="PublicRole.Help">
+    <value>Aktivieren Sie diese Option, wenn Benutzer sich selbst in diese Gruppe ein- und austragen können sollen (in ihrem Benutzerprofil).</value>
+  </data>
+  <data name="RoleAdded.Error">
+    <value>Die Gruppe konnte nicht erstellt werden, bitte versuchen Sie es später erneut.</value>
+  </data>
+  <data name="RoleAdded.Message">
+    <value>Die Gruppe wurde erstellt.</value>
+  </data>
+  <data name="RoleName.Help">
+    <value>Geben Sie den eindeutigen Namen der Gruppe ein</value>
+  </data>
+  <data name="RoleUpdated.Error">
+    <value>Die Gruppe konnte nicht aktualisiert werden, bitte versuchen Sie es später erneut.</value>
+  </data>
+  <data name="RoleUpdated.Message">
+    <value>Die Gruppe wurde aktualisiert.</value>
+  </data>
+  <data name="securityModeListLabel.Help">
+    <value>Wählen Sie den Typ der Gruppe</value>
+  </data>
+  <data name="statusListLabel.Help">
+    <value>Wählen Sie den Statuts der Gruppe.</value>
+  </data>
+  <data name="RoleGroupUpdated.Error">
+    <value>Die Hauptgruppe konnte nicht aktualisiert werden, bitte versuchen Sie es später erneut.</value>
+  </data>
+  <data name="RoleGroupUpdated.Message">
+    <value>Die Hauptgruppe wurde aktualisiert.</value>
+  </data>
+  <data name="AutoAssignment.Help">
+    <value>Aktivieren Sie diese Option, wenn neue Benutzer dieser Gruppe automatisch zugeordnet werden sollen.</value>
+  </data>
+  <data name="GroupDescription.Help">
+    <value>Geben Sie eine Beschreibung der Hauptgruppe an.</value>
+  </data>
+  <data name="GroupDescription.Text">
+    <value>Beschreibung</value>
+  </data>
+  <data name="GroupName.Help">
+    <value>Geben Sie den Namen der Hauptgruppe an.</value>
+  </data>
+  <data name="PermissionsByRole.Text">
+    <value>Gruppenmitglieder</value>
+  </data>
+  <data name="SendEmail.Text">
+    <value>E-Mail versenden</value>
+  </data>
+  <data name="isOwner.Text">
+    <value>ist Besitzer</value>
+  </data>
+  <data name="InSufficientPermissions.Text">
+    <value>Sie sind nicht berechtigt, diese Aktion auszuführen.</value>
+  </data>
+  <data name="UserNotFound.Text">
+    <value>Benutzer nicht gefunden</value>
+  </data>
+  <data name="InvalidRequest.Text">
+    <value>Ungültige Anfrage.</value>
+  </data>
+  <data name="SecurityRoleDeleteNotAllowed.Text">
+    <value>Systemgruppen können nicht gelöscht werden</value>
+  </data>
+  <data name="CannotAssginUserToUnApprovedRole.Text">
+    <value>Sie können den Benutzer nicht zu einer unbestätigten Gruppe hinzufügen.</value>
+  </data>
+  <data name="EditRole.Text">
+    <value>Gruppe bearbeiten</value>
+  </data>
+  <data name="UsersInRole.Text">
+    <value>Gruppenmitglieder</value>
+  </data>
+  <data name="plRSVPCode.Help">
+    <value>Geben Sie eine RSVP-Code für die Benutzergruppe an. Damit können Benutzer sich selbst in die Gruppe eintragen, indem Sie den Code in Ihrem Benutzerprofil eingeben..</value>
+  </data>
+  <data name="plRSVPCode.Text">
+    <value>RSVP-Code</value>
+  </data>
+  <data name="plRSVPLink.Help">
+    <value>Wenn ein RSVP-Code eingetragen wurde, wird ein Link angezeigt, mit dem sich die Benutzer selbst in die Gruppe eintragen können.</value>
+  </data>
+  <data name="plRSVPLink.Text">
+    <value>RSVP-Link</value>
+  </data>
+  <data name="Prompt_DeleteRole_Description.Text">
+    <value>Löscht die Benutzergruppe unwiderruflich. Sie können die vordefinierten Gruppen Administrators, RegisteredUsers, Subscribers, oder UnverifiedUser. &lt;small&gt;&lt;strong class="text-danger"&gt;Achtung: Diese Aktion ist endgültig und kann nicht widerrufen werden.&lt;/strong&gt;&lt;/small&gt;</value>
+  </data>
+  <data name="Prompt_DeleteRole_FlagId.Text">
+    <value>Die RoleID der zu löschenden Benutzergruppe. Dies ist eine Pflichtangabe, Sie müssen &lt;span class="mono"&gt;--id&lt;/span&gt; jedoch nicht mit angeben, sondern können den Wert einfach direkt nach dem Befehlsnamen aufführen.</value>
+  </data>
+  <data name="Prompt_DeleteRole_ResultHtml.Text">
+    <value>&lt;h4&gt;Löscht eine Benutzergruppe endgültig&lt;/h4&gt;
+  &lt;code class="block"&gt;
+    delete-role 11
+  &lt;/code&gt;
+
+  &lt;h4&gt;Ergebnis&lt;/h4&gt;
+  &lt;table class="command-result-tbl"&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Successfully deleted role 'Public' (11)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/table&gt;</value>
+  </data>
+  <data name="Prompt_FlagEmpty.Text">
+    <value>--{0} darf nicht leer sein.</value>
+  </data>
+  <data name="Prompt_GetRole_Description.Text">
+    <value>Ruft die Details der angegebenen Benutzergruppe ab.</value>
+  </data>
+  <data name="Prompt_GetRole_FlagId.Text">
+    <value>Die RoleID der Benutzergruppe. Dies ist eine Pflichtangabe, Sie müssen &lt;span class="mono"&gt;--id&lt;/span&gt; jedoch nicht mit angeben, sondern können den Wert einfach direkt nach dem Befehlsnamen aufführen.</value>
+  </data>
+  <data name="Prompt_GetRole_ResultHtml.Text">
+    <value>&lt;h4&gt;Eine Beutzergruppe anzeigen&lt;/h4&gt;
+  &lt;code class="block"&gt;
+    get-role 11
+  &lt;/code&gt;
+
+  &lt;h4&gt;Ergebnis&lt;/h4&gt;
+  &lt;table class="command-result-tbl"&gt;
+    &lt;tr&gt;
+      &lt;td&gt;RoleId&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;11&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;RoleGroupId&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;-1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;RoleName&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;Public&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Description&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;Role for all users&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;IsPublic&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;true&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;AutoAssign&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;true&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;UserCount&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;CreatedDate&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;2016-12-31T14:53:44.033&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;CreatedBy&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;ModifiedDate&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;2017-01-02T08:07:39.233&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;ModifiedBy&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td colspan="3"&gt;1 role found&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/table&gt;</value>
+  </data>
+  <data name="Prompt_InvalidRoleStatus.Text">
+    <value>Ungültiger Wert für --{0} übergeben.. Zulässig sind 'pending', 'approved' oder 'disabled'</value>
+  </data>
+  <data name="Prompt_ListRoles_Description.Text">
+    <value>Ruft eine Liste der Benutzergruppen der Website ab.</value>
+  </data>
+  <data name="Prompt_ListRoles_FlagMax.Text">
+    <value>Anzahl der Datensätze je Seite, max. 500.</value>
+  </data>
+  <data name="Prompt_ListRoles_FlagPage.Text">
+    <value>Anzuzeigende Ergebnis-Seite </value>
+  </data>
+  <data name="Prompt_ListRoles_ResultHtml.Text">
+    <value>&lt;div&gt;
+        &lt;h4&gt;Liste der Benutzergruppen der Website abrufen&lt;/h4&gt;
+        &lt;code class="block"&gt;
+            list-roles
+        &lt;/code&gt;
+        &lt;h4&gt;Ergebnisse&lt;/h4&gt;
+        &lt;table class="command-result-tbl"&gt;
+            &lt;thead&gt;
+                &lt;tr&gt;
+                    &lt;th&gt;RoleId&lt;/th&gt;
+                    &lt;th&gt;RoleGroupId&lt;/th&gt;
+                    &lt;th&gt;RoleName&lt;/th&gt;
+                    &lt;th&gt;Description&lt;/th&gt;
+                    &lt;th&gt;IsPublic&lt;/th&gt;
+                    &lt;th&gt;AutoAssign&lt;/th&gt;
+                    &lt;th&gt;UserCount&lt;/th&gt;
+                    &lt;th&gt;CreatedDate&lt;/th&gt;
+                &lt;/tr&gt;
+            &lt;/thead&gt;
+            &lt;tbody&gt;
+                &lt;tr&gt;
+                    &lt;td&gt;0&lt;/td&gt;
+                    &lt;td&gt;-1&lt;/td&gt;
+                    &lt;td&gt;Administrators&lt;/td&gt;
+                    &lt;td&gt;Administratoren der  Website&lt;/td&gt;
+                    &lt;td&gt;false&lt;/td&gt;
+                    &lt;td&gt;false&lt;/td&gt;
+                    &lt;td&gt;1&lt;/td&gt;
+                    &lt;td&gt;2016-12-01T06:03:11.35&lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;td&gt;5&lt;/td&gt;
+                    &lt;td&gt;-1&lt;/td&gt;
+                    &lt;td&gt;Meine neue Gruppe&lt;/td&gt;
+                    &lt;td&gt;eine Testgruppe&lt;/td&gt;
+                    &lt;td&gt;false&lt;/td&gt;
+                    &lt;td&gt;false&lt;/td&gt;
+                    &lt;td&gt;0&lt;/td&gt;
+                    &lt;td&gt;2016-12-15T07:28:16.49&lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;td&gt;1&lt;/td&gt;
+                    &lt;td&gt;-1&lt;/td&gt;
+                    &lt;td&gt;Registered Users&lt;/td&gt;
+                    &lt;td&gt;Registered Users&lt;/td&gt;
+                    &lt;td&gt;false&lt;/td&gt;
+                    &lt;td&gt;true&lt;/td&gt;
+                    &lt;td&gt;5&lt;/td&gt;
+                    &lt;td&gt;2016-12-01T06:03:11.357&lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;td&gt;2&lt;/td&gt;
+                    &lt;td&gt;-1&lt;/td&gt;
+                    &lt;td&gt;Subscribers&lt;/td&gt;
+                    &lt;td&gt;A public role for site subscriptions&lt;/td&gt;
+                    &lt;td&gt;true&lt;/td&gt;
+                    &lt;td&gt;true&lt;/td&gt;
+                    &lt;td&gt;5&lt;/td&gt;
+                    &lt;td&gt;2016-12-01T06:03:11.39&lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;td&gt;3&lt;/td&gt;
+                    &lt;td&gt;-1&lt;/td&gt;
+                    &lt;td&gt;Translator (en-US)&lt;/td&gt;
+                    &lt;td&gt;A role for English (United States) translators&lt;/td&gt;
+                    &lt;td&gt;false&lt;/td&gt;
+                    &lt;td&gt;false&lt;/td&gt;
+                    &lt;td&gt;0&lt;/td&gt;
+                    &lt;td&gt;2016-12-01T06:03:11.39&lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;td&gt;4&lt;/td&gt;
+                    &lt;td&gt;-1&lt;/td&gt;
+                    &lt;td&gt;Unverified Users&lt;/td&gt;
+                    &lt;td&gt;Unverified Users&lt;/td&gt;
+                    &lt;td&gt;false&lt;/td&gt;
+                    &lt;td&gt;false&lt;/td&gt;
+                    &lt;td&gt;0&lt;/td&gt;
+                    &lt;td&gt;2016-12-01T06:03:11.393&lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/tbody&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;</value>
+  </data>
+  <data name="Prompt_ListRolesFailed.Text">
+    <value>Die Benutzergruppen konnten nicht angezeigt werden.</value>
+  </data>
+  <data name="Prompt_NewRole_Description.Text">
+    <value>Erstellt eine neue Benutzergruppe für die Website.</value>
+  </data>
+  <data name="Prompt_NewRole_FlagAutoAssign.Text">
+    <value>Wenn der Wert "true" ist, wird die Gruppe allen bestehenden und neuen Benutzern der Website zugeordnet.</value>
+  </data>
+  <data name="Prompt_NewRole_FlagDescription.Text">
+    <value>Die Beschreibung der Benutzergruppe.</value>
+  </data>
+  <data name="Prompt_NewRole_FlagIsPublic.Text">
+    <value>Wenn der Wert "true" ist, wird die Gruppe den Benutzern angezeigt und sie können sich selbst eintragen.</value>
+  </data>
+  <data name="Prompt_NewRole_FlagRoleName.Text">
+    <value>Die Bezeichnung der Benutzergruppe bzw. sozialen Gruppe. Dies ist eine Pflichtangabe, Sie müssen &lt;span class="mono"&gt;--name&lt;/span&gt; jedoch nicht mit angeben, sondern können den Wert einfach direkt nach dem Befehlsnamen aufführen.</value>
+  </data>
+  <data name="Prompt_NewRole_FlagStatus.Text">
+    <value>Status der Benutzergruppe, mögliche Werte sind "approved", "pending" und "disabled".</value>
+  </data>
+  <data name="Prompt_NewRole_ResultHtml.Text">
+    <value>&lt;h4&gt;erstellt eine neue Benutzergruppe (minimale Syntax)&lt;/h4&gt;
+  &lt;code class="block"&gt;
+    new-role Gruppe1
+  &lt;/code&gt;
+  &lt;h4&gt;Ergebnis&lt;/h4&gt;
+  &lt;table class="command-result-tbl"&gt;
+    &lt;tr&gt;
+      &lt;td&gt;RoleId&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;RoleGroupId&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;-1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;RoleName&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;Gruppe1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Description&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;IsPublic&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;false&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;AutoAssign&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;false&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;UserCount&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;CreatedDate&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;2016-12-31T14:53:44.033&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td colspan="3"&gt;Role successfully created.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/table&gt;
+
+
+  &lt;h4&gt;Neue Benutzergruppe erstellen&lt;/h4&gt;
+  &lt;code class="block"&gt;
+    new-role "General Public" --description "Gruppe für alle Benutzer" --public true --autoassign true
+  &lt;/code&gt;
+  &lt;h4&gt;Ergebnis&lt;/h4&gt;
+  &lt;table class="command-result-tbl"&gt;
+    &lt;tr&gt;
+      &lt;td&gt;RoleId&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;RoleGroupId&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;-1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;RoleName&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;General Public&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Description&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;Gruppe für alle Benutzer&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;IsPublic&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;true&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;AutoAssign&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;true&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;UserCount&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;CreatedDate&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;2016-12-31T15:06:02.563&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td colspan="3"&gt;Role successfully created.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/table&gt;</value>
+  </data>
+  <data name="Prompt_NoRoles.Text">
+    <value>Es gibt keine Benutzergruppen.</value>
+  </data>
+  <data name="Prompt_NoRoleWithId.Text">
+    <value>Es gibt keine Benutzergruppe mit der RoleID {0}</value>
+  </data>
+  <data name="Prompt_NothingToUpdate.Text">
+    <value>Nichts zu aktualisieren!</value>
+  </data>
+  <data name="Prompt_RoleIdIsRequired.Text">
+    <value>Sie müssen eine gültige  RoleID entweder als ersten Parameter oder nach der Option --id angeben.</value>
+  </data>
+  <data name="Prompt_RoleIdNegative.Text">
+    <value>Der Wert der RoleID darf nicht negativ sein.</value>
+  </data>
+  <data name="Prompt_RoleIdNotInt.Text">
+    <value>Die RoleID muss eine ganze Zahl sein.</value>
+  </data>
+  <data name="Prompt_RoleNameRequired.Text">
+    <value>Die müssen den Namen der Benutzergruppe entweder als ersten Parameter nach dem Befehlsnamen oder über die Option --{0} angeben. Namen mit Leer- und Sonderzeichen sind in doppelte Anführungszeichen einzuschließen.</value>
+  </data>
+  <data name="Prompt_RolesCategory.Text">
+    <value>Befehle für Benutzergruppen</value>
+  </data>
+  <data name="Prompt_SetRole_Description.Text">
+    <value>Legt die Eigenschaften einer Benutzergruppe fest, Ggf. bestehende Eigenschaften werden überschrieben..</value>
+  </data>
+  <data name="Prompt_SetRole_FlagAutoAssign.Text">
+    <value>Wenn der Wert "true" ist, wird die Gruppe allen bestehenden und neuen Benutzern der Website zugeordnet</value>
+  </data>
+  <data name="Prompt_SetRole_FlagDescription.Text">
+    <value>Die Beschreibung der Benutzergrppe.</value>
+  </data>
+  <data name="Prompt_SetRole_FlagId.Text">
+    <value>Die RoleID der Benutzergruppe. Dies ist eine Pflichtangabe, Sie müssen &lt;span class="mono"&gt;--id&lt;/span&gt; jedoch nicht mit angeben, sondern können den Wert einfach direkt nach dem Befehlsnamen aufführen..</value>
+  </data>
+  <data name="Prompt_SetRole_FlagIsPublic.Text">
+    <value>Wenn der Wert "true" ist, wird die Gruppe den Benutzern angezeigt und sie können sich selbst eintragen.</value>
+  </data>
+  <data name="Prompt_SetRole_FlagRoleName.Text">
+    <value>Die Bezeichnung der Benutzergruppe.</value>
+  </data>
+  <data name="Prompt_SetRole_FlagStatus.Text">
+    <value>Status der Benutzergruppe, mögliche Werte sind "approved", "pending" und "disabled".</value>
+  </data>
+  <data name="Prompt_SetRole_ResultHtml.Text">
+    <value>&lt;h4&gt;Benutzergruppe aktualisieren&lt;/h4&gt;
+  &lt;code class="block"&gt;
+    set-role 10 --name Public
+  &lt;/code&gt;
+
+  &lt;h4&gt;Ergebnis&lt;/h4&gt;
+  &lt;table class="command-result-tbl"&gt;
+    &lt;tr&gt;
+      &lt;td&gt;RoleId&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;RoleGroupId&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;-1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;RoleName&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;Public&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Description&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;Role for all users&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;IsPublic&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;true&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;AutoAssign&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;true&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;UserCount&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;CreatedDate&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;2016-12-31T14:53:44.033&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td colspan="3"&gt;Role successfully created.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/table&gt;</value>
+  </data>
+  <data name="Prompt_UnableToParseBool.Text">
+    <value>Der Wert  '{1}' der Option --{0} konnte nicht gelesen werden, gültige Werte sind "True" oder "False".</value>
+  </data>
+  <data name="RoleUpdated.SystemRoleError">
+    <value>System-Gruppen können nicht bearbeitet werden.</value>
+  </data>
+</root>
