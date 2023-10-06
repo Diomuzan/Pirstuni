@@ -1,0 +1,15 @@
+C:\Projects\Pirstuni\bin\Debug\net8.0\Pirstuni.exe
+C:\Projects\Pirstuni\bin\Debug\net8.0\Pirstuni.deps.json
+C:\Projects\Pirstuni\bin\Debug\net8.0\Pirstuni.runtimeconfig.json
+C:\Projects\Pirstuni\bin\Debug\net8.0\Pirstuni.dll
+C:\Projects\Pirstuni\bin\Debug\net8.0\Pirstuni.pdb
+C:\Projects\Pirstuni\obj\Debug\net8.0\Pirstuni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Pirstuni\obj\Debug\net8.0\Pirstuni.AssemblyInfoInputs.cache
+C:\Projects\Pirstuni\obj\Debug\net8.0\Pirstuni.AssemblyInfo.cs
+C:\Projects\Pirstuni\obj\Debug\net8.0\Pirstuni.csproj.CoreCompileInputs.cache
+C:\Projects\Pirstuni\obj\Debug\net8.0\Pirstuni.sourcelink.json
+C:\Projects\Pirstuni\obj\Debug\net8.0\Pirstuni.dll
+C:\Projects\Pirstuni\obj\Debug\net8.0\refint\Pirstuni.dll
+C:\Projects\Pirstuni\obj\Debug\net8.0\Pirstuni.pdb
+C:\Projects\Pirstuni\obj\Debug\net8.0\Pirstuni.genruntimeconfig.cache
+C:\Projects\Pirstuni\obj\Debug\net8.0\ref\Pirstuni.dll

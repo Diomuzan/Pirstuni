@@ -1,2 +1,2 @@
 # Pirstuni
-Pirstuni is a project in which I test with installing the DNN Platform in a project. 
+Pirstuni is a C# and lastly a .NET console app about pallets.
